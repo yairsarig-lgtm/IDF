@@ -1,5 +1,5 @@
 {
-  "name": "צה\"ל | קסם לקוסמים צבאיים מאת יאיר שריג",
+  "name": "צה\"ל | רוטינה לקוסמים צבאיים מאת יאיר שריג",
   "short_name": "צה\"ל",
   "lang": "he",
   "dir": "rtl",
@@ -9,6 +9,16 @@
   "background_color": "#060b18",
   "theme_color": "#060b18",
   "icons": [
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }

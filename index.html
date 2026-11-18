@@ -10,10 +10,10 @@
 <meta name="application-name" content="צה&quot;ל">
 <meta name="theme-color" content="#060b18">
 <meta name="robots" content="noindex,nofollow">
-<link rel="icon" type="image/svg+xml" href="icon.svg">
-<link rel="apple-touch-icon" href="icon.svg">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="manifest.webmanifest">
-<title>צה"ל | קסם לקוסמים צבאיים מאת יאיר שריג</title>
+<title>צה"ל | רוטינה לקוסמים צבאיים מאת יאיר שריג</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800&display=swap">
 <style>
 /* Two screens. Setup = performer-only settings. Show = full-screen swipe stage, one photo per screen, name above it. */
@@ -34,10 +34,10 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
 /* ---------- Setup ---------- */
 #setup{min-height:100%;display:flex;justify-content:center;padding:calc(24px + env(safe-area-inset-top,0px)) 18px calc(28px + env(safe-area-inset-bottom,0px))}
 .col{width:min(600px,100%);display:grid;gap:18px;align-content:start}
-.brand{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-.brand i{width:2px;height:2.2rem;background:var(--line);flex:none}
-.brand h1{margin:0;font-weight:800;font-size:2.6rem;line-height:1;letter-spacing:.02em}
-.brand span{color:var(--ink);font-size:1.15rem;font-weight:600}
+.brand{display:flex;align-items:center;gap:clamp(7px,2.4vw,14px);flex-wrap:nowrap;white-space:nowrap}
+.brand i{width:2px;height:clamp(1.3rem,6vw,2.2rem);background:var(--line);flex:none}
+.brand h1{margin:0;font-weight:800;font-size:clamp(1.35rem,6.4vw,2.6rem);line-height:1;letter-spacing:.02em}
+.brand span{color:var(--ink);font-size:clamp(.72rem,3.45vw,1.15rem);font-weight:600}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px;display:grid;gap:14px}
 .panel h2{margin:0;font-size:1rem;font-weight:600;color:var(--muted)}
 .trio{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
@@ -71,13 +71,15 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
 /* ---------- Splash ---------- */
 #splash{min-height:100%;display:grid;place-items:center;padding:calc(24px + env(safe-area-inset-top,0px)) 18px calc(28px + env(safe-area-inset-bottom,0px));
   background:radial-gradient(120% 90% at 50% 0%,#17306b 0%,#0a1433 45%,#050914 100%)}
-.splash-in{display:grid;justify-items:center;gap:10px;text-align:center;width:min(520px,100%)}
-.emblem{width:min(56vw,280px);aspect-ratio:1;display:grid;place-items:center;margin-bottom:10px}
-.emblem img,.emblem svg{width:100%;height:100%;object-fit:contain;display:block;filter:drop-shadow(0 18px 40px rgba(0,0,0,.5))}
-.splash-in h1{margin:0;font-weight:800;font-size:clamp(3.2rem,12vmin,5.5rem);line-height:1;letter-spacing:.03em}
-.splash-in .sub{margin:0;font-size:clamp(1.2rem,4.2vmin,1.7rem);font-weight:600}
-.splash-in .by{margin:0 0 18px;color:var(--muted);font-size:clamp(1rem,3.4vmin,1.2rem)}
-.splash-in .btn{min-width:220px;font-size:1.25rem;padding:16px 28px}
+.splash-in{display:grid;justify-items:center;text-align:center;width:min(520px,100%)}
+.emblem{position:relative;width:min(62vw,300px);aspect-ratio:1;margin-bottom:clamp(22px,5vh,40px)}
+.emblem img{position:absolute;inset:7%;width:86%;height:86%;border-radius:50%;object-fit:cover;display:block;
+  box-shadow:0 0 0 2px rgba(255,255,255,.14),0 0 0 9px rgba(77,141,255,.10),0 24px 60px rgba(0,0,0,.55)}
+.emblem .stars{position:absolute;inset:-8%;width:116%;height:116%;fill:var(--gold);pointer-events:none}
+.splash-in .sub{margin:0;font-size:clamp(1.55rem,6.4vw,2.3rem);font-weight:800;line-height:1.15;letter-spacing:.01em}
+.splash-in .rule{width:56px;height:2px;border-radius:2px;background:var(--gold);margin:14px 0 12px;opacity:.85}
+.splash-in .by{margin:0;color:#c9d2e6;font-size:clamp(1.05rem,4.2vw,1.35rem);font-weight:400}
+.splash-in .btn{min-width:230px;font-size:1.25rem;padding:16px 28px;margin-top:clamp(34px,8vh,64px)}
 .how{margin:0;padding-inline-start:1.3em;display:grid;gap:8px;font-size:.95rem}
 .how b{color:var(--gold);font-weight:600}
 
@@ -116,20 +118,18 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
 
 <div id="splash">
   <div class="splash-in">
-    <div class="emblem" id="emblem">
-      <img src="splash.png" alt="" id="emblemImg">
-      <svg id="emblemSvg" hidden viewBox="0 0 200 200" aria-hidden="true">
-        <circle cx="100" cy="104" r="84" fill="#101a30" stroke="#26345a" stroke-width="2"/>
-        <ellipse cx="100" cy="136" rx="62" ry="12" fill="#0b0f1c"/>
-        <path d="M62 136 L68 62 Q100 50 132 62 L138 136 Q100 148 62 136Z" fill="#0b0f1c"/>
-        <path d="M65 112 Q100 124 135 112 L136 126 Q100 138 64 126Z" fill="#4d8dff"/>
-        <ellipse cx="100" cy="62" rx="32" ry="8" fill="#18243f"/>
-        <path d="M146 46 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" fill="#e8b84a"/>
-        <path d="M50 74 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z" fill="#e8b84a" opacity=".8"/>
+    <div class="emblem">
+      <svg class="stars" viewBox="0 0 300 300" aria-hidden="true">
+        <path d="M262 46 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5z"/>
+        <path d="M30 92 l3.5 9 9 3.5 -9 3.5 -3.5 9 -3.5 -9 -9 -3.5 9 -3.5z" opacity=".8"/>
+        <path d="M276 214 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" opacity=".7"/>
+        <path d="M22 232 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" opacity=".9"/>
+        <circle cx="236" cy="18" r="2.5" opacity=".7"/><circle cx="58" cy="30" r="2" opacity=".6"/><circle cx="286" cy="130" r="2" opacity=".6"/><circle cx="10" cy="160" r="2.5" opacity=".7"/><circle cx="248" cy="276" r="2" opacity=".6"/>
       </svg>
+      <img src="splash.png" alt="צבא ההגנה לישראל">
     </div>
-    <h1>צה"ל</h1>
     <p class="sub">רוטינה לקוסמים צבאיים</p>
+    <div class="rule"></div>
     <p class="by">מאת יאיר שריג</p>
     <button class="btn go" id="enter" type="button">התחל</button>
   </div>
@@ -137,7 +137,7 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
 
 <div id="setup" hidden>
   <div class="col">
-    <div class="brand"><h1>צה"ל</h1><i></i><span>קסם לקוסמים צבאיים מאת יאיר שריג</span></div>
+    <div class="brand"><h1>צה"ל</h1><i></i><span>רוטינה לקוסמים צבאיים מאת יאיר שריג</span></div>
     <p class="hint">הגדרות לפני ההופעה. הקהל לא רואה את המסך הזה.</p>
 
     <div class="panel">
@@ -430,10 +430,6 @@ $('offline').onclick=async()=>{
 };
 
 /* ---------- boot ---------- */
-const emblemImg=$('emblemImg');
-const noEmblem=()=>{emblemImg.hidden=true;$('emblemSvg').removeAttribute('hidden')};
-emblemImg.onerror=noEmblem;
-if(emblemImg.complete&&!emblemImg.naturalWidth)noEmblem(); // it may have failed before this script ran
 $('enter').onclick=()=>{$('splash').hidden=true;$('setup').hidden=false;window.scrollTo(0,0)};
 renderSetup();
 fetch('images/manifest.json',{cache:'no-cache'}).then(r=>r.ok?r.json():[]).then(a=>{HAVE=new Set(Array.isArray(a)?a:[]);renderSetup()}).catch(()=>{});
