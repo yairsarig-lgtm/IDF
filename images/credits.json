@@ -1,0 +1,2612 @@
+{
+ "t001": {
+  "name": "בייגל",
+  "file": "Bagel_with_sesame_3.jpg",
+  "from": "he.wikipedia.org/wiki/כעך"
+ },
+ "t002": {
+  "name": "בייגלה",
+  "file": "Brezel_l_Bäckerei-Raisch.jpg",
+  "from": "he.wikipedia.org/wiki/בייגלה"
+ },
+ "t003": {
+  "name": "פיתה",
+  "file": "Pita_From_Greece.jpg",
+  "from": "he.wikipedia.org/wiki/פיתה"
+ },
+ "t004": {
+  "name": "לאפה",
+  "file": "Lch_(20).JPEG",
+  "from": "he.wikipedia.org/wiki/לאפה"
+ },
+ "t005": {
+  "name": "פלאפל",
+  "file": "Falafel_beim_Isarinselfest_München_2.jpg",
+  "from": "he.wikipedia.org/wiki/פלאפל"
+ },
+ "t006": {
+  "name": "מנת שווארמה",
+  "file": "Doner_kebap_Istanbul_20071026.JPG",
+  "from": "he.wikipedia.org/wiki/שווארמה"
+ },
+ "t007": {
+  "name": "סביח",
+  "file": "Sabich.jpg",
+  "from": "he.wikipedia.org/wiki/סביח"
+ },
+ "t008": {
+  "name": "צלחת חומוס",
+  "file": "Hummus_from_The_Nile.jpg",
+  "from": "he.wikipedia.org/wiki/חומוס"
+ },
+ "t009": {
+  "name": "טחינה",
+  "file": "Susamdan_tahin_üretimi_2022.jpg",
+  "from": "he.wikipedia.org/wiki/טחינה"
+ },
+ "t010": {
+  "name": "שקשוקה",
+  "file": "PikiWiki_Israel_62597_shakshuka_beet.jpg",
+  "from": "he.wikipedia.org/wiki/שקשוקה"
+ },
+ "t011": {
+  "name": "בורקס גבינה",
+  "file": "Bourekas.jpg",
+  "from": "he.wikipedia.org/wiki/בורקס"
+ },
+ "t012": {
+  "name": "בורקס תפוחי אדמה",
+  "file": "Bourekas.jpg",
+  "from": "he.wikipedia.org/wiki/בורקס"
+ },
+ "t013": {
+  "name": "ג'חנון",
+  "file": "Jachnun.jpg",
+  "from": "he.wikipedia.org/wiki/ג'חנון"
+ },
+ "t014": {
+  "name": "מלאווח",
+  "file": "Malawach.jpg",
+  "from": "he.wikipedia.org/wiki/מלאווח"
+ },
+ "t015": {
+  "name": "קובנה",
+  "file": "Kauno_senamiestis_by_Augustas_Didzgalvis.jpg",
+  "from": "he.wikipedia.org/wiki/קובנה"
+ },
+ "t016": {
+  "name": "חלה",
+  "file": "הרב_דוד_צדקה_במאפיית_מצות_יהודה_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/חלה_(מתנות_כהונה)"
+ },
+ "t017": {
+  "name": "לחם אחיד",
+  "file": "Assorted_bread.jpg",
+  "from": "he.wikipedia.org/wiki/לחם"
+ },
+ "t018": {
+  "name": "פרנה",
+  "file": "Universidade_Federal_do_Parana_3_Curitiba_Parana.jpg",
+  "from": "he.wikipedia.org/wiki/פרנה_(מדינה)"
+ },
+ "t019": {
+  "name": "סמבוסק",
+  "file": "PikiWiki_Israel_18628_People_of_Israel.jpg",
+  "from": "he.wikipedia.org/wiki/סמבוסק"
+ },
+ "t020": {
+  "name": "מלבי",
+  "file": "Mahalebi.jpg",
+  "from": "he.wikipedia.org/wiki/מלבי"
+ },
+ "t021": {
+  "name": "כנאפה",
+  "file": "Knafeh.jpg",
+  "from": "he.wikipedia.org/wiki/כנאפה"
+ },
+ "t022": {
+  "name": "בקלאווה",
+  "file": "Şöbiyet,_Baklava_and_Kadayıf.jpg",
+  "from": "he.wikipedia.org/wiki/בקלווה"
+ },
+ "t023": {
+  "name": "רוגלך",
+  "file": "ChocolateRugelach.JPG",
+  "from": "he.wikipedia.org/wiki/רוגלך"
+ },
+ "t024": {
+  "name": "סופגנייה",
+  "file": "Classic_Hanukkah_sufganiyot.JPG",
+  "from": "he.wikipedia.org/wiki/סופגנייה"
+ },
+ "t025": {
+  "name": "אוזן המן",
+  "file": "Hamantashen_NOLA_3.JPG",
+  "from": "he.wikipedia.org/wiki/אוזן_המן"
+ },
+ "t026": {
+  "name": "עוגת שמרים",
+  "file": "Chorley_cakes_edited.jpg",
+  "from": "he.wikipedia.org/wiki/עוגת_בנבורי"
+ },
+ "t027": {
+  "name": "קרמבו",
+  "file": "Choco_kiss.png",
+  "from": "he.wikipedia.org/wiki/קרמבו"
+ },
+ "t028": {
+  "name": "מצה",
+  "file": "3matzot.jpg",
+  "from": "he.wikipedia.org/wiki/מצה"
+ },
+ "t029": {
+  "name": "שניצל",
+  "file": "Wiener-Schnitzel02.jpg",
+  "from": "he.wikipedia.org/wiki/שניצל"
+ },
+ "t030": {
+  "name": "שניצל תירס",
+  "file": "שניצל_תירס.png",
+  "from": "he.wikipedia.org/wiki/שניצל_תירס"
+ },
+ "t031": {
+  "name": "מג'דרה",
+  "file": "Mujaddara.jpg",
+  "from": "he.wikipedia.org/wiki/מג'דרה"
+ },
+ "t032": {
+  "name": "קוסקוס",
+  "file": "Couscous.jpeg",
+  "from": "he.wikipedia.org/wiki/קוסקוס"
+ },
+ "t033": {
+  "name": "חמין",
+  "file": "Chamin.jpg",
+  "from": "he.wikipedia.org/wiki/חמין"
+ },
+ "t034": {
+  "name": "מרק עוף",
+  "file": "Chicken_Noodle_Soup.jpg",
+  "from": "he.wikipedia.org/wiki/מרק_עוף"
+ },
+ "t035": {
+  "name": "קניידלך",
+  "file": "MatzahBalls.jpg",
+  "from": "he.wikipedia.org/wiki/קניידלך"
+ },
+ "t036": {
+  "name": "גפילטע פיש",
+  "file": "Gefilte_fish_-_step_20_(Anschnitt_3).JPG",
+  "from": "he.wikipedia.org/wiki/געפילטע_פיש"
+ },
+ "t037": {
+  "name": "קוגל ירושלמי",
+  "file": "Kugel-Yerushalmi03.jpg",
+  "from": "he.wikipedia.org/wiki/קוגל_ירושלמי"
+ },
+ "t038": {
+  "name": "כבד קצוץ",
+  "file": "ChoppedLiver.jpg",
+  "from": "he.wikipedia.org/wiki/כבד_קצוץ"
+ },
+ "t039": {
+  "name": "סלט ישראלי",
+  "file": "Salad.jpg",
+  "from": "he.wikipedia.org/wiki/סלט_ירקות_ישראלי"
+ },
+ "t040": {
+  "name": "סלט חצילים",
+  "file": "Bandol_&_Caviar_d'Aubergine.JPG",
+  "from": "he.wikipedia.org/wiki/סלט_חצילים"
+ },
+ "t041": {
+  "name": "מטבוחה",
+  "file": "2008_04_23_-_Laurel_-_Sauce.JPG",
+  "from": "he.wikipedia.org/wiki/מטבוחה"
+ },
+ "t042": {
+  "name": "סחוג",
+  "file": "Zhug,_Skhug.jpg",
+  "from": "he.wikipedia.org/wiki/זחוק"
+ },
+ "t043": {
+  "name": "עמבה",
+  "file": "Amba.jpg",
+  "from": "he.wikipedia.org/wiki/עמבה"
+ },
+ "t044": {
+  "name": "חמוצים",
+  "file": "Polish_style_pickled_cucumbers_IMGP0529.jpg",
+  "from": "he.wikipedia.org/wiki/החמצה"
+ },
+ "t045": {
+  "name": "לבנה",
+  "file": "Labneh01.jpg",
+  "from": "he.wikipedia.org/wiki/לבנה_(גבינה)"
+ },
+ "t046": {
+  "name": "פסטלים",
+  "file": "Pastellkreide_1.jpg",
+  "from": "he.wikipedia.org/wiki/פסטל"
+ },
+ "t047": {
+  "name": "קובה",
+  "file": "Kibbeh3.jpg",
+  "from": "he.wikipedia.org/wiki/קובה_(מאכל)"
+ },
+ "t048": {
+  "name": "מרק קובה אדום",
+  "file": "02.Trinidad_(59).JPG",
+  "from": "he.wikipedia.org/wiki/קובה"
+ },
+ "t049": {
+  "name": "עלי גפן ממולאים",
+  "file": "Vişneli_Yaprak_Sarma.jpg",
+  "from": "he.wikipedia.org/wiki/סרמה"
+ },
+ "t050": {
+  "name": "שישליק",
+  "file": "Shashlik.jpg",
+  "from": "he.wikipedia.org/wiki/שישליק"
+ },
+ "t051": {
+  "name": "קבב",
+  "file": "Lula_kebab_2.jpg",
+  "from": "he.wikipedia.org/wiki/קבב"
+ },
+ "t052": {
+  "name": "פרגית על האש",
+  "file": "EliezerPrigat1973.png",
+  "from": "he.wikipedia.org/wiki/אליעזר_פריגת"
+ },
+ "t053": {
+  "name": "מעורב ירושלמי",
+  "file": "Maoravyerushalmi.jpeg",
+  "from": "he.wikipedia.org/wiki/מעורב_ירושלמי"
+ },
+ "t054": {
+  "name": "פתיתים",
+  "file": "Israeli_couscous_(29307778818).jpg",
+  "from": "he.wikipedia.org/wiki/פתיתים"
+ },
+ "t055": {
+  "name": "עוגת שיש",
+  "file": "Marmorkuchen.jpg",
+  "from": "he.wikipedia.org/wiki/עוגת_שיש"
+ },
+ "t056": {
+  "name": "עוגיות טחינה",
+  "file": "Koekjestrommel_open.jpg",
+  "from": "he.wikipedia.org/wiki/עוגייה"
+ },
+ "t057": {
+  "name": "במבה",
+  "file": "Bamba_snack.jpg",
+  "from": "he.wikipedia.org/wiki/במבה"
+ },
+ "t058": {
+  "name": "ביסלי",
+  "file": "Bissli-בִּיסְלִי.jpg",
+  "from": "he.wikipedia.org/wiki/ביסלי"
+ },
+ "t059": {
+  "name": "אפרופו",
+  "file": "Bugles_brand_snack_food.jpg",
+  "from": "he.wikipedia.org/wiki/אפרופו"
+ },
+ "t060": {
+  "name": "דובונים",
+  "file": "Bamba_snack.jpg",
+  "from": "he.wikipedia.org/wiki/במבה"
+ },
+ "t061": {
+  "name": "תפוצ'יפס",
+  "file": "Potato-Chips.jpg",
+  "from": "he.wikipedia.org/wiki/חטיף_תפוחי_אדמה"
+ },
+ "t062": {
+  "name": "קליק",
+  "file": "קליק_לוגו_אנגלית_ועברית.png",
+  "from": "he.wikipedia.org/wiki/קליק_(מותג)"
+ },
+ "t063": {
+  "name": "פסק זמן",
+  "file": "פסק_זמן.jpg",
+  "from": "he.wikipedia.org/wiki/פסק_זמן_(ממתק)"
+ },
+ "t064": {
+  "name": "כיף כף",
+  "file": "Kif_Kef.jpg",
+  "from": "he.wikipedia.org/wiki/כיף_כף"
+ },
+ "t065": {
+  "name": "טעמי",
+  "file": "Elite-Taami-Split.jpg",
+  "from": "he.wikipedia.org/wiki/טעמי"
+ },
+ "t066": {
+  "name": "טורטית",
+  "file": "Tortit.jpg",
+  "from": "he.wikipedia.org/wiki/טורטית"
+ },
+ "t067": {
+  "name": "מקופלת",
+  "file": "Mekupelets.jpg",
+  "from": "he.wikipedia.org/wiki/מקופלת"
+ },
+ "t068": {
+  "name": "אגוזי",
+  "file": "Assorted_snacks.jpg",
+  "from": "he.wikipedia.org/wiki/חטיף"
+ },
+ "t069": {
+  "name": "שוקולד פרה",
+  "file": "Para.jpg",
+  "from": "he.wikipedia.org/wiki/שוקולד_פרה"
+ },
+ "t070": {
+  "name": "חלבה",
+  "file": "Chalwa02.jpg",
+  "from": "he.wikipedia.org/wiki/חלווה"
+ },
+ "t071": {
+  "name": "עוגיות פתי בר",
+  "file": "Sablés_au_parmesan_et_au_poivre_vert.jpg",
+  "from": "he.wikipedia.org/wiki/סאבלה"
+ },
+ "t072": {
+  "name": "עוגיות עבאדי",
+  "file": "Abady-Logo.png",
+  "from": "he.wikipedia.org/wiki/מאפיית_עבאדי"
+ },
+ "t073": {
+  "name": "שוקו בשקית",
+  "file": "Nina_staehli_paper_bag_paintings_6.JPG",
+  "from": "he.wikipedia.org/wiki/שקית"
+ },
+ "t074": {
+  "name": "חלב בשקית",
+  "file": "Milk_Bag.jpg",
+  "from": "he.wikipedia.org/wiki/שקית_חלב"
+ },
+ "t075": {
+  "name": "קוטג'",
+  "file": "Cottagecheese200px.jpg",
+  "from": "he.wikipedia.org/wiki/קוטג'_(גבינה)"
+ },
+ "t076": {
+  "name": "גבינה צפתית",
+  "file": "Safed_cheese.jpg",
+  "from": "he.wikipedia.org/wiki/גבינה_צפתית"
+ },
+ "t077": {
+  "name": "מעדן מילקי",
+  "file": "מילקי.png",
+  "from": "he.wikipedia.org/wiki/מילקי"
+ },
+ "t078": {
+  "name": "דני",
+  "file": "Danish_football_crest.png",
+  "from": "he.wikipedia.org/wiki/נבחרת_דנמרק_בכדורגל_עד_גיל_21"
+ },
+ "t079": {
+  "name": "אשל",
+  "file": "Різні_види_молочних_продуктів_українського_виробництва.jpg",
+  "from": "he.wikipedia.org/wiki/מוצרי_חלב"
+ },
+ "t080": {
+  "name": "קפה שחור",
+  "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
+  "from": "he.wikipedia.org/wiki/קפה_טורקי"
+ },
+ "t081": {
+  "name": "זעתר",
+  "file": "Closeup_image_of_za'atar,_a_blend_of_origanum_syriacum_(hyssop,_sumac,_sesame_seeds_and_salt.jpg",
+  "from": "he.wikipedia.org/wiki/זעתר"
+ },
+ "t082": {
+  "name": "סילאן",
+  "file": "Rub-libyan-syrup.JPG",
+  "from": "he.wikipedia.org/wiki/סילאן"
+ },
+ "t083": {
+  "name": "שקדי מרק",
+  "file": "Shkedeymarak.jpg",
+  "from": "he.wikipedia.org/wiki/שקדי_מרק"
+ },
+ "t084": {
+  "name": "מנה חמה",
+  "file": "מנה_חמה_נודלס_בקר.jpg",
+  "from": "he.wikipedia.org/wiki/מנה_חמה"
+ },
+ "t085": {
+  "name": "פטל",
+  "file": "Raspberry_juice_(3085446858).jpg",
+  "from": "he.wikipedia.org/wiki/מיץ_פטל_(משקה)"
+ },
+ "t086": {
+  "name": "ערק",
+  "file": "Gray513.png",
+  "from": "he.wikipedia.org/wiki/עורק_תרדמני"
+ },
+ "t087": {
+  "name": "מאלט שחור",
+  "file": "Malt_(bira_shchora).jpg",
+  "from": "he.wikipedia.org/wiki/מאלט_(משקה)"
+ },
+ "t088": {
+  "name": "ארטיק",
+  "file": "File:Patriotic Ice Pop (4685807904).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Patriotic_Ice_Pop_(4685807904).jpg"
+ },
+ "t089": {
+  "name": "שלגון",
+  "file": "Cucumber,_elderflower_and_mint_ice_pop_from_Nicepops_(18159920902).jpg",
+  "from": "he.wikipedia.org/wiki/שלגון"
+ },
+ "t090": {
+  "name": "קרטיב",
+  "file": "Cucumber,_elderflower_and_mint_ice_pop_from_Nicepops_(18159920902).jpg",
+  "from": "he.wikipedia.org/wiki/שלגון"
+ },
+ "t091": {
+  "name": "טילון",
+  "file": "CornettoFoto.jpg",
+  "from": "he.wikipedia.org/wiki/טילון"
+ },
+ "t092": {
+  "name": "קסטה",
+  "file": "IceCreamSandwich.jpg",
+  "from": "he.wikipedia.org/wiki/כריך_גלידה"
+ },
+ "t093": {
+  "name": "פומלה",
+  "file": "Pomelo_fruit.jpg",
+  "from": "he.wikipedia.org/wiki/פומלה"
+ },
+ "t094": {
+  "name": "אבטיח",
+  "file": "Watermelons.jpg",
+  "from": "he.wikipedia.org/wiki/אבטיח"
+ },
+ "t095": {
+  "name": "רימון",
+  "file": "Image2024-09-22_POMEGRANDE.jpg",
+  "from": "he.wikipedia.org/wiki/רימון_מצוי"
+ },
+ "t096": {
+  "name": "תמר",
+  "file": "نخلة_على_الشاطىء_الرملى.jpg",
+  "from": "he.wikipedia.org/wiki/תמר_מצוי"
+ },
+ "t097": {
+  "name": "סברס",
+  "file": "Israel_National_TrailDSCN4417.JPG",
+  "from": "he.wikipedia.org/wiki/צבר_מצוי"
+ },
+ "t098": {
+  "name": "אפרסמון",
+  "file": "Fuyu_Persimmon_(Diospyros_Kaki).jpg",
+  "from": "he.wikipedia.org/wiki/אפרסמון"
+ },
+ "t099": {
+  "name": "שסק",
+  "file": "Eriobotrya_japonica2.jpg",
+  "from": "he.wikipedia.org/wiki/שסק"
+ },
+ "t100": {
+  "name": "חרוב",
+  "file": "Ceratonia_siliqua,_total.jpg",
+  "from": "he.wikipedia.org/wiki/חרוב_מצוי"
+ },
+ "t101": {
+  "name": "גרעיני חמנייה",
+  "file": "Sunflower_Seeds_Kaldari.jpg",
+  "from": "he.wikipedia.org/wiki/גרעיני_חמנית"
+ },
+ "t102": {
+  "name": "גרעיני אבטיח",
+  "file": "Watermelons.jpg",
+  "from": "he.wikipedia.org/wiki/אבטיח"
+ },
+ "t103": {
+  "name": "סיר פויקה",
+  "file": "Poyke.JPG",
+  "from": "he.wikipedia.org/wiki/פויקה"
+ },
+ "t104": {
+  "name": "פינג'אן",
+  "file": "Turkish_coffee_(3327654906).jpg",
+  "from": "he.wikipedia.org/wiki/פינג'אן"
+ },
+ "t105": {
+  "name": "מיחם",
+  "file": "Meiham.jpg",
+  "from": "he.wikipedia.org/wiki/מחם"
+ },
+ "t106": {
+  "name": "פלטת שבת",
+  "file": "Shabbat_plata.JPG",
+  "from": "he.wikipedia.org/wiki/פלטת_שבת"
+ },
+ "t107": {
+  "name": "סודה סטרים",
+  "file": "SodaMachine.jpg",
+  "from": "he.wikipedia.org/wiki/סודהסטרים"
+ },
+ "t108": {
+  "name": "מנגל",
+  "file": "Barbecue.jpg",
+  "from": "he.wikipedia.org/wiki/מנגל"
+ },
+ "t109": {
+  "name": "שיפודים",
+  "file": "Bamboo_Skewers.jpg",
+  "from": "he.wikipedia.org/wiki/שיפוד"
+ },
+ "t110": {
+  "name": "מנפנף למנגל",
+  "file": "Barbecue.jpg",
+  "from": "he.wikipedia.org/wiki/מנגל"
+ },
+ "t111": {
+  "name": "גזייה",
+  "file": "Portable_stove.jpg",
+  "from": "he.wikipedia.org/wiki/גזייה"
+ },
+ "t112": {
+  "name": "נרות שבת",
+  "file": "Silver_Shabbat_Candlesticks_designed_by_Rabbi_Joseph-Meyer_Elefant_in_the_1950s.jpg",
+  "from": "he.wikipedia.org/wiki/נרות_שבת_ויום_טוב"
+ },
+ "t113": {
+  "name": "פמוטים",
+  "file": "Candlestick_in_natzeret_market.jpg",
+  "from": "he.wikipedia.org/wiki/פמוט"
+ },
+ "t114": {
+  "name": "גביע קידוש",
+  "file": "Friday_night_prayer._The_spirit_of_the_Ghetto.1902.jpg",
+  "from": "he.wikipedia.org/wiki/קידוש"
+ },
+ "t115": {
+  "name": "כיסוי חלה",
+  "file": "Shabbat_Challos.jpg",
+  "from": "he.wikipedia.org/wiki/כיסוי_החלות"
+ },
+ "t116": {
+  "name": "כיסא פלסטיק",
+  "file": "מפעל_כתר.jpg",
+  "from": "he.wikipedia.org/wiki/כתר_מוצרים_לבית_ולגינה"
+ },
+ "t117": {
+  "name": "תריס",
+  "file": "Fenster_mit_Läden_und_Rolladen.JPG",
+  "from": "he.wikipedia.org/wiki/תריס"
+ },
+ "t118": {
+  "name": "מזוזה",
+  "file": "Nożyk_Synagogue_in_Warsaw_mezuzah.JPG",
+  "from": "he.wikipedia.org/wiki/מזוזה"
+ },
+ "t119": {
+  "name": "מגב",
+  "file": "Rodo_comum.jpg",
+  "from": "he.wikipedia.org/wiki/מגב"
+ },
+ "t120": {
+  "name": "סמרטוט רצפה",
+  "file": "Janitor's_bucket_with_mop.jpg",
+  "from": "he.wikipedia.org/wiki/סמרטוט"
+ },
+ "t121": {
+  "name": "דוד שמש",
+  "file": "Solar_heater_dsc00632.jpg",
+  "from": "he.wikipedia.org/wiki/דוד_שמש"
+ },
+ "t122": {
+  "name": "קולט שמש",
+  "file": "Solar_heater_dsc00632.jpg",
+  "from": "he.wikipedia.org/wiki/דוד_שמש"
+ },
+ "t123": {
+  "name": "שעון שבת",
+  "file": "Shabbat_clock.JPG",
+  "from": "he.wikipedia.org/wiki/שעון_שבת"
+ },
+ "t124": {
+  "name": "נר נשמה",
+  "file": "US_Navy_070426-N-4965F-003_Six_memorial_candles_are_lit_during_a_Holocaust_Remembrance_Day_ceremony_at_Sharkey_Theater_on_board_Naval_Station_Pearl_Harbor.jpg",
+  "from": "he.wikipedia.org/wiki/נר_נשמה"
+ },
+ "t125": {
+  "name": "קופסת צדקה",
+  "file": "PikiWiki_Israel_14886_Blue_box.JPG",
+  "from": "he.wikipedia.org/wiki/הקופסה_הכחולה"
+ },
+ "t126": {
+  "name": "חמסה",
+  "file": "PikiWiki_Israel_36781_Architechture_and_Texture.JPG",
+  "from": "he.wikipedia.org/wiki/חמסה"
+ },
+ "t127": {
+  "name": "כובע טמבל",
+  "file": "State_of_Israel_Bonds_in_Glazen_Zaal_in_RAI,_opdracht_heer_Sijer,_Bestanddeelnr_927-2037.jpg",
+  "from": "he.wikipedia.org/wiki/כובע_טמבל"
+ },
+ "t128": {
+  "name": "כיפה",
+  "file": "PikiWiki_Israel_38772_Vacation_Experience.JPG",
+  "from": "he.wikipedia.org/wiki/כיפה_(יהדות)"
+ },
+ "t129": {
+  "name": "כיפה סרוגה",
+  "file": "PikiWiki_Israel_38772_Vacation_Experience.JPG",
+  "from": "he.wikipedia.org/wiki/כיפה_(יהדות)"
+ },
+ "t130": {
+  "name": "מטפחת ראש",
+  "file": "Bandana.jpg",
+  "from": "he.wikipedia.org/wiki/מטפחת_ראש"
+ },
+ "t131": {
+  "name": "כפכפי אצבע",
+  "file": "Havaianas.jpg",
+  "from": "he.wikipedia.org/wiki/כפכפים"
+ },
+ "t132": {
+  "name": "סנדלי שורש",
+  "file": "SOURCE_Sandal.jpg",
+  "from": "he.wikipedia.org/wiki/שורש_(חברה_לציוד_טיולים)"
+ },
+ "t133": {
+  "name": "קרוקס",
+  "file": "Crocs_logo.jpg",
+  "from": "he.wikipedia.org/wiki/קרוקס"
+ },
+ "t134": {
+  "name": "טלית",
+  "file": "חרדים_עטופים_בטליתות_088.jpg",
+  "from": "he.wikipedia.org/wiki/טלית"
+ },
+ "t135": {
+  "name": "ציצית",
+  "file": "Flickr_-_Israel_Defense_Forces_-_The_Evacuation_of_Bedolach_(27).jpg",
+  "from": "he.wikipedia.org/wiki/ציצית"
+ },
+ "t136": {
+  "name": "תפילין",
+  "file": "תפילין_.jpg",
+  "from": "he.wikipedia.org/wiki/תפילין"
+ },
+ "t137": {
+  "name": "שרשרת חמסה",
+  "file": "PikiWiki_Israel_36781_Architechture_and_Texture.JPG",
+  "from": "he.wikipedia.org/wiki/חמסה"
+ },
+ "t138": {
+  "name": "צמיד חוט אדום",
+  "file": "Red_strings_-_Rishi_Sunak.jpg",
+  "from": "he.wikipedia.org/wiki/חוט_אדום"
+ },
+ "t139": {
+  "name": "תיק צד",
+  "file": "Hiker_in_a_verdant_forest_(Unsplash).jpg",
+  "from": "he.wikipedia.org/wiki/תיק"
+ },
+ "t140": {
+  "name": "פאוץ'",
+  "file": "Leather_Fanny_Pack.JPG",
+  "from": "he.wikipedia.org/wiki/פאוץ'"
+ },
+ "t141": {
+  "name": "עגלת שוק",
+  "file": "Shopping_Trolleys_(809290640)_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/עגלת_שוק"
+ },
+ "t142": {
+  "name": "קיטבג",
+  "file": "Flickr_-_Israel_Defense_Forces_-_A_New_Soldier_Packs_His_Bag.jpg",
+  "from": "he.wikipedia.org/wiki/קיטבג"
+ },
+ "t143": {
+  "name": "מדי צה\"ל",
+  "file": "Tsetse_Fly_-_Glossina_species,_Gorongosa_National_Park,_Mozambique_(42453576002).jpg",
+  "from": "he.wikipedia.org/wiki/זבוב_הצה_צה"
+ },
+ "t144": {
+  "name": "כומתה",
+  "file": "Kopf_mit_Barretina.jpg",
+  "from": "he.wikipedia.org/wiki/כומתה"
+ },
+ "t145": {
+  "name": "נעלי צבא",
+  "file": "Bundeswehr-Kampfstiefel_Modell_2000.jpg",
+  "from": "he.wikipedia.org/wiki/נעלי_צבא"
+ },
+ "t146": {
+  "name": "דיסקית",
+  "file": "PhaistosDiskLarge.jpg",
+  "from": "he.wikipedia.org/wiki/דיסקית_פאיסטוס"
+ },
+ "t147": {
+  "name": "חוגר",
+  "file": "Merkaz-Ahud.png",
+  "from": "he.wikipedia.org/wiki/מרכז_ציוד"
+ },
+ "t148": {
+  "name": "חולצת תנועת נוער",
+  "file": "Shomrit1.png",
+  "from": "he.wikipedia.org/wiki/חולצה_כחולה"
+ },
+ "t149": {
+  "name": "טלפון כשר",
+  "file": "Koshercell.JPG",
+  "from": "he.wikipedia.org/wiki/סלולרי_כשר"
+ },
+ "t150": {
+  "name": "שטר של 20 שקל",
+  "file": "השטרות_החדשים_של_ישראל.jpg",
+  "from": "he.wikipedia.org/wiki/שקל_חדש"
+ },
+ "t151": {
+  "name": "שטר של 50 שקל",
+  "file": "Scattered_coins_-_Israeli_currency_New_Israeli_Shekel.JPG",
+  "from": "he.wikipedia.org/wiki/מטבעות_ושטרות_מדינת_ישראל"
+ },
+ "t152": {
+  "name": "שטר של 100 שקל",
+  "file": "השטרות_החדשים_של_ישראל.jpg",
+  "from": "he.wikipedia.org/wiki/שקל_חדש"
+ },
+ "t153": {
+  "name": "שטר של 200 שקל",
+  "file": "ח\"כ_אתי_חוה_עטיה.png",
+  "from": "he.wikipedia.org/wiki/אתי_עטייה"
+ },
+ "t154": {
+  "name": "מטבע של שקל",
+  "file": "השטרות_החדשים_של_ישראל.jpg",
+  "from": "he.wikipedia.org/wiki/שקל_חדש"
+ },
+ "t155": {
+  "name": "מטבע של 5 שקלים",
+  "file": "Israeli_2_New-Shekel_coins.jpg",
+  "from": "he.wikipedia.org/wiki/שני_שקלים_חדשים_(מטבע)"
+ },
+ "t156": {
+  "name": "מטבע של 10 שקלים",
+  "file": "השטרות_החדשים_של_ישראל.jpg",
+  "from": "he.wikipedia.org/wiki/שקל_חדש"
+ },
+ "t157": {
+  "name": "מטבע של 10 אגורות",
+  "file": "10_Agorot_coin.jpg",
+  "from": "he.wikipedia.org/wiki/עשר_אגורות_(מטבע)"
+ },
+ "t158": {
+  "name": "כרטיס רב קו",
+  "file": "Rav_Kav.png",
+  "from": "he.wikipedia.org/wiki/רב-קו"
+ },
+ "t159": {
+  "name": "תעודת זהות",
+  "file": "Estonian_identity_card,_2007.jpg",
+  "from": "he.wikipedia.org/wiki/תעודת_זהות"
+ },
+ "t160": {
+  "name": "דרכון",
+  "file": "Us-passport.jpg",
+  "from": "he.wikipedia.org/wiki/דרכון"
+ },
+ "t161": {
+  "name": "דו\"ח חניה",
+  "file": "Abraham_Haim_Elhanani.jpg",
+  "from": "he.wikipedia.org/wiki/אברהם_חיים_אלחנני"
+ },
+ "t162": {
+  "name": "טופס לוטו",
+  "file": "File:Filling lottery ticket 20180215.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Filling_lottery_ticket_20180215.jpg"
+ },
+ "t163": {
+  "name": "פתק הצבעה",
+  "file": "Kalpi_israel_18.JPG",
+  "from": "he.wikipedia.org/wiki/פתק_הצבעה"
+ },
+ "t164": {
+  "name": "תעודת חוגר",
+  "file": "Flickr_-_Israel_Defense_Forces_-_Smile.jpg",
+  "from": "he.wikipedia.org/wiki/תעודת_חוגר"
+ },
+ "t165": {
+  "name": "צבעי פנדה",
+  "file": "Oliepastel.jpg",
+  "from": "he.wikipedia.org/wiki/פסטל_שמן"
+ },
+ "t166": {
+  "name": "סידור",
+  "file": "Sidurim_IX_c..jpg",
+  "from": "he.wikipedia.org/wiki/סידור"
+ },
+ "t167": {
+  "name": "תנ\"ך",
+  "file": "מכתב_18_מערד,_2.jpg",
+  "from": "he.wikipedia.org/wiki/מכתבי_ערד"
+ },
+ "t168": {
+  "name": "הגדה של פסח",
+  "file": "PikiWiki_Israel_2197_Passover_2009_in_Israel_ליל_הסדר_-_פסח_2009.jpg",
+  "from": "he.wikipedia.org/wiki/הגדה_של_פסח"
+ },
+ "t169": {
+  "name": "ספר תהילים",
+  "file": "Psalms_scroll.PNG",
+  "from": "he.wikipedia.org/wiki/תהילים"
+ },
+ "t170": {
+  "name": "מונית",
+  "file": "Taxi_in_Israel_Gett_and_Yango.jpg",
+  "from": "he.wikipedia.org/wiki/מונית"
+ },
+ "t171": {
+  "name": "רכבת קלה",
+  "file": "Gold_Line_train_on_East_1st_Street,_July_2017.JPG",
+  "from": "he.wikipedia.org/wiki/רכבת_קלה"
+ },
+ "t172": {
+  "name": "שלט נהג חדש",
+  "file": "Newdriver1.JPG",
+  "from": "he.wikipedia.org/wiki/נהג_חדש"
+ },
+ "t173": {
+  "name": "דוכן פיס",
+  "file": "Jerusalem_(997009326108305171.jpg",
+  "from": "he.wikipedia.org/wiki/הפיגוע_בשוק_מחנה_יהודה_(1968)"
+ },
+ "t174": {
+  "name": "תיבת דואר אדומה",
+  "file": "RoyalMailCollectionBox20040124.jpg",
+  "from": "he.wikipedia.org/wiki/תיבת_דואר"
+ },
+ "t175": {
+  "name": "ארגז פלסטיק של חלב",
+  "file": "US_Navy_030830-N-6187M-001_Sailors_remove_a_hoisting_sling_from_an_ammo_crate_carrying_2000-pound_Mark_84_general_purpose_bombs.jpg",
+  "from": "he.wikipedia.org/wiki/ארגז"
+ },
+ "t176": {
+  "name": "סביבון",
+  "file": "Dan_Hadani_collection_(990048624180205171).jpg",
+  "from": "he.wikipedia.org/wiki/סביבון"
+ },
+ "t177": {
+  "name": "קלפי טאקי",
+  "file": "Paul_Cézanne,_Les_joueurs_de_carte_(1892-95).jpg",
+  "from": "he.wikipedia.org/wiki/משחק_קלפים"
+ },
+ "t178": {
+  "name": "רמיקוב",
+  "file": "Rummikub1.jpg",
+  "from": "he.wikipedia.org/wiki/רמיקוב"
+ },
+ "t179": {
+  "name": "שש בש",
+  "file": "Backgammon_lg.jpg",
+  "from": "he.wikipedia.org/wiki/שש_בש"
+ },
+ "t180": {
+  "name": "חמש אבנים",
+  "file": "Roman_statue_of_girl_playing_astragaloi_14_aC.jpg",
+  "from": "he.wikipedia.org/wiki/חמש_אבנים"
+ },
+ "t181": {
+  "name": "מטקות",
+  "file": "A_Police_woman_trying_to_bring_order_to_Tel_Aviv_traffic_(FL61628130).jpg",
+  "from": "he.wikipedia.org/wiki/מטקות"
+ },
+ "t182": {
+  "name": "רעשן",
+  "file": "Axatse.JPG",
+  "from": "he.wikipedia.org/wiki/רעשן"
+ },
+ "t183": {
+  "name": "מסכה לפורים",
+  "file": "חבקבוק_הנביא.jpg",
+  "from": "he.wikipedia.org/wiki/פרודיות_לפורים"
+ },
+ "t184": {
+  "name": "חנוכייה",
+  "file": "Hanukkah1.jpg",
+  "from": "he.wikipedia.org/wiki/חנוכייה"
+ },
+ "t185": {
+  "name": "נרות חנוכה",
+  "file": "Tel_Aviv-Yafo_997008137162305171.jpg",
+  "from": "he.wikipedia.org/wiki/הדלקת_נרות_חנוכה"
+ },
+ "t186": {
+  "name": "פטיש פלסטיק מתנפח",
+  "file": "Plastichammer.jpg",
+  "from": "he.wikipedia.org/wiki/פטיש_פלסטיק"
+ },
+ "t187": {
+  "name": "ספריי קצף",
+  "file": "Alpine-panorama-247335.jpg",
+  "from": "he.wikipedia.org/wiki/שלג"
+ },
+ "t188": {
+  "name": "שופר",
+  "file": "Shofar-0006.jpg",
+  "from": "he.wikipedia.org/wiki/שופר"
+ },
+ "t189": {
+  "name": "לולב",
+  "file": "Lulavim.jpg",
+  "from": "he.wikipedia.org/wiki/לולב"
+ },
+ "t190": {
+  "name": "אתרוג",
+  "file": "Etrog_on_Tree.JPG",
+  "from": "he.wikipedia.org/wiki/אתרוג"
+ },
+ "t191": {
+  "name": "סוכה",
+  "file": "Sukkah.jpg",
+  "from": "he.wikipedia.org/wiki/סוכה"
+ },
+ "t192": {
+  "name": "קישוטי סוכה",
+  "file": "Sukkah.jpg",
+  "from": "he.wikipedia.org/wiki/סוכה"
+ },
+ "t193": {
+  "name": "משלוח מנות",
+  "file": "2_Mishloach_Manot.jpg",
+  "from": "he.wikipedia.org/wiki/משלוח_מנות"
+ },
+ "t194": {
+  "name": "קערת סדר",
+  "file": "Pesahplate.jpg",
+  "from": "he.wikipedia.org/wiki/קערת_ליל_הסדר"
+ },
+ "t195": {
+  "name": "סל ביכורים",
+  "file": "PikiWiki_Israel_1187_Jewish_holidays_תהלוכת_ביכורים.jpg",
+  "from": "he.wikipedia.org/wiki/ביכורים"
+ },
+ "t196": {
+  "name": "זר פרחים לראש",
+  "file": "Funeral.name.tribute.arp.jpg",
+  "from": "he.wikipedia.org/wiki/סידור_פרחים"
+ },
+ "t197": {
+  "name": "בימבה",
+  "file": "Binba.jpg",
+  "from": "he.wikipedia.org/wiki/היי!_בינבה"
+ },
+ "t198": {
+  "name": "נר הבדלה",
+  "file": "Havdalah.jpg",
+  "from": "he.wikipedia.org/wiki/הבדלה"
+ },
+ "t199": {
+  "name": "חופה",
+  "file": "Chupah_closeup.JPG",
+  "from": "he.wikipedia.org/wiki/חופה"
+ },
+ "t200": {
+  "name": "כתובה",
+  "file": "V03p128a01_Ketubah.jpg",
+  "from": "he.wikipedia.org/wiki/כתובה"
+ },
+ "t201": {
+  "name": "מדורה",
+  "file": "Midsummer_bonfire_closeup.jpg",
+  "from": "he.wikipedia.org/wiki/מדורה"
+ },
+ "t202": {
+  "name": "תפוח בדבש",
+  "file": "Apples_dipped_in_honey.JPG",
+  "from": "he.wikipedia.org/wiki/תפוח_בדבש"
+ },
+ "t203": {
+  "name": "שלוקר",
+  "file": "NCK0989.jpg",
+  "from": "he.wikipedia.org/wiki/יוחנן_לוקר"
+ },
+ "t204": {
+  "name": "מחצלת",
+  "file": "CarpetmakingAlgiers1899.jpg",
+  "from": "he.wikipedia.org/wiki/שטיח"
+ },
+ "t205": {
+  "name": "צילייה",
+  "file": "Bbq_wood.JPG",
+  "from": "he.wikipedia.org/wiki/צלייה"
+ },
+ "t206": {
+  "name": "נרגילה",
+  "file": "Alice_05a-1116x1492.jpg",
+  "from": "he.wikipedia.org/wiki/נרגילה"
+ },
+ "t207": {
+  "name": "פק\"ל קפה",
+  "file": "Nutrition-label.jpg",
+  "from": "he.wikipedia.org/wiki/קלוריה"
+ },
+ "t208": {
+  "name": "ערכת מגן",
+  "file": "Gas_mask.jpg",
+  "from": "he.wikipedia.org/wiki/ערכת_מגן"
+ },
+ "t209": {
+  "name": "דרבוקה",
+  "file": "Derbouka.jpg",
+  "from": "he.wikipedia.org/wiki/דרבוקה"
+ },
+ "t210": {
+  "name": "עוד",
+  "file": "Ūd_MET_DP340079.jpg",
+  "from": "he.wikipedia.org/wiki/עוד"
+ },
+ "t211": {
+  "name": "עץ זית",
+  "file": "Olea_europaea_subsp_europaea.jpg",
+  "from": "he.wikipedia.org/wiki/זית_אירופי"
+ },
+ "t212": {
+  "name": "קקטוס",
+  "file": "Various_Cactaceae.jpg",
+  "from": "he.wikipedia.org/wiki/צבריים"
+ },
+ "t213": {
+  "name": "רקפת",
+  "file": "Cyclamen_persicum_-_Rakefet_2009.jpg",
+  "from": "he.wikipedia.org/wiki/רקפת_מצויה"
+ },
+ "t214": {
+  "name": "כלנית",
+  "file": "Colorful-Anemone-coronaria-Zachi-Evenor.jpg",
+  "from": "he.wikipedia.org/wiki/כלנית_מצויה"
+ },
+ "t215": {
+  "name": "חתול רחוב",
+  "file": "Catatsea.JPG",
+  "from": "he.wikipedia.org/wiki/חתול_רחוב"
+ },
+ "t216": {
+  "name": "דררה",
+  "file": "2005-malabar-parkeet-p.jpg",
+  "from": "he.wikipedia.org/wiki/דררה_(סוג)"
+ },
+ "t217": {
+  "name": "יעל",
+  "file": "PikiWiki_Israel_38769_Male_Ibex.jpg",
+  "from": "he.wikipedia.org/wiki/יעל_נובי"
+ },
+ "t218": {
+  "name": "גמל",
+  "file": "Dromedary_Range.png",
+  "from": "he.wikipedia.org/wiki/גמל"
+ },
+ "t219": {
+  "name": "חצב",
+  "file": "Drimia_maritima_-_Köhler–s_Medizinal-Pflanzen-277.jpg",
+  "from": "he.wikipedia.org/wiki/חצב_מצוי"
+ },
+ "t220": {
+  "name": "שקדייה פורחת",
+  "file": "Shkediya01_ST_04.jpg",
+  "from": "he.wikipedia.org/wiki/שקד_מצוי"
+ },
+ "t221": {
+  "name": "ביסלי פלאפל",
+  "file": "Bissli-בִּיסְלִי.jpg",
+  "from": "he.wikipedia.org/wiki/ביסלי"
+ },
+ "t222": {
+  "name": "ביסלי גריל",
+  "file": "Bissli-בִּיסְלִי.jpg",
+  "from": "he.wikipedia.org/wiki/ביסלי"
+ },
+ "t223": {
+  "name": "ביסלי בצל",
+  "file": "Bissli-בִּיסְלִי.jpg",
+  "from": "he.wikipedia.org/wiki/ביסלי"
+ },
+ "t224": {
+  "name": "ביסלי ברביקיו",
+  "file": "Bissli-בִּיסְלִי.jpg",
+  "from": "he.wikipedia.org/wiki/ביסלי"
+ },
+ "t225": {
+  "name": "במבה נוגט",
+  "file": "Bamba_snack.jpg",
+  "from": "he.wikipedia.org/wiki/במבה"
+ },
+ "t226": {
+  "name": "במבה אדומה",
+  "file": "Bamba_snack.jpg",
+  "from": "he.wikipedia.org/wiki/במבה"
+ },
+ "t227": {
+  "name": "שוש",
+  "file": "Luca_Giordano_016.jpg",
+  "from": "he.wikipedia.org/wiki/חטיפה"
+ },
+ "t228": {
+  "name": "טוויסט",
+  "file": "Strauss_Group_Elite_Twist_chocolate.png",
+  "from": "he.wikipedia.org/wiki/טוויסט_(ממתק)"
+ },
+ "t229": {
+  "name": "מסטיק בזוקה",
+  "file": "Elite_Factory_in_Nazareth_Illit_Bazooka_Chewing_gum_production_IMG_2614.JPG",
+  "from": "he.wikipedia.org/wiki/מסטיק_בזוקה"
+ },
+ "t230": {
+  "name": "מסטיק עלמה",
+  "file": "הכי_ישראלי.jpg",
+  "from": "he.wikipedia.org/wiki/הכי_ישראלי_(שיר)"
+ },
+ "t231": {
+  "name": "שוקולית",
+  "file": "Hot_chocolate_p1150797.jpg",
+  "from": "he.wikipedia.org/wiki/שוקו"
+ },
+ "t232": {
+  "name": "קרלו",
+  "file": "Teatro_de_San_Carlos,_Nápoles,_Italia,_2023-03-25,_DD_184-186_HDR.jpg",
+  "from": "he.wikipedia.org/wiki/תיאטרון_סן_קרלו"
+ },
+ "t233": {
+  "name": "קבוקים",
+  "file": "Peanuts.jpg",
+  "from": "he.wikipedia.org/wiki/בוטן"
+ },
+ "t234": {
+  "name": "עד חצות",
+  "file": "Potato-Chips.jpg",
+  "from": "he.wikipedia.org/wiki/חטיף_תפוחי_אדמה"
+ },
+ "t235": {
+  "name": "חלבה אחווה",
+  "file": "Achva-academic-size.jpg",
+  "from": "he.wikipedia.org/wiki/המכללה_האקדמית_אחוה"
+ },
+ "t236": {
+  "name": "קפה טורקי עלית",
+  "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
+  "from": "he.wikipedia.org/wiki/קפה_טורקי"
+ },
+ "t237": {
+  "name": "תה ויסוצקי",
+  "file": "Kalonimus_Wolf_Wissotzky.jpg",
+  "from": "he.wikipedia.org/wiki/קלונימוס_זאב_ויסוצקי"
+ },
+ "t238": {
+  "name": "לחם אנג'ל",
+  "file": "AngelLogo.png",
+  "from": "he.wikipedia.org/wiki/מאפיית_אנג'ל"
+ },
+ "t239": {
+  "name": "קוטג' תנובה",
+  "file": "Cottagecheese200px.jpg",
+  "from": "he.wikipedia.org/wiki/קוטג'_(גבינה)"
+ },
+ "t240": {
+  "name": "שוקו יטבתה",
+  "file": "Yotvata_-_2003.jpg",
+  "from": "he.wikipedia.org/wiki/יטבתה"
+ },
+ "t241": {
+  "name": "פריגת",
+  "file": "Prigat_drinks.jpg",
+  "from": "he.wikipedia.org/wiki/גת_גבעת_חיים"
+ },
+ "t242": {
+  "name": "בירה גולדסטאר",
+  "file": "Goldstar_production.JPG",
+  "from": "he.wikipedia.org/wiki/גולדסטאר"
+ },
+ "t243": {
+  "name": "בירה מכבי",
+  "file": "Maccabee_beer_logo.jpg",
+  "from": "he.wikipedia.org/wiki/בירה_מכבי"
+ },
+ "t244": {
+  "name": "ערק עלית",
+  "file": "Gray513.png",
+  "from": "he.wikipedia.org/wiki/עורק_תרדמני"
+ },
+ "t245": {
+  "name": "יין כרמל",
+  "file": "GolanWineryLogo.jpg",
+  "from": "he.wikipedia.org/wiki/יקב_רמת_הגולן"
+ },
+ "t246": {
+  "name": "מים נביעות",
+  "file": "נביעות_לפני_הפינוי_1979.jpg",
+  "from": "he.wikipedia.org/wiki/נביעות_(יישוב)"
+ },
+ "t247": {
+  "name": "מים מי עדן",
+  "file": "Mey_Eden_logo.png",
+  "from": "he.wikipedia.org/wiki/מי_עדן"
+ },
+ "t248": {
+  "name": "טרופית",
+  "file": "Hurricane_Isabel_from_ISS.jpg",
+  "from": "he.wikipedia.org/wiki/סופה_טרופית"
+ },
+ "t249": {
+  "name": "קטשופ אסם",
+  "file": "Derech_Hadorot_2.JPG",
+  "from": "he.wikipedia.org/wiki/אסם"
+ },
+ "t250": {
+  "name": "חומוס צבר",
+  "file": "Israel_National_TrailDSCN4417.JPG",
+  "from": "he.wikipedia.org/wiki/צבר_(כינוי)"
+ },
+ "t251": {
+  "name": "חומוס אחלה",
+  "file": "Johan_Strauss_padre.jpg",
+  "from": "he.wikipedia.org/wiki/יוהאן_שטראוס_(האב)"
+ },
+ "t252": {
+  "name": "מרק נמס",
+  "file": "MAREK_YEMES.jpg",
+  "from": "he.wikipedia.org/wiki/מרק_ימס"
+ },
+ "t253": {
+  "name": "שערות סבתא",
+  "file": "Cotton_candy_Μαλλί_της_γριάς.JPG",
+  "from": "he.wikipedia.org/wiki/צמר_גפן_מתוק"
+ },
+ "t254": {
+  "name": "תירס חם בכוס",
+  "file": "Popcorn02.jpg",
+  "from": "he.wikipedia.org/wiki/פופקורן"
+ },
+ "t255": {
+  "name": "ארטיק אבטיח",
+  "file": "US_brand_bottled_chamoy.jpg",
+  "from": "he.wikipedia.org/wiki/צ'אמוי"
+ },
+ "t256": {
+  "name": "שלוק",
+  "file": "SpongeBob_SquarePants-_Battle_for_Bikini_Bottom_-_Rehydrated.png",
+  "from": "he.wikipedia.org/wiki/בובספוג_מכנסמרובע:_הקרב_על_ביקיני_בוטום_–_שלוק_שני"
+ },
+ "t257": {
+  "name": "שניצל דינו",
+  "file": "Gefilte_Fish.jpg",
+  "from": "he.wikipedia.org/wiki/האוכל_דג_ביום_דג_ניצל_מדג"
+ },
+ "t258": {
+  "name": "ג'חנון בסיר",
+  "file": "Oval_Crock_Pot2.jpg",
+  "from": "he.wikipedia.org/wiki/סיר_לבישול_איטי"
+ },
+ "t259": {
+  "name": "חמוצי המשק",
+  "file": "Polish_style_pickled_cucumbers_IMGP0529.jpg",
+  "from": "he.wikipedia.org/wiki/החמצה"
+ },
+ "t260": {
+  "name": "אל על",
+  "file": "4X-EDN_Micha.jpg",
+  "from": "he.wikipedia.org/wiki/אל_על"
+ },
+ "t261": {
+  "name": "ישרוטל",
+  "file": "Logo_ישרוטל.jpg",
+  "from": "he.wikipedia.org/wiki/ישרוטל"
+ },
+ "t262": {
+  "name": "ארקיע",
+  "file": "Arkia_B753_4X-BAW.jpg",
+  "from": "he.wikipedia.org/wiki/הפיגועים_בקניה_(2002)"
+ },
+ "t263": {
+  "name": "אגד",
+  "file": "Daf_berkhof_vdl_egged_ashdod_israel_efi_elian.jpg",
+  "from": "he.wikipedia.org/wiki/אגד_תעבורה"
+ },
+ "t264": {
+  "name": "דן",
+  "file": "DanGarage_in_TelAviv_1935.jpg",
+  "from": "he.wikipedia.org/wiki/מוסך_דן_(הצפון_הישן)"
+ },
+ "t265": {
+  "name": "רכבת ישראל",
+  "file": "Jerusalem_-_20190205-DSC_0991.jpg",
+  "from": "he.wikipedia.org/wiki/רכבת_ישראל"
+ },
+ "t266": {
+  "name": "דואר ישראל",
+  "file": "בית_רשות_הדואר_-_3.jpg",
+  "from": "he.wikipedia.org/wiki/דואר_ישראל"
+ },
+ "t267": {
+  "name": "בזק",
+  "file": "Bezeq_-_Or_Yehuda_telephone_exchange.JPG",
+  "from": "he.wikipedia.org/wiki/בזק"
+ },
+ "t268": {
+  "name": "סלקום",
+  "file": "File:CMCS G1 Cellcom Israel.jpg",
+  "from": "commons.wikimedia.org/wiki/File:CMCS_G1_Cellcom_Israel.jpg"
+ },
+ "t269": {
+  "name": "פלאפון",
+  "file": "Migdalafula_2.jpg",
+  "from": "he.wikipedia.org/wiki/תקשורת_סלולרית_בישראל"
+ },
+ "t270": {
+  "name": "בנק הפועלים",
+  "file": "בניין_הנהלת_בנק_הפועלים.jpg",
+  "from": "he.wikipedia.org/wiki/בנק_הפועלים"
+ },
+ "t271": {
+  "name": "בנק לאומי",
+  "file": "BankLeumiBuildingP4190054.JPG",
+  "from": "he.wikipedia.org/wiki/בניין_בנק_לאומי"
+ },
+ "t272": {
+  "name": "מפעל הפיס",
+  "file": "Beit_Mifal_HaPayis_2016.jpg",
+  "from": "he.wikipedia.org/wiki/בית_מפעל_הפיס"
+ },
+ "t273": {
+  "name": "טוטו",
+  "file": "המועצה_להסדר_ההימורים_בספורט.jpg",
+  "from": "he.wikipedia.org/wiki/טוטו"
+ },
+ "t274": {
+  "name": "תנובה",
+  "file": "Flickr_-_Government_Press_Office_(GPO)_-_Agricultural_Workers_in_May_Day_Parade.jpg",
+  "from": "he.wikipedia.org/wiki/תנובה"
+ },
+ "t275": {
+  "name": "שטראוס",
+  "file": "Johan_Strauss_padre.jpg",
+  "from": "he.wikipedia.org/wiki/יוהאן_שטראוס_(האב)"
+ },
+ "t276": {
+  "name": "אסם",
+  "file": "Derech_Hadorot_2.JPG",
+  "from": "he.wikipedia.org/wiki/אסם"
+ },
+ "t277": {
+  "name": "עלית",
+  "file": "בתים_בישוב.jpg",
+  "from": "he.wikipedia.org/wiki/מעלה_חבר"
+ },
+ "t278": {
+  "name": "סופר פארם",
+  "file": "Super_Pharm_heaquarters_2.JPG",
+  "from": "he.wikipedia.org/wiki/סופר-פארם"
+ },
+ "t279": {
+  "name": "שופרסל",
+  "file": "שופרסל_דיל_בתל_חנן_במרכז_מבנה_בעיר_נשר_01.jpg",
+  "from": "he.wikipedia.org/wiki/שופרסל"
+ },
+ "t280": {
+  "name": "רמי לוי",
+  "file": "Israel_Hayom_Forum_for_Israel-US_Relations_(48142019357)_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/רמי_לוי"
+ },
+ "t281": {
+  "name": "קסטרו",
+  "file": "Julián_Castro's_Official_HUD_Portrait.jpg",
+  "from": "he.wikipedia.org/wiki/חוליאן_קסטרו"
+ },
+ "t282": {
+  "name": "פוקס",
+  "file": "Fox_shop.JPG",
+  "from": "he.wikipedia.org/wiki/פוקס-ויזל"
+ },
+ "t283": {
+  "name": "ארומה",
+  "file": "לוגו_ארומה_מיוזיק.jpg",
+  "from": "he.wikipedia.org/wiki/ארומה_מיוזיק"
+ },
+ "t284": {
+  "name": "בורגראנץ'",
+  "file": "Burger_ranch.JPG",
+  "from": "he.wikipedia.org/wiki/בורגראנץ'"
+ },
+ "t285": {
+  "name": "פז",
+  "file": "גשר_פז.jpg",
+  "from": "he.wikipedia.org/wiki/גשר_פז"
+ },
+ "t286": {
+  "name": "כתר פלסטיק",
+  "file": "מפעל_כתר.jpg",
+  "from": "he.wikipedia.org/wiki/כתר_מוצרים_לבית_ולגינה"
+ },
+ "t287": {
+  "name": "טבע",
+  "file": "TevaCanada7.jpg",
+  "from": "he.wikipedia.org/wiki/טבע_תעשיות_פרמצבטיות"
+ },
+ "t288": {
+  "name": "אלביט",
+  "file": "Matam_hi-tech_park_(Haifa).jpg",
+  "from": "he.wikipedia.org/wiki/אלביט_מערכות"
+ },
+ "t289": {
+  "name": "רפאל",
+  "file": "Isaac_Herzog_visit_to_Rafael,_February_2022,_V.jpg",
+  "from": "he.wikipedia.org/wiki/רפאל_מערכות_לחימה_מתקדמות"
+ },
+ "t290": {
+  "name": "התעשייה האווירית",
+  "file": "IAI_logo_2025.jpg",
+  "from": "he.wikipedia.org/wiki/התעשייה_האווירית_לישראל"
+ },
+ "t291": {
+  "name": "אהבה ים המלח",
+  "file": "Human_Rights_stamp_of_Israel.jpg",
+  "from": "he.wikipedia.org/wiki/ואהבת_לרעך_כמוך"
+ },
+ "t292": {
+  "name": "מכבי תל אביב",
+  "file": "MaccabiLogo.png",
+  "from": "he.wikipedia.org/wiki/מכבי_תל_אביב_(כדורסל)"
+ },
+ "t293": {
+  "name": "הפועל תל אביב",
+  "file": "Hapoel_Tel_Aviv_Logo.png",
+  "from": "he.wikipedia.org/wiki/הפועל_תל_אביב_(כדורגל)"
+ },
+ "t294": {
+  "name": "בית\"ר ירושלים",
+  "file": "HapoelJerusalemFootballClubLogo2021.png",
+  "from": "he.wikipedia.org/wiki/הפועל_ירושלים_(כדורגל)"
+ },
+ "t295": {
+  "name": "מכבי חיפה",
+  "file": "סמל_מכבי_חיפה_2023.png",
+  "from": "he.wikipedia.org/wiki/מכבי_חיפה_(כדורגל)"
+ },
+ "t296": {
+  "name": "yes",
+  "file": "בניין_yes.jpg",
+  "from": "he.wikipedia.org/wiki/Yes_(חברה)"
+ },
+ "t297": {
+  "name": "כאן 11",
+  "file": "אולפן_כאן_חדשות,_חדשות_הערב_I.jpg",
+  "from": "he.wikipedia.org/wiki/כאן_חדשות"
+ },
+ "t298": {
+  "name": "גלי צה\"ל",
+  "file": "Uri_ilan_in_uniform.jpg",
+  "from": "he.wikipedia.org/wiki/אורי_אילן"
+ },
+ "t299": {
+  "name": "גלגלצ",
+  "file": "אחד_אחד.JPG",
+  "from": "he.wikipedia.org/wiki/המצעד_הרשמי_של_גלגלצ"
+ },
+ "t300": {
+  "name": "כללית",
+  "file": "Clalit_Health_Services_Center_main_building_2022.jpg",
+  "from": "he.wikipedia.org/wiki/שירותי_בריאות_כללית"
+ },
+ "t301": {
+  "name": "מכבי שירותי בריאות",
+  "file": "Ksm-new-logo.png",
+  "from": "he.wikipedia.org/wiki/מכון_קאהן-סגול-מכבי"
+ },
+ "t302": {
+  "name": "מגן דוד אדום",
+  "file": "Magen_David_Adom_25th_anniversary.jpg",
+  "from": "he.wikipedia.org/wiki/מגן_דוד_אדום"
+ },
+ "t303": {
+  "name": "זק\"א",
+  "file": "גרשון_זק_1948_ארכיון_ההגנה.jpg",
+  "from": "he.wikipedia.org/wiki/גרשון_זק"
+ },
+ "t304": {
+  "name": "קופסה כחולה של קק\"ל",
+  "file": "PikiWiki_Israel_14886_Blue_box.JPG",
+  "from": "he.wikipedia.org/wiki/הקופסה_הכחולה"
+ },
+ "t305": {
+  "name": "ביטוח לאומי",
+  "file": "Social_Security_Poster_of_an_Old_Man_-_DPLA_-_e8f4291760f8c9b9789ef6a46f14e5b5.gif",
+  "from": "he.wikipedia.org/wiki/ביטוח_לאומי"
+ },
+ "t306": {
+  "name": "מלון דן",
+  "file": "Telaviv-beach.jpg",
+  "from": "he.wikipedia.org/wiki/מלון_דן_תל_אביב"
+ },
+ "t307": {
+  "name": "הצופים",
+  "file": "Tzabar_olami.png",
+  "from": "he.wikipedia.org/wiki/צופים_עולמי"
+ },
+ "t308": {
+  "name": "בני עקיבא",
+  "file": "לוגו_בני_עקיבא.png",
+  "from": "he.wikipedia.org/wiki/בני_עקיבא"
+ },
+ "t309": {
+  "name": "האוניברסיטה העברית",
+  "file": "HebrewU-MtScopus.JPG",
+  "from": "he.wikipedia.org/wiki/האוניברסיטה_העברית_בירושלים"
+ },
+ "t310": {
+  "name": "הטכניון",
+  "file": "The_National_Museum_of_Science,_Technology_and_Space_(Haifa,_Israel)_-_Facade.jpg",
+  "from": "he.wikipedia.org/wiki/בניין_הטכניון_הישן"
+ },
+ "t311": {
+  "name": "חברת החשמל",
+  "file": "JDECO.PNG",
+  "from": "he.wikipedia.org/wiki/חברת_החשמל_המזרח-ירושלמית"
+ },
+ "t312": {
+  "name": "כביש 6",
+  "file": "File:Kvish6fromHorashim.JPG",
+  "from": "commons.wikimedia.org/wiki/File:Kvish6fromHorashim.JPG"
+ },
+ "t313": {
+  "name": "טנק מרכבה 4",
+  "file": "NGP_6692.jpg",
+  "from": "he.wikipedia.org/wiki/טנק_מרכבה_סימן_4"
+ },
+ "t314": {
+  "name": "טנק מרכבה 3",
+  "file": "Merkava-3-latrun-2.jpg",
+  "from": "he.wikipedia.org/wiki/טנק_מרכבה_סימן_3"
+ },
+ "t317": {
+  "name": "האמר צבאי",
+  "file": "Hummer_(Tjumeno)_01.jpg",
+  "from": "he.wikipedia.org/wiki/האמר"
+ },
+ "t318": {
+  "name": "ג'יפ סופה",
+  "file": "Sufa_200804.jpg",
+  "from": "he.wikipedia.org/wiki/סופה_M-240"
+ },
+ "t319": {
+  "name": "דחפור D9",
+  "file": "CatD9T.jpg",
+  "from": "he.wikipedia.org/wiki/קטרפילר_די-9"
+ },
+ "t320": {
+  "name": "כיפת ברזל",
+  "file": "IDF_Iron_Dome_2021.jpg",
+  "from": "he.wikipedia.org/wiki/כיפת_ברזל"
+ },
+ "t321": {
+  "name": "קלע דוד",
+  "file": "David-Sling-0001.jpg",
+  "from": "he.wikipedia.org/wiki/קלע_דוד"
+ },
+ "t322": {
+  "name": "טיל חץ 3",
+  "file": "IAF-Arrow-3-חץ-sq1666.jpg",
+  "from": "he.wikipedia.org/wiki/חץ_3"
+ },
+ "t323": {
+  "name": "טיל חץ 2",
+  "file": "Arrow_Missile_Exhibition_I.JPG",
+  "from": "he.wikipedia.org/wiki/חץ_2"
+ },
+ "t324": {
+  "name": "טיל ספייק",
+  "file": "SPIKE_ATGM.jpg",
+  "from": "he.wikipedia.org/wiki/ספייק"
+ },
+ "t325": {
+  "name": "טיל גבריאל",
+  "file": "Gabrielout.jpg",
+  "from": "he.wikipedia.org/wiki/גבריאל_(טיל)"
+ },
+ "t326": {
+  "name": "מערכת מגן אור",
+  "file": "Or_Eitan_-_Iron_Beam_01.jpg",
+  "from": "he.wikipedia.org/wiki/אור_איתן"
+ },
+ "t327": {
+  "name": "מערכת מעיל רוח",
+  "file": "Windbreaker_Jacket,_Hood_Outside.jpg",
+  "from": "he.wikipedia.org/wiki/מעיל_רוח"
+ },
+ "t328": {
+  "name": "מטוס כפיר",
+  "file": "Kfir_jet.JPG",
+  "from": "he.wikipedia.org/wiki/כפיר_(מטוס)"
+ },
+ "t329": {
+  "name": "מטוס לביא",
+  "file": "IAI-Lavi-B-2-hatzerim-2.jpg",
+  "from": "he.wikipedia.org/wiki/פרויקט_הלביא"
+ },
+ "t330": {
+  "name": "מטוס F-16 סופה",
+  "file": "Falcon31.jpg",
+  "from": "he.wikipedia.org/wiki/ג'נרל_דיינמיקס_F-16_פייטינג_פלקון"
+ },
+ "t331": {
+  "name": "מטוס F-15 רעם",
+  "file": "F-15,_71st_Fighter_Squadron,_in_flight.JPG",
+  "from": "he.wikipedia.org/wiki/מקדונל_דאגלס_F-15_איגל"
+ },
+ "t332": {
+  "name": "מטוס F-35 אדיר",
+  "file": "IAF-F-35I-Adir_6.jpg",
+  "from": "he.wikipedia.org/wiki/F-35I_אדיר"
+ },
+ "t333": {
+  "name": "מסוק אפאצ'י",
+  "file": "IAF_AH-64.jpg",
+  "from": "he.wikipedia.org/wiki/בואינג_AH-64_אפאצ'י"
+ },
+ "t334": {
+  "name": "מסוק יסעור",
+  "file": "120516_Independence_Flypast_CH-53_01.jpg",
+  "from": "he.wikipedia.org/wiki/סיקורסקי_CH-53_סי_סטליון"
+ },
+ "t335": {
+  "name": "מל\"ט איתן",
+  "file": "NGP_DSC_0364.jpg",
+  "from": "he.wikipedia.org/wiki/כלי_טיס_בלתי_מאויש"
+ },
+ "t336": {
+  "name": "ספינת סער 6",
+  "file": "Sa'ar-6-class-corvette-0026.jpg",
+  "from": "he.wikipedia.org/wiki/סער_6"
+ },
+ "t337": {
+  "name": "צוללת דולפין",
+  "file": "I.n.s._dolfin-03.JPG",
+  "from": "he.wikipedia.org/wiki/הצוללות_מסדרת_דולפין"
+ },
+ "t338": {
+  "name": "תת מקלע עוזי",
+  "file": "Uzi_smg.jpg",
+  "from": "he.wikipedia.org/wiki/עוזי"
+ },
+ "t339": {
+  "name": "רובה תבור",
+  "file": "Tavor-21-CTAR-pic001.jpg",
+  "from": "he.wikipedia.org/wiki/תבור_(רובה)"
+ },
+ "t340": {
+  "name": "רובה גליל",
+  "file": "Galil.jpg",
+  "from": "he.wikipedia.org/wiki/גליל_(רובה)"
+ },
+ "t341": {
+  "name": "אקדח יריחו",
+  "file": "Jericho_941F.jpg",
+  "from": "he.wikipedia.org/wiki/יריחו_(אקדח)"
+ },
+ "t342": {
+  "name": "מקלע נגב",
+  "file": "IWI-Negev-Zachi-Evenor-01-white.jpg",
+  "from": "he.wikipedia.org/wiki/נגב_(מקלע)"
+ },
+ "t343": {
+  "name": "קסדה צבאית",
+  "file": "Spitzhelm_urartaisch.JPG",
+  "from": "he.wikipedia.org/wiki/קסדה"
+ },
+ "t344": {
+  "name": "אפוד קרמי",
+  "file": "Bodyarmor.jpg",
+  "from": "he.wikipedia.org/wiki/אפוד_מגן"
+ },
+ "t345": {
+  "name": "כומתה אדומה",
+  "file": "Paratroopers_Memorial,_Israel.jpg",
+  "from": "he.wikipedia.org/wiki/אנדרטת_הצנחנים"
+ },
+ "t346": {
+  "name": "כומתה ירוקה",
+  "file": "Magav_seal_2024.jpg",
+  "from": "he.wikipedia.org/wiki/משמר_הגבול"
+ },
+ "t347": {
+  "name": "כומתה סגולה",
+  "file": "File:IDF military berets. XXV.jpg",
+  "from": "commons.wikimedia.org/wiki/File:IDF_military_berets._XXV.jpg"
+ },
+ "t348": {
+  "name": "כומתה חומה",
+  "file": "אנדרטת_חטיבת_גולני_בחרמון.jpg",
+  "from": "he.wikipedia.org/wiki/אנדרטת_חטיבת_גולני_בחרמון"
+ },
+ "t349": {
+  "name": "כומתה שחורה",
+  "file": "Sikat_heil_shiryon-2.png",
+  "from": "he.wikipedia.org/wiki/חיל_השריון"
+ },
+ "t350": {
+  "name": "כנפי צניחה",
+  "file": "USMC_Paratrooper.jpg",
+  "from": "he.wikipedia.org/wiki/צניחה_צבאית"
+ },
+ "t351": {
+  "name": "כנפי טיס",
+  "file": "IAF_Pilot_Wings_(CGI_version).png",
+  "from": "he.wikipedia.org/wiki/קורס_טיס_(צה\"ל)"
+ },
+ "t352": {
+  "name": "סיכת לוחם",
+  "file": "Hermesh.jpg",
+  "from": "he.wikipedia.org/wiki/יחידת_חרמ\"ש"
+ },
+ "t353": {
+  "name": "דרגות סמל",
+  "file": "File:Madim hativa7.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Madim_hativa7.jpg"
+ },
+ "t354": {
+  "name": "דרגות קצין",
+  "file": "Graduation_ceremony._A_combat_officers_course_number_54._V.jpg",
+  "from": "he.wikipedia.org/wiki/קצין"
+ },
+ "t355": {
+  "name": "נעלי צנחנים אדומות",
+  "file": "Bundeswehr-Kampfstiefel_Modell_2000.jpg",
+  "from": "he.wikipedia.org/wiki/נעלי_צבא"
+ },
+ "t356": {
+  "name": "מדי א'",
+  "file": "File:American IDF uniform.jpg",
+  "from": "commons.wikimedia.org/wiki/File:American_IDF_uniform.jpg"
+ },
+ "t357": {
+  "name": "מדי ב'",
+  "file": "File:Yom Kippur War. XXXVII.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Yom_Kippur_War._XXXVII.jpg"
+ },
+ "t358": {
+  "name": "שק\"ם",
+  "file": "Jiang_Jieshi2.jpg",
+  "from": "he.wikipedia.org/wiki/צ'יאנג_קאי_שק"
+ },
+ "t359": {
+  "name": "מנת קרב",
+  "file": "מנת_קרב_צהל_2023.jpg",
+  "from": "he.wikipedia.org/wiki/מנת_קרב"
+ },
+ "t360": {
+  "name": "קופסת לוף",
+  "file": "Arum_palaestinum_flower.jpg",
+  "from": "he.wikipedia.org/wiki/לוף_ארץ-ישראלי"
+ },
+ "t361": {
+  "name": "מימייה צבאית",
+  "file": "אפיקים_-_העדר_של_אפיקים_במרעה-JNF021214.jpeg",
+  "from": "he.wikipedia.org/wiki/מימייה"
+ },
+ "t362": {
+  "name": "צו 8",
+  "file": "צו_8_גלעד_סליקטר.jpeg",
+  "from": "he.wikipedia.org/wiki/צו_8_(קומיקס)"
+ },
+ "t363": {
+  "name": "צו גיוס",
+  "file": "Draft_card_burning_NYC_1967.jpg",
+  "from": "he.wikipedia.org/wiki/שרפת_צווי_גיוס"
+ },
+ "t364": {
+  "name": "אוהל סיירים",
+  "file": "Pup_Tent_at_Fort_Benning-Overstreet.jpg",
+  "from": "he.wikipedia.org/wiki/אוהל_סיירים"
+ },
+ "t365": {
+  "name": "עמדת שמירה",
+  "file": "PikiWiki_Israel_54086_bluegrund_house.jpg",
+  "from": "he.wikipedia.org/wiki/עמדת_בלויגרונד_(צפת)"
+ },
+ "t366": {
+  "name": "משקפת צבאית",
+  "file": "HALINA_binoculars_7x50_12.jpg",
+  "from": "he.wikipedia.org/wiki/משקפת"
+ },
+ "t367": {
+  "name": "מכשיר קשר צבאי",
+  "file": "US_Navy_091101-N-8960W-009_Air_Traffic_Controller_3rd_Class_Elliott_Young,_assigned_to_the_aircraft_carrier_USS_Nimitz_(CVN_68),_performs_a_traffic_call_to_departing_aircraft.jpg",
+  "from": "he.wikipedia.org/wiki/מכשיר_קשר"
+ },
+ "t368": {
+  "name": "מסכת אב\"כ",
+  "file": "Siyum.jpg",
+  "from": "he.wikipedia.org/wiki/סיום_מסכת"
+ },
+ "t369": {
+  "name": "צופר אזעקה",
+  "file": "Picswiss_BL-56-08.jpg",
+  "from": "he.wikipedia.org/wiki/אזעקת_מלחמה"
+ },
+ "t370": {
+  "name": "מיגונית",
+  "file": "מיגונית_מעוצבת_מפרוייקט_Art_Shelters_של_האומן_אליסף_מיארה.jpg",
+  "from": "he.wikipedia.org/wiki/מיגונית"
+ },
+ "t371": {
+  "name": "דלת ממ\"ד",
+  "file": "TiratZvi9743.JPG",
+  "from": "he.wikipedia.org/wiki/מרחב_מוגן"
+ },
+ "t372": {
+  "name": "חללית בראשית",
+  "file": "Beresheet_model_on_Habima_Square_20190222_01.jpg",
+  "from": "he.wikipedia.org/wiki/בראשית_(גשושית)"
+ },
+ "t373": {
+  "name": "לוויין אופק",
+  "file": "Shavit_Ofek7a.jpg",
+  "from": "he.wikipedia.org/wiki/לווייני_אופק"
+ },
+ "t374": {
+  "name": "שער בסיס צבאי",
+  "file": "IAF_Bacha_8_Tel_Nof_AFB_Emblem.png",
+  "from": "he.wikipedia.org/wiki/בסיס_תל_נוף"
+ },
+ "t375": {
+  "name": "תיק עלייה לטרמפ",
+  "file": "שורת_עציי_תומר_לאורך_עין_המפרץ.jpg",
+  "from": "he.wikipedia.org/wiki/עין_המפרץ"
+ },
+ "t376": {
+  "name": "סמל המדינה",
+  "file": "File:PikiWiki Israel 73876 symbol of the state of israel.jpg",
+  "from": "commons.wikimedia.org/wiki/File:PikiWiki_Israel_73876_symbol_of_the_state_of_israel.jpg"
+ },
+ "t377": {
+  "name": "מגן דוד",
+  "file": "Magen_David_Adom_25th_anniversary.jpg",
+  "from": "he.wikipedia.org/wiki/מגן_דוד_אדום"
+ },
+ "t378": {
+  "name": "מגילת העצמאות",
+  "file": "Declaration_of_State_of_Israel_1948.jpg",
+  "from": "he.wikipedia.org/wiki/הכרזת_העצמאות"
+ },
+ "t379": {
+  "name": "בניין הכנסת",
+  "file": "New_National_Library_of_Israel_Complex_4_(cropped2).jpg",
+  "from": "he.wikipedia.org/wiki/משכן_הכנסת"
+ },
+ "t380": {
+  "name": "בית המשפט העליון",
+  "file": "Israel_Supreme_Court.jpg",
+  "from": "he.wikipedia.org/wiki/בית_המשפט_העליון"
+ },
+ "t381": {
+  "name": "הכותל המערבי",
+  "file": "16-03-30-Klagemauer_Jerusalem_RalfR-DSCF7673.jpg",
+  "from": "he.wikipedia.org/wiki/הכותל_המערבי"
+ },
+ "t382": {
+  "name": "פתק בכותל",
+  "file": "Kvitelgirl.jpg",
+  "from": "he.wikipedia.org/wiki/הטמנת_פתקים_בכותל_המערבי"
+ },
+ "t383": {
+  "name": "מגדל דוד",
+  "file": "מגדל_דוד.jpg",
+  "from": "he.wikipedia.org/wiki/מגדל_דוד"
+ },
+ "t384": {
+  "name": "חומות ירושלים",
+  "file": "547.Walls.Jerusalem_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/חומות_ירושלים"
+ },
+ "t385": {
+  "name": "גשר המיתרים",
+  "file": "Jerusalem_Chords_Bridge.JPG",
+  "from": "he.wikipedia.org/wiki/גשר_המיתרים"
+ },
+ "t386": {
+  "name": "שוק מחנה יהודה",
+  "file": "Shuk_(26).JPG",
+  "from": "he.wikipedia.org/wiki/שוק_מחנה_יהודה"
+ },
+ "t387": {
+  "name": "יד ושם",
+  "file": "YadVashemMar042023_01.jpg",
+  "from": "he.wikipedia.org/wiki/יד_ושם"
+ },
+ "t388": {
+  "name": "מגדלי עזריאלי",
+  "file": "Azrieli_Center_From_ToHa_2019-12.jpg",
+  "from": "he.wikipedia.org/wiki/מגדלי_עזריאלי"
+ },
+ "t389": {
+  "name": "נמל יפו",
+  "file": "OLD_JAFFA_PORT.jpg",
+  "from": "he.wikipedia.org/wiki/נמל_יפו"
+ },
+ "t390": {
+  "name": "שוק הכרמל",
+  "file": "Carmel_Market,_2019_(07).jpg",
+  "from": "he.wikipedia.org/wiki/שוק_הכרמל"
+ },
+ "t391": {
+  "name": "תיאטרון הבימה",
+  "file": "Habima_Theatre_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/הבימה"
+ },
+ "t392": {
+  "name": "כיכר רבין",
+  "file": "Rabin_Squre_eco_pool.jpg",
+  "from": "he.wikipedia.org/wiki/כיכר_רבין"
+ },
+ "t393": {
+  "name": "חוף תל אביב",
+  "file": "Coast_of_Tel_Aviv_from_Jaffa.jpg",
+  "from": "he.wikipedia.org/wiki/רצועת_חוף_תל_אביב-יפו"
+ },
+ "t394": {
+  "name": "הגנים הבהאיים",
+  "file": "TerracesBenGurion2.jpg",
+  "from": "he.wikipedia.org/wiki/הגנים_הבהאיים"
+ },
+ "t395": {
+  "name": "הכרמלית",
+  "file": "Carmelit_bus_terminal.jpg",
+  "from": "he.wikipedia.org/wiki/מסוף_כרמלית"
+ },
+ "t396": {
+  "name": "מצדה",
+  "file": "Israel-2013-Aerial_21-Masada.jpg",
+  "from": "he.wikipedia.org/wiki/מצדה"
+ },
+ "t397": {
+  "name": "ים המלח",
+  "file": "Dead_sea.jpg",
+  "from": "he.wikipedia.org/wiki/ים_המלח"
+ },
+ "t398": {
+  "name": "הכנרת",
+  "file": "Sea_of_Galilee.jpg",
+  "from": "he.wikipedia.org/wiki/הכנרת"
+ },
+ "t399": {
+  "name": "החרמון",
+  "file": "Hermonsnow.jpg",
+  "from": "he.wikipedia.org/wiki/הר_חרמון"
+ },
+ "t400": {
+  "name": "מכתש רמון",
+  "file": "MakhteshRamonMar262022_01.jpg",
+  "from": "he.wikipedia.org/wiki/מכתש_רמון"
+ },
+ "t401": {
+  "name": "שונית האלמוגים באילת",
+  "file": "EilatFringingReef.jpg",
+  "from": "he.wikipedia.org/wiki/שמורת_חוף_האלמוגים"
+ },
+ "t402": {
+  "name": "ראש הנקרה",
+  "file": "Mediterranean_Sea_from_Rosh_HaNikra.jpg",
+  "from": "he.wikipedia.org/wiki/ראש_הנקרה"
+ },
+ "t403": {
+  "name": "עין גדי",
+  "file": "PikiWiki_Israel_19859_Geography_of_Israel.jpg",
+  "from": "he.wikipedia.org/wiki/עין_גדי_(שמורה)"
+ },
+ "t404": {
+  "name": "האמפי בקיסריה",
+  "file": "אמפי_קיסריה.jpg",
+  "from": "he.wikipedia.org/wiki/תיאטרון_קיסריה"
+ },
+ "t405": {
+  "name": "נתב\"ג",
+  "file": "Ben-gurion-airport-terminal_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/נמל_התעופה_בן-גוריון"
+ },
+ "t406": {
+  "name": "מגדל מים בקיבוץ",
+  "file": "Water_Tower_Kartuzy.jpg",
+  "from": "he.wikipedia.org/wiki/מגדל_מים"
+ },
+ "t407": {
+  "name": "חדר אוכל בקיבוץ",
+  "file": "PikiWiki_Israel_5552_Rosh_hashana.jpg",
+  "from": "he.wikipedia.org/wiki/חדר_אוכל_(קיבוץ)"
+ },
+ "t408": {
+  "name": "רפת",
+  "file": "FeedingCows.JPG",
+  "from": "he.wikipedia.org/wiki/רפת"
+ },
+ "t409": {
+  "name": "דוכיפת",
+  "file": "Hoopoe_(15433167656).jpg",
+  "from": "he.wikipedia.org/wiki/דוכיפת"
+ },
+ "t410": {
+  "name": "צבי ישראלי",
+  "file": "Gazella_gazella.jpg",
+  "from": "he.wikipedia.org/wiki/צבי_ארץ-ישראלי"
+ },
+ "t411": {
+  "name": "שבעת המינים",
+  "file": "Seven_Species_Stamps_1958_Zvi_Narkiss.png",
+  "from": "he.wikipedia.org/wiki/שבעת_המינים"
+ },
+ "t412": {
+  "name": "דם המכבים",
+  "file": "DamHamacabim_ST_06.jpg",
+  "from": "he.wikipedia.org/wiki/דם-המכבים_האדום"
+ },
+ "t413": {
+  "name": "נר זיכרון",
+  "file": "US_Navy_070426-N-4965F-003_Six_memorial_candles_are_lit_during_a_Holocaust_Remembrance_Day_ceremony_at_Sharkey_Theater_on_board_Naval_Station_Pearl_Harbor.jpg",
+  "from": "he.wikipedia.org/wiki/נר_נשמה"
+ },
+ "t414": {
+  "name": "משואה",
+  "file": "The_Massuah_Institute_for_the_Study_of_the_Holocaust_in_Kibbutz_Tel_Yitzhak.jpg",
+  "from": "he.wikipedia.org/wiki/משואה_(מכון)"
+ },
+ "t415": {
+  "name": "מטס יום העצמאות",
+  "file": "F-15_IAF_Israel_Independence_Day_flyover.jpg",
+  "from": "he.wikipedia.org/wiki/מטס_יום_העצמאות"
+ },
+ "t416": {
+  "name": "זיקוקי יום העצמאות",
+  "file": "Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg",
+  "from": "he.wikipedia.org/wiki/יום_העצמאות_(ארצות_הברית)"
+ },
+ "t417": {
+  "name": "חידון התנ\"ך",
+  "file": "Peresohad1985hidon.jpg",
+  "from": "he.wikipedia.org/wiki/חידון_התנ\"ך_העולמי_לנוער_יהודי"
+ },
+ "t418": {
+  "name": "קלפי",
+  "file": "KALPI.JPG",
+  "from": "he.wikipedia.org/wiki/קלפי"
+ },
+ "t419": {
+  "name": "בול ישראלי",
+  "file": "Stamp_Israel_1948-3mil_yellow.jpg",
+  "from": "he.wikipedia.org/wiki/בולי_ישראל"
+ },
+ "t420": {
+  "name": "שלט ברוכים הבאים לישראל",
+  "file": "Welcome_to_the_Wayne.png",
+  "from": "he.wikipedia.org/wiki/ברוכים_הבאים_לוויין"
+ },
+ "t421": {
+  "name": "שלט כביש ירוק לירושלים",
+  "file": "File:Road sign to Jerusalem.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Road_sign_to_Jerusalem.jpg"
+ },
+ "t422": {
+  "name": "אבן ירושלמית",
+  "file": "Frank_House.Jerusalem.2006.jpg",
+  "from": "he.wikipedia.org/wiki/אבן_ירושלמית"
+ },
+ "t423": {
+  "name": "בית כנסת",
+  "file": "Eldridge_Street_Synagogue_(42773).jpg",
+  "from": "he.wikipedia.org/wiki/בית_כנסת"
+ },
+ "t424": {
+  "name": "ארון קודש",
+  "file": "Aron_Hakodesh_Padoue.JPG",
+  "from": "he.wikipedia.org/wiki/ארון_קודש"
+ },
+ "t425": {
+  "name": "ספר תורה",
+  "file": "Beth_Yaacov_Torah.JPG",
+  "from": "he.wikipedia.org/wiki/ספר_תורה"
+ },
+ "t426": {
+  "name": "כתר תורה",
+  "file": "Beth_Yaacov_Torah.JPG",
+  "from": "he.wikipedia.org/wiki/ספר_תורה"
+ },
+ "t427": {
+  "name": "מקווה",
+  "file": "Judenbad_Speyer_6_View_from_the_first_room_down.jpg",
+  "from": "he.wikipedia.org/wiki/מקווה"
+ },
+ "t428": {
+  "name": "שטריימל",
+  "file": "Shtreimel.jpg",
+  "from": "he.wikipedia.org/wiki/שטריימל"
+ },
+ "t429": {
+  "name": "כובע חסידים",
+  "file": "Kotel_payot1.jpg",
+  "from": "he.wikipedia.org/wiki/כובע_סמט"
+ },
+ "t430": {
+  "name": "אוהל בדואי",
+  "file": "Badawit_naqib.jpg",
+  "from": "he.wikipedia.org/wiki/בדואים_בישראל"
+ },
+ "t432": {
+  "name": "גמל במדבר",
+  "file": "Sibylla_pretiosa_Cryptic_mantis_Luc_Viatour.jpg",
+  "from": "he.wikipedia.org/wiki/גמלי_שלמה"
+ },
+ "t433": {
+  "name": "סוכת מציל",
+  "file": "Lifeguard.JPG",
+  "from": "he.wikipedia.org/wiki/מציל"
+ },
+ "t434": {
+  "name": "דגל שחור בחוף הים",
+  "file": "United_Nations_Flags_-_cropped.jpg",
+  "from": "he.wikipedia.org/wiki/דגל"
+ },
+ "t435": {
+  "name": "טיילת",
+  "file": "Coast_of_Tel_Aviv_from_Jaffa.jpg",
+  "from": "he.wikipedia.org/wiki/רצועת_חוף_תל_אביב-יפו"
+ },
+ "t436": {
+  "name": "קיוסק",
+  "file": "Kiosk_Greece.JPG",
+  "from": "he.wikipedia.org/wiki/קיוסק"
+ },
+ "t437": {
+  "name": "דוכן מיצים",
+  "file": "SatTiticacaSee-placenames.jpg",
+  "from": "he.wikipedia.org/wiki/אגם_טיטיקקה"
+ },
+ "t438": {
+  "name": "דוכן פלאפל",
+  "file": "Falafel_HaTeomin.jpg",
+  "from": "he.wikipedia.org/wiki/פלאפל_התאומים"
+ },
+ "t439": {
+  "name": "מכולת",
+  "file": "Flickr_-_Government_Press_Office_(GPO)_-_Grocery_Well-Stocked.jpg",
+  "from": "he.wikipedia.org/wiki/מכולת"
+ },
+ "t440": {
+  "name": "תחנה מרכזית",
+  "file": "Port_Authority_Bus_Terminal_(48295955196).jpg",
+  "from": "he.wikipedia.org/wiki/תחנה_מרכזית"
+ },
+ "t441": {
+  "name": "מונית שירות",
+  "file": "Dolmuş.JPG",
+  "from": "he.wikipedia.org/wiki/מונית_שירות"
+ },
+ "t442": {
+  "name": "כוס אליהו",
+  "file": "כוס_של_אליהו_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/כוס_של_אליהו"
+ },
+ "t443": {
+  "name": "חרוסת",
+  "file": "Charoset&ingredients.jpg",
+  "from": "he.wikipedia.org/wiki/חרוסת"
+ },
+ "t444": {
+  "name": "מרור",
+  "file": "Washington_Haggadah.jpg",
+  "from": "he.wikipedia.org/wiki/מרור"
+ },
+ "t445": {
+  "name": "זרוע",
+  "file": "Pesahplate.jpg",
+  "from": "he.wikipedia.org/wiki/קערת_ליל_הסדר"
+ },
+ "t446": {
+  "name": "כרפס",
+  "file": "Seder_Plate.jpg",
+  "from": "he.wikipedia.org/wiki/כרפס"
+ },
+ "t447": {
+  "name": "ביעור חמץ",
+  "file": "IMG_ביעור_חמץ_בבני_ברק.JPG",
+  "from": "he.wikipedia.org/wiki/ביעור_חמץ"
+ },
+ "t448": {
+  "name": "אפיקומן",
+  "file": "Seder_Table.jpg",
+  "from": "he.wikipedia.org/wiki/אפיקומן"
+ },
+ "t449": {
+  "name": "ראש דג",
+  "file": "Fish_diversity.jpg",
+  "from": "he.wikipedia.org/wiki/דג"
+ },
+ "t450": {
+  "name": "כרטיס שנה טובה",
+  "file": "Flickr_-_Government_Press_Office_(GPO)_-_Rosh_Hashanah_Greeting_Cards.jpg",
+  "from": "he.wikipedia.org/wiki/איגרת_שנה_טובה"
+ },
+ "t451": {
+  "name": "מחזור",
+  "file": "Mahzorim.JPG",
+  "from": "he.wikipedia.org/wiki/מחזור_תפילה"
+ },
+ "t452": {
+  "name": "נעלי בד ליום כיפור",
+  "file": "Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg",
+  "from": "he.wikipedia.org/wiki/יום_הכיפורים"
+ },
+ "t453": {
+  "name": "אופניים בכביש ריק",
+  "file": "File:Yom Kippur in Tel Aviv 210926 02.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Yom_Kippur_in_Tel_Aviv_210926_02.jpg"
+ },
+ "t454": {
+  "name": "ארבעת המינים",
+  "file": "FGHJK454.jpg",
+  "from": "he.wikipedia.org/wiki/ארבעת_המינים"
+ },
+ "t455": {
+  "name": "סכך",
+  "file": "Jerusalem_Arabs_selling_sechach.tif",
+  "from": "he.wikipedia.org/wiki/סכך"
+ },
+ "t456": {
+  "name": "הדס",
+  "file": "Starr_070621-7466_Myrtus_communis.jpg",
+  "from": "he.wikipedia.org/wiki/הדס_מצוי"
+ },
+ "t457": {
+  "name": "ערבה",
+  "file": "FGHJK454.jpg",
+  "from": "he.wikipedia.org/wiki/ארבעת_המינים"
+ },
+ "t458": {
+  "name": "הקפות",
+  "file": "Shalom_Koboshvili._Painting.jpg",
+  "from": "he.wikipedia.org/wiki/הקפות"
+ },
+ "t459": {
+  "name": "לביבות",
+  "file": "Potato_pancakes.jpg",
+  "from": "he.wikipedia.org/wiki/לביבה"
+ },
+ "t460": {
+  "name": "דמי חנוכה",
+  "file": "Dmei_hanucka.jpg",
+  "from": "he.wikipedia.org/wiki/דמי_חנוכה"
+ },
+ "t461": {
+  "name": "כד שמן",
+  "file": "Sphyrnalewini.jpg",
+  "from": "he.wikipedia.org/wiki/פטישן_כד-חרטום"
+ },
+ "t462": {
+  "name": "פירות יבשים",
+  "file": "Fruit_at_Mercato_Centrale.jpg",
+  "from": "he.wikipedia.org/wiki/פירות_יבשים"
+ },
+ "t463": {
+  "name": "שתיל",
+  "file": "Dead_bodies_piled_up_in_Shatila_camp,_Beirut,_Lebanon,_on_20_September_1982._Several_hundred_Palestine_refugees_and_other_civilians_were_massacred_in_the_Sabra_and_Shatila_districts_of_south_Beirut_between_16_and_18_September_(cropped).jpg",
+  "from": "he.wikipedia.org/wiki/טבח_סברה_ושתילה"
+ },
+ "t464": {
+  "name": "מגילת אסתר",
+  "file": "Sammlung_Braginsky_Megillah2.jpg",
+  "from": "he.wikipedia.org/wiki/מגילת_אסתר"
+ },
+ "t465": {
+  "name": "קשת וחץ",
+  "file": "Bueskytter_ved_middelaldermarkedet_ved_Esrum_Kloster_mirrorimage.jpg",
+  "from": "he.wikipedia.org/wiki/חץ_וקשת"
+ },
+ "t466": {
+  "name": "תפוח אדמה במדורה",
+  "file": "Pomme_de_terre_variété_bonnotte.JPG",
+  "from": "he.wikipedia.org/wiki/תפוח_אדמה"
+ },
+ "t467": {
+  "name": "מופלטה",
+  "file": "Mufletta.JPG",
+  "from": "he.wikipedia.org/wiki/מופלטה"
+ },
+ "t468": {
+  "name": "שולחן שבת",
+  "file": "The_Phillip_Medhurst_Picture_Torah_435._The_table_of_shittim_wood._Exodus_cap_25_vv_23&25._Heuman.jpg",
+  "from": "he.wikipedia.org/wiki/שולחן_הפנים"
+ },
+ "t469": {
+  "name": "הבדלה",
+  "file": "Havdalah.jpg",
+  "from": "he.wikipedia.org/wiki/הבדלה"
+ },
+ "t470": {
+  "name": "שולחן ליל הסדר",
+  "file": "Passover_(4813167773).jpg",
+  "from": "he.wikipedia.org/wiki/ליל_הסדר"
+ },
+ "t471": {
+  "name": "נטיעות ט\"ו בשבט",
+  "file": "Tu_Bishvat_Poster_1927_C_SH_029.png",
+  "from": "he.wikipedia.org/wiki/ט\"ו_בשבט_(מועד)"
+ },
+ "t472": {
+  "name": "עדלאידע",
+  "file": "PikiWiki_Israel_12251_purim_festival_in_holon_2011.jpg",
+  "from": "he.wikipedia.org/wiki/עדלאידע"
+ },
+ "t473": {
+  "name": "צפירה",
+  "file": "HPIM0313.jpg",
+  "from": "he.wikipedia.org/wiki/צפירת_זיכרון"
+ },
+ "t474": {
+  "name": "חגיגת בר מצווה",
+  "file": "Michael's_Bar_Mitzvah_1.jpg",
+  "from": "he.wikipedia.org/wiki/בר_מצווה"
+ },
+ "t475": {
+  "name": "עלייה לתורה",
+  "file": "Torah_Reading_Sephardic_custom.jpg",
+  "from": "he.wikipedia.org/wiki/עלייה_לתורה"
+ },
+ "t476": {
+  "name": "חינה",
+  "file": "Mehndi_on_hand.jpg",
+  "from": "he.wikipedia.org/wiki/חינה_(טקס)"
+ },
+ "t477": {
+  "name": "ברית מילה",
+  "file": "Covenant_of_Abraham.JPG",
+  "from": "he.wikipedia.org/wiki/ברית_מילה"
+ },
+ "t478": {
+  "name": "סוסיתא",
+  "file": "Sussita_-_Aerial_photography_April_2017.jpg",
+  "from": "he.wikipedia.org/wiki/סוסיתא_(אתר_ארכאולוגי)"
+ },
+ "t479": {
+  "name": "סברה ספורט",
+  "file": "Sabra_1960-1977.JPG",
+  "from": "he.wikipedia.org/wiki/סברה_ספורט"
+ },
+ "t480": {
+  "name": "סובארו ישנה",
+  "file": "Subaru-GL-Wagon.jpg",
+  "from": "he.wikipedia.org/wiki/סובארו_ליאונה"
+ },
+ "t481": {
+  "name": "טנדר טויוטה",
+  "file": "2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg",
+  "from": "he.wikipedia.org/wiki/טויוטה_היילקס"
+ },
+ "t482": {
+  "name": "קיה פיקנטו",
+  "file": "0_Kia_Morning_(JA)_FL_1.jpg",
+  "from": "he.wikipedia.org/wiki/קיה_פיקנטו"
+ },
+ "t483": {
+  "name": "מונית מרצדס לבנה",
+  "file": "Taxi_in_Israel_Gett_and_Yango.jpg",
+  "from": "he.wikipedia.org/wiki/מונית"
+ },
+ "t484": {
+  "name": "אוטובוס אגד ירוק",
+  "file": "Vector_bundle_example.JPG",
+  "from": "he.wikipedia.org/wiki/אגד_וקטורי"
+ },
+ "t485": {
+  "name": "אוטובוס דן",
+  "file": "דונה.png",
+  "from": "he.wikipedia.org/wiki/דונה_חברה_להנדסה_ובניין"
+ },
+ "t486": {
+  "name": "מטרונית",
+  "file": "AmazonianUmbrellabird.jpg",
+  "from": "he.wikipedia.org/wiki/מטריינית_אמזונית"
+ },
+ "t487": {
+  "name": "רכבת קלה בירושלים",
+  "file": "Jerusalem_Light_Rail_(Red_Line)_on_Jaffa_Road,_5_November_2025_05.jpg",
+  "from": "he.wikipedia.org/wiki/הרכבת_הקלה_בירושלים"
+ },
+ "t488": {
+  "name": "רכבת קלה בתל אביב",
+  "file": "דנקל_–_הקו_האדום,_שדרות_ירושלים_(ליד_תחנת_שלמה),_אוקטובר_2024_03.jpg",
+  "from": "he.wikipedia.org/wiki/הרכבת_הקלה_בגוש_דן"
+ },
+ "t489": {
+  "name": "רכבת ישראל כחולה",
+  "file": "Jerusalem_-_20190205-DSC_0991.jpg",
+  "from": "he.wikipedia.org/wiki/רכבת_ישראל"
+ },
+ "t490": {
+  "name": "אופני תל אופן",
+  "file": "Metrofun.png",
+  "from": "he.wikipedia.org/wiki/מטרופאן"
+ },
+ "t491": {
+  "name": "קורקינט שיתופי",
+  "file": "Kick_scooter_II.JPG",
+  "from": "he.wikipedia.org/wiki/קורקינט"
+ },
+ "t492": {
+  "name": "טוסטוס משלוחים",
+  "file": "Piaggio_X8_400_2007_Scooter.jpg",
+  "from": "he.wikipedia.org/wiki/קטנוע"
+ },
+ "t493": {
+  "name": "משאית זבל",
+  "file": "Garbage_truck_at_work.webm",
+  "from": "he.wikipedia.org/wiki/רכב_לפינוי_אשפה"
+ },
+ "t494": {
+  "name": "ניידת מד\"א",
+  "file": "Magen_David_Adom_25th_anniversary.jpg",
+  "from": "he.wikipedia.org/wiki/מגן_דוד_אדום"
+ },
+ "t495": {
+  "name": "אופנוע מד\"א",
+  "file": "Ambulance_magen_david_red_jerusalem_efi_elian.JPG",
+  "from": "he.wikipedia.org/wiki/אמבולנס"
+ },
+ "t496": {
+  "name": "רכב איחוד הצלה",
+  "file": "Hazolah_israel.png",
+  "from": "he.wikipedia.org/wiki/הצלה_ישראל"
+ },
+ "t497": {
+  "name": "ג'יפ משמר הגבול",
+  "file": "Magav_seal_2024.jpg",
+  "from": "he.wikipedia.org/wiki/משמר_הגבול"
+ },
+ "t498": {
+  "name": "אוטו גלידה",
+  "file": "紫いもソフトクリーム,_いも吉館,_大仏店,_鎌倉,_日本,_Ice_Cream,_Taro_Flavor,_Kamakura,_Japan_(13748213435).jpg",
+  "from": "he.wikipedia.org/wiki/גלידה_אמריקאית"
+ },
+ "t499": {
+  "name": "טרקטור קיבוצי",
+  "file": "Modern-tractor.jpg",
+  "from": "he.wikipedia.org/wiki/טרקטור"
+ },
+ "t500": {
+  "name": "קלנועית",
+  "file": "Motorized_shopping_cart.jpg",
+  "from": "he.wikipedia.org/wiki/קלנועית"
+ },
+ "force-1-a": {
+  "name": "force-1",
+  "file": "File:PalaciodoplanaltoFR.jpg",
+  "from": "commons.wikimedia.org/wiki/File:PalaciodoplanaltoFR.jpg"
+ },
+ "force-1-b": {
+  "name": "force-1",
+  "file": "File:Colors🎨.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Colors🎨.jpg"
+ },
+ "force-1-c": {
+  "name": "force-1",
+  "file": "File:Illustrated catalogue of paintings, pastels and water colors collected by the late David C. Lyall of Brooklyn (1903) (14593629768).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Illustrated_catalogue_of_paintings,_pastels_and_water_colors_collected_by_the_late_David_C._Lyall_of_Brooklyn_(1903)_(14593629768).jpg"
+ },
+ "force-1-d": {
+  "name": "force-1",
+  "file": "File:Painted Nature in Colors.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Painted_Nature_in_Colors.jpg"
+ },
+ "force-1-e": {
+  "name": "force-1",
+  "file": "File:Open gate leaning to a courtyard of colorful paper lanterns at Bulguksa temple in Gyeongju South Korea.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Open_gate_leaning_to_a_courtyard_of_colorful_paper_lanterns_at_Bulguksa_temple_in_Gyeongju_South_Korea.jpg"
+ },
+ "force-1-f": {
+  "name": "force-1",
+  "file": "File:Colorful houses symi.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Colorful_houses_symi.jpg"
+ },
+ "force-1-g": {
+  "name": "force-1",
+  "file": "File:FOURNEL(1887) p056 Fig.30.jpg",
+  "from": "commons.wikimedia.org/wiki/File:FOURNEL(1887)_p056_Fig.30.jpg"
+ },
+ "force-1-h": {
+  "name": "force-1",
+  "file": "File:1979 Holden HZ Sandman Utility.jpg",
+  "from": "commons.wikimedia.org/wiki/File:1979_Holden_HZ_Sandman_Utility.jpg"
+ },
+ "force-1-i": {
+  "name": "force-1",
+  "file": "File:1979 Holden Sandman HZ Utility.jpg",
+  "from": "commons.wikimedia.org/wiki/File:1979_Holden_Sandman_HZ_Utility.jpg"
+ },
+ "force-2-a": {
+  "name": "force-2",
+  "file": "File:Suncademy airless bottle sunscreen citronella active ingredients.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Suncademy_airless_bottle_sunscreen_citronella_active_ingredients.jpg"
+ },
+ "force-2-b": {
+  "name": "force-2",
+  "file": "File:LRP sunscreen bottle.jpg",
+  "from": "commons.wikimedia.org/wiki/File:LRP_sunscreen_bottle.jpg"
+ },
+ "force-2-c": {
+  "name": "force-2",
+  "file": "File:Hubble Observes Exoplanet that Snows Sunscreen (26174539739).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Hubble_Observes_Exoplanet_that_Snows_Sunscreen_(26174539739).jpg"
+ },
+ "force-2-d": {
+  "name": "force-2",
+  "file": "File:Day 1- Hiking Essentials (19444913913).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Day_1-_Hiking_Essentials_(19444913913).jpg"
+ },
+ "force-2-e": {
+  "name": "force-2",
+  "file": "File:Disc Golf basics (8631650127).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Disc_Golf_basics_(8631650127).jpg"
+ },
+ "force-2-f": {
+  "name": "force-2",
+  "file": "File:Sun Safety for Infants (7437141042).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Sun_Safety_for_Infants_(7437141042).jpg"
+ },
+ "force-2-g": {
+  "name": "force-2",
+  "file": "File:Sonnenschutzcreme der Bundeswehr.JPG",
+  "from": "commons.wikimedia.org/wiki/File:Sonnenschutzcreme_der_Bundeswehr.JPG"
+ },
+ "force-3-a": {
+  "name": "force-3",
+  "file": "File:Flag-of-Israel-4-Zachi-Evenor.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Flag-of-Israel-4-Zachi-Evenor.jpg"
+ },
+ "force-3-b": {
+  "name": "force-3",
+  "file": "File:Flag of Israel (54176646334).jpg",
+  "from": "commons.wikimedia.org/wiki/File:Flag_of_Israel_(54176646334).jpg"
+ },
+ "force-3-c": {
+  "name": "force-3",
+  "file": "File:PikiWiki Israel 40783 Tel Aviv.jpg",
+  "from": "commons.wikimedia.org/wiki/File:PikiWiki_Israel_40783_Tel_Aviv.jpg"
+ },
+ "force-3-d": {
+  "name": "force-3",
+  "file": "File:Israeli flag flying from house atop At-Tuur, Jerusalem.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Israeli_flag_flying_from_house_atop_At-Tuur,_Jerusalem.jpg"
+ },
+ "force-3-e": {
+  "name": "force-3",
+  "file": "File:Flag of Israel flying on the National Rizal Monument.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Flag_of_Israel_flying_on_the_National_Rizal_Monument.jpg"
+ },
+ "force-3-f": {
+  "name": "force-3",
+  "file": "File:Flag of Israel and the Philippines flying on the National Rizal Monument.jpg",
+  "from": "commons.wikimedia.org/wiki/File:Flag_of_Israel_and_the_Philippines_flying_on_the_National_Rizal_Monument.jpg"
+ },
+ "force-3-g": {
+  "name": "force-3",
+  "file": "File:A Kurdish woman holds the Israeli flag at the Erbil Citadel, in the Kurdistan Region, with the Kurdish flag flying overhead DSF4840.jpg",
+  "from": "commons.wikimedia.org/wiki/File:A_Kurdish_woman_holds_the_Israeli_flag_at_the_Erbil_Citadel,_in_the_Kurdistan_Region,_with_the_Kurdish_flag_flying_overhead_DSF4840.jpg"
+ },
+ "force-3-h": {
+  "name": "force-3",
+  "file": "File:A Kurdish woman holds the Israeli flag at the Erbil Citadel, in the Kurdistan Region, with the Kurdish flag flying overhead DSF4854.jpg",
+  "from": "commons.wikimedia.org/wiki/File:A_Kurdish_woman_holds_the_Israeli_flag_at_the_Erbil_Citadel,_in_the_Kurdistan_Region,_with_the_Kurdish_flag_flying_overhead_DSF4854.jpg"
+ },
+ "force-3-i": {
+  "name": "force-3",
+  "file": "File:A Kurdish woman holds the Israeli and Kurdistan Region flags at the Erbil Citadel, in the Kurdistan Region, with the Kurdish flag flying overhead DSF4869.jpg",
+  "from": "commons.wikimedia.org/wiki/File:A_Kurdish_woman_holds_the_Israeli_and_Kurdistan_Region_flags_at_the_Erbil_Citadel,_in_the_Kurdistan_Region,_with_the_Kurdish_flag_flying_overhead_DSF4869.jpg"
+ }
+}
