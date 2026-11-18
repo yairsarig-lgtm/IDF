@@ -81,7 +81,7 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
   width:min(90vw,calc(66vh * 4 / 3));flex:none}
 .card:nth-child(odd) .frame{transform:rotate(-.8deg)}
 .card:nth-child(even) .frame{transform:rotate(.7deg)}
-.art{aspect-ratio:4/3;overflow:hidden;border-radius:4px;background:#dfe4ee;position:relative}
+.art{aspect-ratio:4/3;overflow:hidden;border-radius:4px;background:#fdfdfb;position:relative}
 .art img{width:100%;height:100%;object-fit:cover;display:block;pointer-events:none}
 .art .ph{position:absolute;inset:0;display:grid;place-items:center;direction:rtl;text-align:center;padding:8%;
   color:#fff;font-weight:800;font-size:clamp(1.6rem,6vmin,3.6rem);line-height:1.1;text-wrap:balance}
@@ -173,6 +173,8 @@ function fillArt(art,m){
   if(!HAVE.has(m.id)){art.appendChild(placeholder(m));return}
   const im=new Image();im.alt='';im.decoding='async';
   im.onerror=()=>{art.replaceChildren(placeholder(m))};
+  // Tall or very wide photos (a bottle, a banner) are shown whole on the white frame; ordinary ones fill it.
+  im.onload=()=>{const r=im.naturalWidth/im.naturalHeight;if(r<1.15||r>1.9)im.style.objectFit='contain'};
   im.src=imgUrl(m.id);art.appendChild(im);
 }
 function renderSetup(){
