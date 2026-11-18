@@ -431,7 +431,7 @@ $('offline').onclick=async()=>{
 
 /* ---------- boot ---------- */
 const emblemImg=$('emblemImg');
-const noEmblem=()=>{emblemImg.hidden=true;$('emblemSvg').hidden=false};
+const noEmblem=()=>{emblemImg.hidden=true;$('emblemSvg').removeAttribute('hidden')};
 emblemImg.onerror=noEmblem;
 if(emblemImg.complete&&!emblemImg.naturalWidth)noEmblem(); // it may have failed before this script ran
 $('enter').onclick=()=>{$('splash').hidden=true;$('setup').hidden=false;window.scrollTo(0,0)};
