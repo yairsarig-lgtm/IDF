@@ -3,5 +3,5 @@
   <rect width="512" height="512" rx="112" fill="url(#g)"/>
   <rect x="116" y="150" width="280" height="212" rx="14" fill="#fdfdfb" transform="rotate(-4 256 256)"/>
   <rect x="132" y="166" width="248" height="180" rx="6" fill="#4d8dff" transform="rotate(-4 256 256)"/>
-  <text x="256" y="300" text-anchor="middle" font-family="Rubik,Heebo,Arial,sans-serif" font-weight="800" font-size="130" fill="#fff" transform="rotate(-4 256 256)">טל</text>
+  <text x="256" y="300" text-anchor="middle" font-family="Rubik,Heebo,Arial,sans-serif" font-weight="800" font-size="96" fill="#fff" transform="rotate(-4 256 256)">צה"ל</text>
 </svg>

@@ -6,14 +6,14 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="טל">
-<meta name="application-name" content="טל">
+<meta name="apple-mobile-web-app-title" content="צה&quot;ל">
+<meta name="application-name" content="צה&quot;ל">
 <meta name="theme-color" content="#060b18">
 <meta name="robots" content="noindex,nofollow">
 <link rel="icon" type="image/svg+xml" href="icon.svg">
 <link rel="apple-touch-icon" href="icon.svg">
 <link rel="manifest" href="manifest.webmanifest">
-<title>טל</title>
+<title>צה"ל | קסם לקוסמים צבאיים מאת יאיר שריג</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800&display=swap">
 <style>
 /* Two screens. Setup = performer-only settings. Show = full-screen swipe stage, one photo per screen, name above it. */
@@ -34,9 +34,10 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
 /* ---------- Setup ---------- */
 #setup{min-height:100%;display:flex;justify-content:center;padding:calc(24px + env(safe-area-inset-top,0px)) 18px calc(28px + env(safe-area-inset-bottom,0px))}
 .col{width:min(600px,100%);display:grid;gap:18px;align-content:start}
-.brand{display:flex;align-items:baseline;gap:12px}
+.brand{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.brand i{width:2px;height:2.2rem;background:var(--line);flex:none}
 .brand h1{margin:0;font-weight:800;font-size:2.6rem;line-height:1;letter-spacing:.02em}
-.brand span{color:var(--muted);font-size:.95rem}
+.brand span{color:var(--ink);font-size:1.15rem;font-weight:600}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px;display:grid;gap:14px}
 .panel h2{margin:0;font-size:1rem;font-weight:600;color:var(--muted)}
 .trio{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
@@ -102,7 +103,8 @@ img{-webkit-touch-callout:none;-webkit-user-drag:none}
 
 <div id="setup">
   <div class="col">
-    <div class="brand"><h1>טל</h1><span>הגדרות לפני ההופעה. הקהל לא רואה את המסך הזה.</span></div>
+    <div class="brand"><h1>צה"ל</h1><i></i><span>קסם לקוסמים צבאיים מאת יאיר שריג</span></div>
+    <p class="hint">הגדרות לפני ההופעה. הקהל לא רואה את המסך הזה.</p>
 
     <div class="panel">
       <h2>שלוש הכפיות, לפי הסדר</h2>
