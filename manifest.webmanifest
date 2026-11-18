@@ -1,0 +1,14 @@
+{
+  "name": "טל",
+  "short_name": "טל",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#060b18",
+  "theme_color": "#060b18",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

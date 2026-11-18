@@ -1,0 +1,40 @@
+name: Fetch images
+
+# Run by hand from the Actions tab. Downloads one freely licensed photo per item
+# (Hebrew Wikipedia / Wikimedia Commons) into images/ and commits them.
+on:
+  workflow_dispatch:
+    inputs:
+      refetch:
+        description: "Replace photos that already exist"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-images
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow
+      - name: Download photos
+        env:
+          REFETCH: ${{ inputs.refetch && '1' || '0' }}
+        run: python scripts/fetch_images.py
+      - name: Commit photos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images
+          git diff --cached --quiet || git commit -m "Add item photos"
+          git push
