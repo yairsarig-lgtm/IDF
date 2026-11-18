@@ -1,8 +1,2720 @@
 {
  "force-1": {
   "name": "פחי צבע",
-  "file": "71lNzcJ+C2L.jpg",
-  "from": "https://m.media-amazon.com/images/I/71lNzcJ+C2L.jpg",
-  "url": "https://m.media-amazon.com/images/I/71lNzcJ+C2L.jpg"
+  "file": "prd_000_1528360089.jpg",
+  "from": "https://www.saf.co.il/noa/prd_1893",
+  "url": "https://www.saf.co.il/sal/products/prd_000_1528360089.jpg"
+ },
+ "force-2": {
+  "name": "קרם הגנה",
+  "file": "skin-gard-30.jpg",
+  "from": "https://ucare.co.il/bodycare/sun-screen/skin-gard-spray-spf30?srsltid=AYCX9vIhJip7ttptqtVuzcCEyksH0MFwr1fszSe5_VMupIA1NN2Ih4DF",
+  "url": "https://ucare.co.il/images/catalog/body-cream/skin-gard/skin-gard-30.jpg"
+ },
+ "force-3": {
+  "name": "דגל ישראל",
+  "file": "דגל-ישראל.jpg",
+  "from": "https://pasteli.co.il/product/%D7%93%D7%92%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-80-110/",
+  "url": "https://pasteli.co.il/wp-content/uploads/2023/03/%D7%93%D7%92%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.jpg"
+ },
+ "t001": {
+  "name": "בייגל",
+  "file": "בייגל-12.jpeg",
+  "from": "https://www.anatelisha.co.il/%D7%91%D7%99%D7%99%D7%92%D7%9C-%D7%9C%D7%9C%D7%90-%D7%9C%D7%99%D7%A9%D7%94/",
+  "url": "https://www.anatelisha.co.il/wp-content/uploads/2023/02/%D7%91%D7%99%D7%99%D7%92%D7%9C-12.jpeg"
+ },
+ "t002": {
+  "name": "בייגלה",
+  "file": "2025-08-14T07-00-17-325Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=3822&srsltid=AYCX9vKxfoGZbixcThwRAbkUSbzy_hjgY3JNzntfmO6eV1zzNt-p99pm",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290000081663-1003551/7290000081663/2025-08-14T07-00-17-325Z.jpg"
+ },
+ "t003": {
+  "name": "פיתה",
+  "file": "header.jpg",
+  "from": "https://lelogluten.schaer.com/recipes/%D7%9C%D7%97%D7%9D-%D7%A4%D7%99%D7%AA%D7%94",
+  "url": "https://lelogluten.schaer.com/wp-content/uploads/sites/24/2020/04/header.jpg"
+ },
+ "t004": {
+  "name": "לאפה",
+  "file": "Iraqi_pita_autoOrient_i.jpg",
+  "from": "https://www.mako.co.il/food-bakery/savory-pastries/Recipe-ccde8bdc6def571026.htm",
+  "url": "https://img.mako.co.il/2020/11/25/Iraqi_pita_autoOrient_i.jpg"
+ },
+ "t005": {
+  "name": "פלאפל",
+  "file": "1213.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%A4%D7%9C%D7%90%D7%A4%D7%9C-%D7%99%D7%A8%D7%95%D7%A7-%D7%A2%D7%9D-%D7%A1%D7%9C%D7%98-%D7%99%D7%A8%D7%A7%D7%95%D7%AA-%D7%95%D7%98%D7%97%D7%99%D7%A0%D7%94/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/app/uploads/2019/03/04124353/1213.jpg"
+ },
+ "t006": {
+  "name": "מנת שווארמה",
+  "file": "IMG_2332_result.jpg",
+  "from": "https://sooo.co.il/%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%9E%D7%94-%D7%91%D7%9C%D7%90%D7%A4%D7%94/",
+  "url": "https://img.sooo.co.il/IMG_2332_result.jpg"
+ },
+ "t007": {
+  "name": "סביח",
+  "file": "03_9-Small.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%94%D7%A1%D7%A0%D7%93%D7%95%D7%95%D7%99%D7%A5-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%A1%D7%91%D7%99%D7%97-%D7%A9%D7%9C-%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2020/10/29180906/03_9-Small.jpg"
+ },
+ "t008": {
+  "name": "צלחת חומוס",
+  "file": "hummus_efrat_i.jpg",
+  "from": "https://www.mako.co.il/food-cooking_magazine/blogs-best-recipe/Recipe-3b59adfe4553b41006.htm",
+  "url": "https://img.mako.co.il/2015/01/29/hummus_efrat_i.jpg"
+ },
+ "t009": {
+  "name": "טחינה",
+  "file": "Layer-0-3.png",
+  "from": "https://www.baracke.co.il/product/100-%D7%98%D7%97%D7%99%D7%A0%D7%94/",
+  "url": "https://www.baracke.co.il/wp-content/uploads/2023/07/Layer-0-3.png"
+ },
+ "t010": {
+  "name": "שקשוקה",
+  "file": "14.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%90%D7%99%D7%9A-%D7%9E%D7%9B%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%A7%D7%A9%D7%95%D7%A7%D7%94-%D7%9C%D7%90-%D7%9C%D7%94%D7%99%D7%95%D7%AA-%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2020/01/15145107/14.jpg"
+ },
+ "t011": {
+  "name": "בורקס גבינה",
+  "file": "בורקס-גבינה-רוחב.jpg",
+  "from": "https://happykitchen.co.il/burekas/",
+  "url": "https://happykitchen.co.il/wp-content/uploads/2022/08/%D7%91%D7%95%D7%A8%D7%A7%D7%A1-%D7%92%D7%91%D7%99%D7%A0%D7%94-%D7%A8%D7%95%D7%97%D7%91.jpg"
+ },
+ "t012": {
+  "name": "בורקס תפוחי אדמה",
+  "file": "208small_i.jpg",
+  "from": "https://www.mako.co.il/food-cooking-with-keshet/low-budget-recipes/Recipe-55b2db136699e51006.htm",
+  "url": "https://img.mako.co.il/2017/09/17/208small_i.jpg"
+ },
+ "t013": {
+  "name": "ג'חנון",
+  "file": "RO1_1315-720x480.jpg",
+  "from": "https://www.sugat.com/recipes/home-made-jachnun/",
+  "url": "https://www.sugat.com/wp-content/uploads/2021/03/RO1_1315-720x480.jpg"
+ },
+ "t014": {
+  "name": "מלאווח",
+  "file": "IMG_6234_i.jpg",
+  "from": "https://www.mako.co.il/food-cooking_magazine/flavors-bakery/Recipe-e555a911c89b341006.htm",
+  "url": "https://img.mako.co.il/2014/01/22/IMG_6234_i.jpg"
+ },
+ "t015": {
+  "name": "קובנה",
+  "file": "446808.jpg",
+  "from": "https://www.masik.co.il/recipes/dough/?ItemID=67973",
+  "url": "https://cdn.masik.co.il/warehouse/dynamic/446808.jpg"
+ },
+ "t016": {
+  "name": "חלה",
+  "file": "hallas_autoOrient_i.jpg",
+  "from": "https://www.mako.co.il/food-weekend/keren_baking_for_sabbath/Recipe-e56c341ad5d7f81026.htm",
+  "url": "https://img.mako.co.il/2024/05/15/hallas_autoOrient_i.jpg"
+ },
+ "t017": {
+  "name": "לחם אחיד",
+  "file": "lehem-achid-parus-2026.jpg",
+  "from": "https://www.einbar.co.il/%D7%9C%D7%97%D7%9E%D7%99%D7%9D/%D7%94%D7%A1%D7%93%D7%A8%D7%94-%D7%94%D7%91%D7%A1%D7%99%D7%A1%D7%99%D7%AA/%D7%9C%D7%97%D7%9D-%D7%A9%D7%97%D7%95%D7%A8-%D7%A4%D7%A8%D7%95%D7%A1-%D7%90%D7%97%D7%99%D7%93/",
+  "url": "https://www.einbar.co.il/wp-content/uploads/2015/08/lehem-achid-parus-2026.jpg"
+ },
+ "t018": {
+  "name": "פרנה",
+  "file": "perne-lechem-al-chalukey-nachal-600x600.jpg",
+  "from": "https://www.hashulchan.co.il/%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D/%D7%A4%D7%A8%D7%A0%D7%94-%D7%9E%D7%A8%D7%95%D7%A7%D7%90%D7%99%D7%AA/",
+  "url": "https://medias.hashulchan.co.il/www/uploads/2020/03/perne-lechem-al-chalukey-nachal-600x600.jpg"
+ },
+ "t019": {
+  "name": "סמבוסק",
+  "file": "KRT_7367.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%A1%D7%9E%D7%91%D7%95%D7%A1%D7%A7-%D7%A4%D7%99%D7%A6%D7%94-%D7%91%D7%A7%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%AA-%D7%9E%D7%91%D7%A6%D7%A7-%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2024/10/22084116/KRT_7367.jpg"
+ },
+ "t020": {
+  "name": "מלבי",
+  "file": "DSC_1155.jpg",
+  "from": "https://www.krutit.co.il/%D7%9E%D7%9C%D7%91%D7%99-%D7%A7%D7%95%D7%A7%D7%95%D7%A1-%D7%A4%D7%A8%D7%95%D7%95%D7%94/",
+  "url": "https://www.krutit.co.il/wp-content/uploads/2017/05/DSC_1155.jpg"
+ },
+ "t021": {
+  "name": "כנאפה",
+  "file": "Knafeh.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%9B%D7%A0%D7%90%D7%A4%D7%94",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Knafeh.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t022": {
+  "name": "בקלאווה",
+  "file": "DSCF7411.jpg",
+  "from": "https://lizapanelim.com/%D7%91%D7%A7%D7%9C%D7%90%D7%95%D7%95%D7%94-%D7%99%D7%95%D7%95%D7%A0%D7%99%D7%AA-%D7%A9%D7%9C%D7%99/",
+  "url": "https://lizapanelim.com/wp-content/uploads/2020/08/DSCF7411.jpg"
+ },
+ "t023": {
+  "name": "רוגלך",
+  "file": "רוגלך-שוקולד.jpg",
+  "from": "https://hadarshapira.com/%D7%A8%D7%95%D7%92%D7%9C%D7%9A-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%A7%D7%A7%D7%90%D7%95",
+  "url": "https://hadarshapira.com/uploads/%D7%A8%D7%95%D7%92%D7%9C%D7%9A-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93.jpg"
+ },
+ "t024": {
+  "name": "סופגנייה",
+  "file": "IMG_8189small.jpg",
+  "from": "https://heninthekitchen.com/blog/2017/11/15/%D7%A4%D7%A8%D7%A7-28-%D7%A1%D7%95%D7%A4%D7%92%D7%A0%D7%99%D7%95%D7%AA-%D7%A7%D7%9C%D7%90%D7%A1%D7%99%D7%95%D7%AA/",
+  "url": "https://heninthekitchen.com/wp-content/uploads/2018/12/IMG_8189small.jpg"
+ },
+ "t025": {
+  "name": "אוזן המן",
+  "file": "shutterstock_1647394819קטן.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%90%D7%95%D7%96%D7%A0%D7%99-%D7%94%D7%9E%D7%9F-%D7%91%D7%A9%D7%99%D7%A9%D7%94-%D7%9E%D7%99%D7%9C%D7%95%D7%99%D7%99%D7%9D/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2021/02/24095620/shutterstock_1647394819%D7%A7%D7%98%D7%9F.jpg"
+ },
+ "t026": {
+  "name": "עוגת שמרים",
+  "file": "SHMARIM_ADIKOSH_re_autoOrient_i.jpg",
+  "from": "https://www.mako.co.il/food-recipes/recipes_column-cakes/chocolate_cakes/Recipe-5a9fd7ee31b8b81027.htm",
+  "url": "https://img.mako.co.il/2023/11/01/SHMARIM_ADIKOSH_re_autoOrient_i.jpg"
+ },
+ "t027": {
+  "name": "קרמבו",
+  "file": "696x550_2.png",
+  "from": "https://glidatstrauss.co.il/products/crembo/mocha-eight-pack/",
+  "url": "https://glidatstrauss.co.il/wp-content/uploads/2018/08/696x550_2.png"
+ },
+ "t028": {
+  "name": "מצה",
+  "file": "matzah-shmura-pic.jpg",
+  "from": "https://www.superprof.co.il/blog/matzah-shmura-process-explained/",
+  "url": "https://www.superprof.co.il/blog/wp-content/uploads/2026/02/matzah-shmura-pic.jpg"
+ },
+ "t029": {
+  "name": "שניצל",
+  "file": "schnitzel.jpg",
+  "from": "https://www.bishuli.co.il/2013/05/21/%D7%A9%D7%A0%D7%99%D7%A6%D7%9C/",
+  "url": "https://www.bishuli.co.il/wp-content/uploads/2013/05/schnitzel.jpg"
+ },
+ "t030": {
+  "name": "שניצל תירס",
+  "file": "שימורים-סוגת-בבושקה40906-720x480.jpg",
+  "from": "https://www.sugat.com/recipes/home-made-corn-schnitzel/",
+  "url": "https://www.sugat.com/wp-content/uploads/2025/02/%D7%A9%D7%99%D7%9E%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%92%D7%AA-%D7%91%D7%91%D7%95%D7%A9%D7%A7%D7%9440906-720x480.jpg"
+ },
+ "t031": {
+  "name": "מג'דרה",
+  "file": "unnamed-37-scaled.jpg",
+  "from": "https://edeneat.com/%D7%9E%D7%92%D7%93%D7%A8%D7%94/",
+  "url": "https://edeneat.com/wp-content/uploads/2021/10/unnamed-37-scaled.jpg"
+ },
+ "t032": {
+  "name": "קוסקוס",
+  "file": "kuskus2_i.jpg",
+  "from": "https://www.mako.co.il/food-cooking-with-keshet/masterchef_recipes/Recipe-e6a63424cc51c21004.htm",
+  "url": "https://img.mako.co.il/2014/07/09/kuskus2_i.jpg"
+ },
+ "t033": {
+  "name": "חמין",
+  "file": "7234602672019.jpg",
+  "from": "https://imaot.co.il/Book/Page/203545",
+  "url": "https://imaot.co.il/images/Uploads/RecipeImages/7234602672019.jpg"
+ },
+ "t034": {
+  "name": "מרק עוף",
+  "file": "IMG_0939.jpg",
+  "from": "https://heninthekitchen.com/blog/2019/04/07/%D7%A4%D7%A8%D7%A7-106-%D7%9E%D7%A8%D7%A7-%D7%A2%D7%95%D7%A3/",
+  "url": "https://heninthekitchen.com/wp-content/uploads/2019/04/IMG_0939.jpg"
+ },
+ "t035": {
+  "name": "קניידלך",
+  "file": "IMG_0948small-1024x683.jpg",
+  "from": "https://heninthekitchen.com/blog/2019/04/10/%D7%A4%D7%A8%D7%A7-107-%D7%A7%D7%A0%D7%99%D7%99%D7%93%D7%9C%D7%9A/",
+  "url": "https://heninthekitchen.com/wp-content/uploads/2019/04/IMG_0948small-1024x683.jpg"
+ },
+ "t036": {
+  "name": "גפילטע פיש",
+  "file": "gefilte830_510-600x600.jpg",
+  "from": "https://www.hashulchan.co.il/%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D/%D7%94%D7%92%D7%A4%D7%99%D7%9C%D7%98%D7%A2-%D7%A4%D7%99%D7%A9-%D7%94%D7%9E%D7%95%D7%A9%D7%9C%D7%9D/",
+  "url": "https://medias.hashulchan.co.il/www/uploads/2015/12/gefilte830_510-600x600.jpg"
+ },
+ "t037": {
+  "name": "קוגל ירושלמי",
+  "file": "Kugel-Yerushalmi03.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%92%D7%9C_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kugel-Yerushalmi03.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t038": {
+  "name": "כבד קצוץ",
+  "file": "WhatsApp-Image-2023-08-02-at-15.58.48.jpeg",
+  "from": "https://foody.co.il/foody_recipe/%D7%9B%D7%91%D7%93-%D7%A7%D7%A6%D7%95%D7%A5-%D7%94%D7%9B%D7%99-%D7%98%D7%A2%D7%99%D7%9D-%D7%A9%D7%99%D7%A9/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2019/09/02160745/WhatsApp-Image-2023-08-02-at-15.58.48.jpeg"
+ },
+ "t039": {
+  "name": "סלט ישראלי",
+  "file": "AdobeStock_395599733.jpg",
+  "from": "https://www.goodlifetv.co.il/food/israeli-chopped-salad/",
+  "url": "https://cdn.goodlifetv.co.il/wp-content/uploads/2021/12/09183819/AdobeStock_395599733.jpg"
+ },
+ "t040": {
+  "name": "סלט חצילים",
+  "file": "ראשי-1100x733.jpeg",
+  "from": "https://foody.co.il/foody_recipe/%D7%A1%D7%9C%D7%98-%D7%97%D7%A6%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%A1%D7%99%D7%90%D7%AA%D7%99/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2021/06/17103200/%D7%A8%D7%90%D7%A9%D7%99-1100x733.jpeg"
+ },
+ "t041": {
+  "name": "מטבוחה",
+  "file": "IMG_7702.jpg",
+  "from": "https://heninthekitchen.com/blog/2017/08/16/%D7%A4%D7%A8%D7%A7-17-%D7%9E%D7%98%D7%91%D7%95%D7%97%D7%94/",
+  "url": "https://heninthekitchen.com/wp-content/uploads/2017/08/IMG_7702.jpg"
+ },
+ "t042": {
+  "name": "סחוג",
+  "file": "סחוג-א.jpg",
+  "from": "https://160cal.com/%D7%9E%D7%AA%D7%9B%D7%95%D7%9F-%D7%9C%D7%A1%D7%97%D7%95%D7%92-%D7%97%D7%A8%D7%99%D7%A3-%D7%9E%D7%A9%D7%92%D7%A2-%D7%A9%D7%9E%D7%9B%D7%99%D7%A0%D7%99%D7%9D-%D7%91%D7%9B%D7%9E%D7%94-%D7%93%D7%A7%D7%95/",
+  "url": "https://160cal.com/wp-content/uploads/2023/09/%D7%A1%D7%97%D7%95%D7%92-%D7%90.jpg"
+ },
+ "t043": {
+  "name": "עמבה",
+  "file": "2025-02-03T08-43-32-196Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=9199&srsltid=AYCX9vIZBim1MCMyq2SR-nB1uvHu4N2AI4V-dUvlP0W_UXRXfbyrUO5C",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290010154036-937383/7290010154036/2025-02-03T08-43-32-196Z.jpg"
+ },
+ "t044": {
+  "name": "חמוצים",
+  "file": "Recipe-10524-RdtkPAVrmsq3EYyR.jpg",
+  "from": "https://www.foodsdictionary.co.il/Recipes/10524",
+  "url": "https://st1.foodsd.co.il/Images/Recipes/xxl/Recipe-10524-RdtkPAVrmsq3EYyR.jpg"
+ },
+ "t045": {
+  "name": "לבנה",
+  "file": "large.jpg",
+  "from": "https://www.bigdabach.co.il/?catalogProduct=2350083",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/2350083/8649162/large.jpg"
+ },
+ "t046": {
+  "name": "פסטלים",
+  "file": "Cat_496533_142.jpg",
+  "from": "https://shoken.falafelgina.co.il/catalog.asp?page=newshowprod.asp&prodid=2319649",
+  "url": "https://shoken.falafelgina.co.il/Cat_496533_142.jpg"
+ },
+ "t047": {
+  "name": "קובה",
+  "file": "FOODY-898-1100x733.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%A7%D7%95%D7%91%D7%94-%D7%97%D7%9E%D7%95%D7%A1%D7%98%D7%94-%D7%91%D7%AA%D7%95%D7%9A-%D7%9E%D7%A8%D7%A7-%D7%97%D7%9E%D7%A6%D7%9E%D7%A5-%D7%96%D7%94-%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%94%D7%97/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2020/10/04115252/FOODY-898-1100x733.jpg"
+ },
+ "t048": {
+  "name": "מרק קובה אדום",
+  "file": "מרק-קובה-סלק.jpg",
+  "from": "https://sarig.com/recipe/%D7%9E%D7%A8%D7%A7-%D7%A7%D7%95%D7%91%D7%94-%D7%A1%D7%9C%D7%A7/?srsltid=AYCX9vJWAnPNrPVbdpTmNxbdCrko8FzIPariBtSVE7VY4DFYk0tOMeku",
+  "url": "https://sarig.com/app/uploads/2025/11/%D7%9E%D7%A8%D7%A7-%D7%A7%D7%95%D7%91%D7%94-%D7%A1%D7%9C%D7%A7.jpg"
+ },
+ "t049": {
+  "name": "עלי גפן ממולאים",
+  "file": "IMG_3273.jpg",
+  "from": "https://danielamit.foody.co.il/foody_recipe/%D7%A2%D7%9C%D7%99-%D7%92%D7%A4%D7%9F-%D7%9E%D7%9E%D7%95%D7%9C%D7%90%D7%99%D7%9D-%D7%91%D7%90%D7%95%D7%A8%D7%96/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/sites/5/2021/10/14085357/IMG_3273.jpg"
+ },
+ "t050": {
+  "name": "שישליק",
+  "file": "1280px-Shashlik.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%A9%D7%9C%D7%99%D7%A7",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Shashlik.jpg/1280px-Shashlik.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "t051": {
+  "name": "קבב",
+  "file": "Bulgarian-kebab.jpg",
+  "from": "https://cookli.co.il/recipes/%D7%A7%D7%91%D7%91-%D7%91%D7%95%D7%9C%D7%92%D7%A8%D7%99/",
+  "url": "https://cookli.co.il/wp-content/uploads/2017/12/Bulgarian-kebab.jpg"
+ },
+ "t052": {
+  "name": "פרגית על האש",
+  "file": "355216-PAQ0QZ-274-scaled.jpg",
+  "from": "https://hatale.co.il/%D7%9E%D7%AA%D7%9B%D7%95%D7%9F-%D7%A4%D7%A8%D7%92%D7%99%D7%95%D7%AA-%D7%A2%D7%9C-%D7%94%D7%90%D7%A9/",
+  "url": "https://hatale.co.il/wp-content/uploads/2021/08/355216-PAQ0QZ-274-scaled.jpg"
+ },
+ "t053": {
+  "name": "מעורב ירושלמי",
+  "file": "vinayarohala_3_autoOrient_w.jpg",
+  "from": "https://www.mako.co.il/food-recipes/recipes_column-meat/Recipe-22d63f64f911d81027.htm",
+  "url": "https://img.mako.co.il/2024/01/16/vinayarohala_3_autoOrient_w.jpg"
+ },
+ "t054": {
+  "name": "פתיתים",
+  "file": "Recipe-7324-p3Xteb6isXk1wv4d.jpg",
+  "from": "https://www.foodsdictionary.co.il/Recipes/7324",
+  "url": "https://st1.foodsd.co.il/Images/Recipes/xxl/Recipe-7324-p3Xteb6isXk1wv4d.jpg"
+ },
+ "t055": {
+  "name": "עוגת שיש",
+  "file": "096A6799.jpg",
+  "from": "https://shanisanders.com/rec/%D7%A2%D7%95%D7%92%D7%AA-%D7%A9%D7%99%D7%A9-%D7%A2%D7%A9%D7%99%D7%A8%D7%94/",
+  "url": "https://shanisanders.com/wp-content/uploads/2025/10/096A6799.jpg"
+ },
+ "t056": {
+  "name": "עוגיות טחינה",
+  "file": "Recipe-7143-Gf3FzCJICEPFX4tw.jpg",
+  "from": "https://www.foodsdictionary.co.il/Recipes/7143",
+  "url": "https://st1.foodsd.co.il/Images/Recipes/xxl/Recipe-7143-Gf3FzCJICEPFX4tw.jpg"
+ },
+ "t057": {
+  "name": "במבה",
+  "file": "6929513_7290001302279_Enlarge.jpg",
+  "from": "https://www.osem-nestle.co.il/brands/%D7%91%D7%9E%D7%91%D7%94/%D7%91%D7%9E%D7%91%D7%94%20%D7%A7%D7%9C%D7%90%D7%A1%D7%99%2060%20%D7%92%D7%A8%D7%9D",
+  "url": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/product_images_new/6929513_7290001302279_Enlarge.jpg?v=1794012210"
+ },
+ "t058": {
+  "name": "ביסלי",
+  "file": "maxresdefault.jpg",
+  "from": "https://www.youtube.com/watch?v=Hwsx7MSSwXI",
+  "url": "https://i.ytimg.com/vi/Hwsx7MSSwXI/maxresdefault.jpg"
+ },
+ "t059": {
+  "name": "אפרופו",
+  "file": "2026-02-15T11-47-10-260Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=3731&srsltid=AYCX9vLC9vjvZTtI-VVSgkZedjTBhj2Ku6BzD1bFaHUhR7OglMEl-DWg",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290000066332-1011945/2026-02-15T11-47-10-260Z.jpg"
+ },
+ "t060": {
+  "name": "דובונים",
+  "file": "6901268_7290000066264_Enlarge.jpg",
+  "from": "https://www.osem-nestle.co.il/brands/%D7%93%D7%95%D7%91%D7%95%D7%A0%D7%99%D7%9D/%D7%97%D7%98%D7%99%D7%A3-%D7%93%D7%95%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+  "url": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/product_images_new/6901268_7290000066264_Enlarge.jpg?v=1781678539"
+ },
+ "t061": {
+  "name": "תפוצ'יפס",
+  "file": "2025-03-06T21-31-29-359Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=6022&srsltid=AYCX9vKhfs8bJcKzAdGw-dUwuJ1kTMyd6Al2sYakdmma6qwWyqZlGYj4",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290000178707-965038/7290000178707/2025-03-06T21-31-29-359Z.jpg"
+ },
+ "t062": {
+  "name": "קליק",
+  "file": "קליק-קורנפלקס.png",
+  "from": "https://candymall.co.il/product-category/klik-cornflakes-65g-13073",
+  "url": "https://candymall.co.il/assets/images/products/9244/%D7%A7%D7%9C%D7%99%D7%A7-%D7%A7%D7%95%D7%A8%D7%A0%D7%A4%D7%9C%D7%A7%D7%A1.png"
+ },
+ "t063": {
+  "name": "פסק זמן",
+  "file": "Pesekzman-1.png",
+  "from": "https://www.elite.co.il/product/%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2021/01/Pesekzman-1.png"
+ },
+ "t064": {
+  "name": "כיף כף",
+  "file": "Kifkef.png",
+  "from": "https://www.elite.co.il/product/%D7%9B%D7%99%D7%A3-%D7%9B%D7%A3-2/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2021/01/Kifkef.png"
+ },
+ "t065": {
+  "name": "טעמי",
+  "file": "Taami.png",
+  "from": "https://www.elite.co.il/product/%D7%98%D7%A2%D7%9E%D7%99/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2020/12/Taami.png"
+ },
+ "t066": {
+  "name": "טורטית",
+  "file": "טורטית-1.jpg",
+  "from": "https://levinsky-market.co.il/product/%D7%9E%D7%90%D7%A8%D7%96-%D7%98%D7%95%D7%A8%D7%98%D7%99%D7%AA-30-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/",
+  "url": "https://levinsky-market.co.il/wp-content/uploads/2020/12/%D7%98%D7%95%D7%A8%D7%98%D7%99%D7%AA-1.jpg"
+ },
+ "t067": {
+  "name": "מקופלת",
+  "file": "93633.jpg",
+  "from": "https://www.elite.co.il/%D7%A1%D7%95%D7%93-%D7%A9%D7%9C-85-%D7%A9%D7%A0%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%95-%D7%A9%D7%9C-%D7%97%D7%98%D7%99%D7%A3-%D7%9E%D7%A7%D7%95%D7%A4%D7%9C%D7%AA/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2020/12/93633.jpg"
+ },
+ "t068": {
+  "name": "אגוזי",
+  "file": "Egozi.png",
+  "from": "https://www.elite.co.il/product/%D7%90%D7%92%D7%95%D7%96%D7%99/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2021/01/Egozi.png"
+ },
+ "t069": {
+  "name": "שוקולד פרה",
+  "file": "Cat_485753_6518.jpg",
+  "from": "https://lechecake.com/%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99%D7%9D-%D7%9C%D7%A2%D7%95%D7%92%D7%94/%D7%9E%D7%9E%D7%AA%D7%A7%D7%99%D7%9D/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%A4%D7%A8%D7%94-%D7%A2%D7%9C%D7%99%D7%AA-%D7%97%D7%9C%D7%91-100-%D7%92%D7%A8%D7%9D",
+  "url": "https://lechecake.com/Cat_485753_6518.jpg"
+ },
+ "t070": {
+  "name": "חלבה",
+  "file": "image-12-550x550.png",
+  "from": "https://www.baracke.co.il/product/%D7%97%D7%9C%D7%91%D7%94-%D7%A7%D7%9C%D7%90%D7%A1%D7%99%D7%AA-%D7%95%D7%A0%D7%99%D7%9C/",
+  "url": "https://www.baracke.co.il/wp-content/uploads/2023/07/image-12-550x550.png"
+ },
+ "t071": {
+  "name": "עוגיות פתי בר",
+  "file": "product147_image1_2021-12-29_12-35-58.jpg",
+  "from": "https://www.ayaakov.co.il/products/item/147",
+  "url": "https://www.ayaakov.co.il/files/products/product147_image1_2021-12-29_12-35-58.jpg"
+ },
+ "t072": {
+  "name": "עוגיות עבאדי",
+  "file": "10004217.jpg",
+  "from": "https://www.kravitz.co.il/products/%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA-%D7%A2%D7%91%D7%90%D7%93%D7%99-%D7%9E%D7%96%D7%A8%D7%97%D7%99%D7%95%D7%AA-%D7%A4%D7%A8%D7%99%D7%9A-%D7%91%D7%9E%D7%99%D7%95%D7%97%D7%93-400-%D7%92%D7%A8%D7%9D-1?srsltid=AYCX9vI1sBBaC8JIgCGGTz1VsXpr9O7lB08Y3FJX_ZZD0yO3PwCdoz0t",
+  "url": "https://www.kravitz.co.il/cdn/shop/files/10004217.jpg?v=1771861440&width=585"
+ },
+ "t073": {
+  "name": "שוקו בשקית",
+  "file": "2025-09-03T21-20-19-187Z.jpg",
+  "from": "https://www.yuda.co.il/?catalogProduct=3903&srsltid=AYCX9vIhDcM-XhVgyX_1LC960rldAF65hTuZgGIhoSdh9RN544QMEgXv",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1492/large/7290000042855-991810/7290000042855/2025-09-03T21-20-19-187Z.jpg"
+ },
+ "t074": {
+  "name": "חלב בשקית",
+  "file": "5766_tumb_800X480.jpg",
+  "from": "https://www.kore.co.il/viewArticle/168495",
+  "url": "https://media.kore.co.il/articles/5766_tumb_800X480.jpg"
+ },
+ "t075": {
+  "name": "קוטג'",
+  "file": "FILE-20230104-16485RARL99H1Y17.jpg",
+  "from": "https://www.livingclub.co.il/?page=Benefit&uuid=b9f74bcf-4d26-4dcc-8b2d-9e52302b",
+  "url": "https://styleproductionpublic.blob.core.windows.net/files/560/FILE-20230104-16485RARL99H1Y17.jpg"
+ },
+ "t076": {
+  "name": "גבינה צפתית",
+  "file": "2025-05-23T15-26-01-352Z.jpg",
+  "from": "https://www.keshet-teamim.co.il/?catalogProduct=12614",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1219/large/7290000048437-962909/2025-05-23T15-26-01-352Z.jpg"
+ },
+ "t077": {
+  "name": "מעדן מילקי",
+  "file": "2026-01-14T03-17-20-877Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=2558856&srsltid=AYCX9vJyhzZb0C3Uxp3q-9pF78LjvwkVJU-9t6dKewOJPmZ3S7n5cnaE",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/72940761-1020317/72940761/2026-01-14T03-17-20-877Z.jpg"
+ },
+ "t078": {
+  "name": "דני",
+  "file": "small.jpg",
+  "from": "https://www.rami-levy.co.il/he/online/market/%D7%97%D7%9C%D7%91-%D7%91%D7%99%D7%A6%D7%99%D7%9D-%D7%95%D7%A1%D7%9C%D7%98%D7%99%D7%9D/%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98-%D7%95%D7%9E%D7%A2%D7%93%D7%A0%D7%99-%D7%97%D7%9C%D7%91/%D7%9E%D7%A2%D7%93%D7%A0%D7%99-%D7%97%D7%9C%D7%91-%D7%95%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/%D7%93%D7%A0%D7%99-%D7%91%D7%98%D7%A2%D7%9D-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%9C%D7%A9%D7%AA%D7%99%D7%99%D7%94-%D7%9E-%D7%9C",
+  "url": "https://www.rami-levy.co.il/_ipx/w_366,f_webp/https://img.rami-levy.co.il/product/7290104726262/small.jpg"
+ },
+ "t079": {
+  "name": "אשל",
+  "file": "large.jpg",
+  "from": "https://www.shoretzki.com/?catalogProduct=11805",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/11805/2130702/large.jpg"
+ },
+ "t080": {
+  "name": "קפה שחור",
+  "file": "elit1051-scaled.jpg",
+  "from": "https://blog.elite-coffee.co.il/howtomaketurkishcoffee/",
+  "url": "https://blog.elite-coffee.co.il/wp-content/uploads/2022/12/elit1051-scaled.jpg"
+ },
+ "t081": {
+  "name": "זעתר",
+  "file": "7290015324076-1.jpg",
+  "from": "https://www.tv-spices.co.il/product/%D7%96%D7%A2%D7%AA%D7%A8-%D7%AA%D7%A2%D7%A8%D7%95%D7%91%D7%AA-%D7%AA%D7%99%D7%91%D7%95%D7%9C-2/",
+  "url": "https://www.tv-spices.co.il/wp-content/uploads/2019/06/7290015324076-1.jpg"
+ },
+ "t082": {
+  "name": "סילאן",
+  "file": "2025-09-02T11-48-23-853Z.jpg",
+  "from": "https://www.keshet-teamim.co.il/categories/95280/products?catalogProduct=2347659",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1219/large/7290101551300-1007180/7290101551300/2025-09-02T11-48-23-853Z.jpg"
+ },
+ "t083": {
+  "name": "שקדי מרק",
+  "file": "OJL14_Z_P_63140_1.png",
+  "from": "https://www.shufersal.co.il/online/he/p/P_63140",
+  "url": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_zoom/OJL14_Z_P_63140_1.png"
+ },
+ "t084": {
+  "name": "מנה חמה",
+  "file": "מנה_חמה_נודלס_בקר.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94_%D7%97%D7%9E%D7%94",
+  "url": "https://upload.wikimedia.org/wikipedia/he/2/2e/%D7%9E%D7%A0%D7%94_%D7%97%D7%9E%D7%94_%D7%A0%D7%95%D7%93%D7%9C%D7%A1_%D7%91%D7%A7%D7%A8.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t085": {
+  "name": "פטל",
+  "file": "K126321_400_400.png",
+  "from": "https://www.lev-hamisrad.co.il/%D7%AA%D7%A8%D7%9B%D7%99%D7%96-%D7%95%D7%99%D7%98%D7%9E%D7%99%D7%A0%D7%A6%D7%99%D7%A7-1-%D7%9C%D7%99%D7%98%D7%A8-%D7%90%D7%A1%D7%9D-%D7%A2%D7%A0%D7%91%D7%99%D7%9D%D7%A4%D7%98%D7%9C-i7262?srsltid=AYCX9vLGe3yhbpCTtpVtiTBtK5APLzmk8RM-J1EGxu8aszgDdClf_mge",
+  "url": "https://www.lev-hamisrad.co.il/ProductsImages/thumbs/K126321_400_400.png"
+ },
+ "t086": {
+  "name": "ערק",
+  "file": "0002824_-40-700-.jpeg",
+  "from": "https://www.paneco.co.il/elite-haarak-40",
+  "url": "https://www.paneco.co.il/media/catalog/product/cache/3d47b6f1164987fabe34111a63e15592/0/0/0002824_-40-700-.jpeg"
+ },
+ "t087": {
+  "name": "מאלט שחור",
+  "file": "2026-08-15T16-37-25-099Z.jpg",
+  "from": "https://hawari.shopo.co.il/?catalogProduct=22219",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1184/large/7290006764065-1033183/7290006764065/2026-08-15T16-37-25-099Z.jpg"
+ },
+ "t088": {
+  "name": "ארטיק",
+  "file": "Cat_495623_3878.jpg",
+  "from": "https://az-market.net/catalog.asp?page=newshowprod.asp&prodid=2865567",
+  "url": "https://az-market.net/Cat_495623_3878.jpg"
+ },
+ "t089": {
+  "name": "שלגון",
+  "file": "1671824856_solerotropical-900x900.png.webp",
+  "from": "https://www.chocolateworld.co.il/product/solero-%D7%A9%D7%9C%D7%92%D7%95%D7%9F-%D7%95%D7%A0%D7%99%D7%9C-%D7%95%D7%A4%D7%99%D7%A8%D7%95%D7%AA-%D7%98%D7%A8%D7%95%D7%A4%D7%99%D7%99%D7%9D?srsltid=AYCX9vIB4b9BQJd1hZ2g1Z3JnROK-qi2w5sJB_EnyIDOY4HPfUkeQ4-h",
+  "url": "https://www.chocolateworld.co.il/wp-content/uploads/2022/12/1671824856_solerotropical-900x900.png.webp"
+ },
+ "t090": {
+  "name": "קרטיב",
+  "file": "647339",
+  "from": "https://www.maariv.co.il/news/viral/article-850007",
+  "url": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_881,h_496/647339"
+ },
+ "t091": {
+  "name": "טילון",
+  "file": "1efd44_67de1c50609f47ca9f1fe4ac96f92391~mv2.jpg",
+  "from": "https://www.freezershop.co.il/product-page/%D7%98%D7%99%D7%9C%D7%95%D7%9F-%D7%A7%D7%95%D7%A8%D7%A0%D7%98%D7%95-%D7%95%D7%A0%D7%99%D7%9C?srsltid=AYCX9vJAVRGxs23TxxnQ86EE1knSaPAZfjZMkmwB4FAy_cGW6wVdfvek",
+  "url": "https://static.wixstatic.com/media/1efd44_67de1c50609f47ca9f1fe4ac96f92391~mv2.jpg/v1/fill/w_328,h_840,al_c,lg_1,q_80,enc_avif,quality_auto/1efd44_67de1c50609f47ca9f1fe4ac96f92391~mv2.jpg"
+ },
+ "t092": {
+  "name": "קסטה",
+  "file": "1efd44_e7b34f37b4104fc0afe8dd64a4a06657~mv2.png",
+  "from": "https://www.freezershop.co.il/product-page/%D7%A7%D7%A1%D7%98%D7%94-%D7%98%D7%A2%D7%9E%D7%A7%D7%95%D7%A8-%D7%A8%D7%92%D7%99%D7%9C?srsltid=AYCX9vIybZt1-7AoeXNI95ows-AxPEe1OYMVFIY266OpeH2mcj6K0qAc",
+  "url": "https://static.wixstatic.com/media/1efd44_e7b34f37b4104fc0afe8dd64a4a06657~mv2.png/v1/fill/w_391,h_700,al_c,lg_1,q_85,enc_avif,quality_auto/1efd44_e7b34f37b4104fc0afe8dd64a4a06657~mv2.png"
+ },
+ "t093": {
+  "name": "פומלה",
+  "file": "red-pomelo-fruit-with-leaves-on-the-old-wooden-table-whole-pomelo-with-slice-on-wooden.jpg-s1024x1024wisk20cGt_n90e-QkWrJBKFzVrTeLjN-IVqz9xwQ2nPBs7gz18.jpg",
+  "from": "https://www.fruit.co.il/en/product/%D7%A4%D7%95%D7%9E%D7%9C%D7%94-%D7%90%D7%93%D7%95%D7%9E%D7%94/?srsltid=AYCX9vIugGasyMuTuJ317fCpOYCdvH24vcPC-1i4VYoDf1bwplNCdBKe",
+  "url": "https://www.fruit.co.il/wp-content/uploads/2023/07/red-pomelo-fruit-with-leaves-on-the-old-wooden-table-whole-pomelo-with-slice-on-wooden.jpg-s1024x1024wisk20cGt_n90e-QkWrJBKFzVrTeLjN-IVqz9xwQ2nPBs7gz18.jpg"
+ },
+ "t094": {
+  "name": "אבטיח",
+  "file": "62160d9420588-800x566.jpg",
+  "from": "https://perot.co.il/%D7%90%D7%91%D7%98%D7%99%D7%97-%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%A6%D7%A8%D7%99%D7%9A-%D7%9C%D7%93%D7%A2%D7%AA/",
+  "url": "https://bunny-wp-pullzone-xqgewmrykn.b-cdn.net/wp-content/uploads/2023/02/62160d9420588-800x566.jpg"
+ },
+ "t095": {
+  "name": "רימון",
+  "file": "רימון.jpg",
+  "from": "https://nirschneider.com/%D7%A8%D7%99%D7%9E%D7%95%D7%9F/",
+  "url": "https://nirschneider.com/wp-content/uploads/2021/01/%D7%A8%D7%99%D7%9E%D7%95%D7%9F.jpg"
+ },
+ "t096": {
+  "name": "תמר",
+  "file": "size_600_700-3_0056_shutterstock_709692901-5.jpg",
+  "from": "https://hakole-market.co.il/product/%D7%AA%D7%9E%D7%A8-%D7%9E%D7%92%D7%B3%D7%94%D7%95%D7%9C-%D7%92%D7%B3%D7%9E%D7%91%D7%95/",
+  "url": "https://hakole-market.co.il/wp-content/uploads/size_600_700-3_0056_shutterstock_709692901-5.jpg"
+ },
+ "t097": {
+  "name": "סברס",
+  "file": "M002_14052020154837_large.jpg",
+  "from": "https://www.hapardesan.co.il/product/%D7%A1%D7%91%D7%A8%D7%A1",
+  "url": "https://www.hapardesan.co.il/images/itempics/M002_14052020154837_large.jpg"
+ },
+ "t098": {
+  "name": "אפרסמון",
+  "file": "shutterstock_2551643835.jpg",
+  "from": "https://www.ynet.co.il/wellness/article/sywlybyazg",
+  "url": "https://ynet-pic1.yit.co.il/picserver6/wcm_upload/2026/11/09/By11tz11Uy0ze/shutterstock_2551643835.jpg"
+ },
+ "t099": {
+  "name": "שסק",
+  "file": "Photo-of-a-bunch-of-loquats-isolated-on-a-transparent-background-copy-1.png",
+  "from": "https://arba-onot.com/production/%D7%A9%D7%A1%D7%A7/",
+  "url": "https://arba-onot.com/wp-content/uploads/2024/04/Photo-of-a-bunch-of-loquats-isolated-on-a-transparent-background-copy-1.png"
+ },
+ "t100": {
+  "name": "חרוב",
+  "file": "עץ-חרוב-מצוי.jpg",
+  "from": "https://meny.co.il/flowers/%D7%97%D7%A8%D7%95%D7%91-%D7%9E%D7%A6%D7%95%D7%99/",
+  "url": "https://meny.co.il/wp-content/uploads/2025/12/%D7%A2%D7%A5-%D7%97%D7%A8%D7%95%D7%91-%D7%9E%D7%A6%D7%95%D7%99.jpg"
+ },
+ "t101": {
+  "name": "גרעיני חמנייה",
+  "file": "2026-02-23T13-48-16-136Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=12001&srsltid=AYCX9vIkM5BcQ-qqlFxJ4J3KiXrtw3P5-lx5LLlOwPVTXkI07Rj4d-bZ",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290000148748-1024967/7290000148748/2026-02-23T13-48-16-136Z.jpg"
+ },
+ "t102": {
+  "name": "גרעיני אבטיח",
+  "file": "691f4559bf67c46ccfead3141ac842ea.jpg",
+  "from": "https://www.adonithatavlinim.co.il/items/4281451-%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99-%D7%90%D7%91%D7%98%D7%99%D7%97-%D7%A7%D7%9C%D7%95%D7%99-250-%D7%92%D7%A8%D7%9D-",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/9275848/original/691f4559bf67c46ccfead3141ac842ea.jpg"
+ },
+ "t103": {
+  "name": "סיר פויקה",
+  "file": "81PgUqoTGxL._AC_SL1500_.jpg",
+  "from": "https://icamp.co.il/product/%D7%A4%D7%95%D7%99%D7%A7%D7%94-3-8-%D7%9C%D7%99%D7%98%D7%A8/",
+  "url": "https://icamp.co.il/wp-content/uploads/2022/02/81PgUqoTGxL._AC_SL1500_.jpg"
+ },
+ "t104": {
+  "name": "פינג'אן",
+  "file": "31.png",
+  "from": "https://agrocafe.co.il/product/finjan-cezve/?srsltid=AYCX9vL7pKvhbXc1Gz4z_0dVgVKEZlvl-EIuzIiOtXeARpUvwA7kSZDi",
+  "url": "https://agrocafe.co.il/wp-content/uploads/2023/01/31.png"
+ },
+ "t105": {
+  "name": "מיחם",
+  "file": "ATL-88_800PX-800x714.jpg",
+  "from": "https://www.goldline.co.il/product/%D7%9E%D7%99%D7%97%D7%9D-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94-40-%D7%9B%D7%95%D7%A1%D7%95%D7%AA/",
+  "url": "https://www.goldline.co.il/wp-content/uploads/2019/03/ATL-88_800PX-800x714.jpg"
+ },
+ "t106": {
+  "name": "פלטת שבת",
+  "file": "e81b1983992d9bb52ca5534e41173f22.jpg",
+  "from": "https://www.hacontainer.co.il/items/252271-%D7%A4%D7%9C%D7%98%D7%AA-%D7%A9%D7%91%D7%AA-%D7%A2%D7%A0%D7%A7%D7%99%D7%AA-%D7%91%D7%A6%D7%91%D7%A2-%D7%A9%D7%97%D7%95%D7%A8-6-%D7%A1%D7%99%D7%A8%D7%99%D7%9D-%D7%96%D7%A7-%D7%A9-Sachs-EF-96?srsltid=AYCX9vIpBNSY7DJjz9aOVR2ZlfiUv6NlO-pwj42_rwUwwWLvBKplvNUa",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/3000454/original/e81b1983992d9bb52ca5534e41173f22.jpg"
+ },
+ "t107": {
+  "name": "סודה סטרים",
+  "file": "Terra_Black_428x600_7.png",
+  "from": "https://sodastream.co.il/products/soda-ad-habait?srsltid=AYCX9vL3bhqYKKCd8Q3uQhmENFCKrK0AvueQ9zGiVU7MLWqq-96aFuFC",
+  "url": "http://sodastream.co.il/cdn/shop/products/Terra_Black_428x600_7.png?v=1676206313&width=1200"
+ },
+ "t108": {
+  "name": "מנגל",
+  "file": "6000525-4.jpg",
+  "from": "https://www.ace.co.il/6000525",
+  "url": "https://www.ace.co.il/media/catalog/product/cache/451ce3db112d5ee68c8ed8a187877d0f/6/0/6000525-4.jpg"
+ },
+ "t109": {
+  "name": "שיפודים",
+  "file": "ben_hemo_gilaviram_autoOrient_w.jpg",
+  "from": "https://www.mako.co.il/food-weekend/Article-69fd32ae0335f81027.htm",
+  "url": "https://img.mako.co.il/2024/05/07/ben_hemo_gilaviram_autoOrient_w.jpg"
+ },
+ "t110": {
+  "name": "מנפנף למנגל",
+  "file": "נפנף.jpg",
+  "from": "https://www.clickshop.co.il/%D7%A2%D7%9C-%D7%94%D7%90%D7%A9/343-%D7%A0%D7%A4%D7%A0%D7%A3?srsltid=AYCX9vJf7FMzoulHGyTvsnFkX39Vpfakqt5o8cGIaNkUA_okXzDxEHWa",
+  "url": "https://www.clickshop.co.il/15720-large_default/%D7%A0%D7%A4%D7%A0%D7%A3.jpg"
+ },
+ "t111": {
+  "name": "גזייה",
+  "file": "Primus-mimer-2.jpg",
+  "from": "https://pakalhagor.co.il/product/%D7%92%D7%96%D7%99%D7%94-primus-mimer-classic/",
+  "url": "https://pakalhagor.co.il/wp-content/uploads/2018/09/Primus-mimer-2.jpg"
+ },
+ "t112": {
+  "name": "נרות שבת",
+  "file": "c44d69b6cde4dd588e4af62933270091.jpg",
+  "from": "https://www.rabenu.co.il/he/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%A0%D7%A9%D7%99%D7%9D/%D7%94%D7%9C%D7%9B%D7%95%D7%AA-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D/%D7%94%D7%9C%D7%9B%D7%95%D7%AA-%D7%A9%D7%91%D7%AA/%D7%94%D7%9C%D7%9B%D7%95%D7%AA-%D7%94%D7%93%D7%9C%D7%A7%D7%AA-%D7%A0%D7%A8%D7%95%D7%AA-%D7%A9%D7%91%D7%AA",
+  "url": "https://www.rabenu.co.il/images/content/items/src/c44d69b6cde4dd588e4af62933270091.jpg"
+ },
+ "t113": {
+  "name": "פמוטים",
+  "file": "23b198b14c0bf938947a1ae3acbbcfd37af28588.png",
+  "from": "https://stubadi.com/%D7%96%D7%95%D7%92-%D7%A4%D7%9E%D7%95%D7%98%D7%99%D7%9D-%D7%A9%D7%9E%D7%A9/?srsltid=AYCX9vL_DB21ZblBuar28bfvImaUk4DmX8UMXiYWcG2QphFCsSk_YuLI",
+  "url": "https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/clients/116996/23b198b14c0bf938947a1ae3acbbcfd37af28588.png"
+ },
+ "t114": {
+  "name": "גביע קידוש",
+  "file": "f3924a_ed1de788c9df49c0adb3aefcda014c02~mv2.jpg",
+  "from": "https://www.michalbenyosef.com/kiddushcups",
+  "url": "https://static.wixstatic.com/media/f3924a_ed1de788c9df49c0adb3aefcda014c02~mv2.jpg/v1/fill/w_2500,h_3216,al_c/f3924a_ed1de788c9df49c0adb3aefcda014c02~mv2.jpg"
+ },
+ "t115": {
+  "name": "כיסוי חלה",
+  "file": "2024-03-17SULCHANARUCH-12.jpg",
+  "from": "https://www.shulchanaruch.co.il/product/%D7%9B%D7%99%D7%A1%D7%95%D7%99-%D7%97%D7%9C%D7%94-%D7%A1%D7%99%D7%9E%D7%A4%D7%9C-%D7%9C%D7%91%D7%9F/?srsltid=AYCX9vL_p8ET2fj1Pl2QLyE-SU3VSKEzvt_SbvN4Se6Qxp_21ybswlqr",
+  "url": "https://www.shulchanaruch.co.il/wp-content/uploads/2023/03/2024-03-17SULCHANARUCH-12.jpg"
+ },
+ "t116": {
+  "name": "כיסא פלסטיק",
+  "file": "36-2.jpg-2-scaled-scaled-jpg-webp-webp.webp",
+  "from": "https://www.sroolik.co.il/product/1051/",
+  "url": "https://www.sroolik.co.il/wp-content/uploads/2018/07/36-2.jpg-2-scaled-scaled-jpg-webp-webp.webp"
+ },
+ "t117": {
+  "name": "תריס",
+  "file": "תריס-ונציאני-אלומניום-לפי-מידה.png",
+  "from": "https://glila.co.il/product/%D7%AA%D7%A8%D7%99%D7%A1-%D7%95%D7%A0%D7%A6%D7%99%D7%90%D7%A0%D7%99-%D7%90%D7%9C%D7%95%D7%9E%D7%A0%D7%99%D7%95%D7%9D/?srsltid=AYCX9vLx-RXFJAaxqMX4_ImgS9lku_H2zsBO4sLOKJQ_A2j7WI_bpx4F",
+  "url": "https://glila.co.il/wp-content/uploads/2021/10/%D7%AA%D7%A8%D7%99%D7%A1-%D7%95%D7%A0%D7%A6%D7%99%D7%90%D7%A0%D7%99-%D7%90%D7%9C%D7%95%D7%9E%D7%A0%D7%99%D7%95%D7%9D-%D7%9C%D7%A4%D7%99-%D7%9E%D7%99%D7%93%D7%94.png"
+ },
+ "t118": {
+  "name": "מזוזה",
+  "file": "d6f779d422d4a3e5e8706251cb82623ca312b3fb.png",
+  "from": "https://stubadi.com/%D7%9E%D7%96%D7%95%D7%96%D7%94-%D7%A4%D7%A0%D7%99%D7%A0%D7%99%D7%9D/?srsltid=AYCX9vKcNkja03eXQz70LMkYHrnD69LGVQpf-yGhZ5WltPpxDK6QZ6eC",
+  "url": "https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/clients/116996/d6f779d422d4a3e5e8706251cb82623ca312b3fb.png"
+ },
+ "t119": {
+  "name": "מגב",
+  "file": "b7d64750b2bfabd6d2f5783cc3fb3298.webp",
+  "from": "https://www.pluslaganenet.co.il/items/4127951-%D7%9E%D7%92%D7%91-%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%A7-40-%D7%A1-%D7%9E-%D7%A2%D7%9D-%D7%9E%D7%A7%D7%9C",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/15888970/large/b7d64750b2bfabd6d2f5783cc3fb3298.webp"
+ },
+ "t120": {
+  "name": "סמרטוט רצפה",
+  "file": "13267.webp",
+  "from": "https://hahishook.com/product/%D7%A1%D7%9E%D7%A8%D7%98%D7%95%D7%98-%D7%A8%D7%A6%D7%A4%D7%94-%D7%9E%D7%9B%D7%95%D7%AA%D7%A0%D7%94/?srsltid=AYCX9vLqmmURaLcfTx6yzQxln9VpMeUXkwumdp_5JRC1Ee_gpzZDL5Wv",
+  "url": "https://hahishook.com/wp-content/uploads/2025/08/13267.webp"
+ },
+ "t121": {
+  "name": "דוד שמש",
+  "file": "Layer-5.jpg",
+  "from": "https://www.talsahar.co.il/product/%D7%A7%D7%95%D7%9C%D7%98%D7%99%D7%9D/",
+  "url": "https://www.talsahar.co.il/wp-content/uploads/2025/11/Layer-5.jpg"
+ },
+ "t122": {
+  "name": "קולט שמש",
+  "file": "snkpoxgz30vxtgbaeldu.jpg",
+  "from": "https://www.midrag.co.il/Expanel/Question/413",
+  "url": "https://res.cloudinary.com/midrag/image/upload/c_scale,w_1206,q_auto,f_auto/Cms/snkpoxgz30vxtgbaeldu.jpg"
+ },
+ "t123": {
+  "name": "שעון שבת",
+  "file": "171002_1.jpg",
+  "from": "https://www.goldline.co.il/product/%D7%A9%D7%A2%D7%95%D7%9F-%D7%A9%D7%91%D7%AA-%D7%98%D7%99%D7%99%D7%9E%D7%A8-%D7%9E%D7%97%D7%95%D7%92%D7%99%D7%9D/",
+  "url": "https://www.goldline.co.il/wp-content/uploads/2024/03/171002_1.jpg"
+ },
+ "t124": {
+  "name": "נר נשמה",
+  "file": "1053301-24.jpg",
+  "from": "https://officeandmore.co.il/product/%D7%A0%D7%A8-%D7%A0%D7%A9%D7%9E%D7%94-24-%D7%99%D7%97-%D7%9E%D7%90%D7%A8%D7%96/?srsltid=AYCX9vJLsMJwJP-atrkwwalKi3I7njy-Lf3gXRoy-yW3smT4uk5OgCu9",
+  "url": "https://officeandmore.co.il/wp-content/uploads/2023/03/1053301-24.jpg"
+ },
+ "t125": {
+  "name": "קופסת צדקה",
+  "file": "49963.jpg",
+  "from": "https://mishkan-hatchelet.co.il/m/%D7%A7%D7%95%D7%A4%D7%AA-%D7%A6%D7%93%D7%A7%D7%94-%D7%9E%D7%A8%D7%95%D7%91%D7%A2%D7%AA-%D7%9B%D7%A1%D7%95%D7%A4%D7%94-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-10-%D7%A1%D7%9E/?srsltid=AYCX9vLyGcdSAZRXCIlL8SKp_zTXFn2Fdk1HhV7fPmlN9MDrSWs0v_dO",
+  "url": "https://mishkan-hatchelet.co.il/wp-content/uploads/2025/03/49963.jpg"
+ },
+ "t126": {
+  "name": "חמסה",
+  "file": "חמסה-ממתכת-דגם-חי-צבעוני.jpg",
+  "from": "https://zavurov.co.il/product/%D7%97%D7%9E%D7%A1%D7%94-%D7%9E%D7%A2%D7%95%D7%A6%D7%91%D7%AA-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%AA/",
+  "url": "https://zavurov.co.il/wp-content/uploads/2023/10/%D7%97%D7%9E%D7%A1%D7%94-%D7%9E%D7%9E%D7%AA%D7%9B%D7%AA-%D7%93%D7%92%D7%9D-%D7%97%D7%99-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99.jpg"
+ },
+ "t127": {
+  "name": "כובע טמבל",
+  "file": "קטגורייה-כובעים.jpg",
+  "from": "https://www.kfarmasaryk.co.il/product/%D7%9B%D7%95%D7%91%D7%A2-%D7%A9%D7%99%D7%9D-%D7%9B%D7%95%D7%91%D7%A2-%D7%98%D7%9E%D7%91%D7%9C/",
+  "url": "https://www.kfarmasaryk.co.il/wp-content/uploads/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%99%D7%94-%D7%9B%D7%95%D7%91%D7%A2%D7%99%D7%9D.jpg"
+ },
+ "t128": {
+  "name": "כיפה",
+  "file": "כיפה-נגב.jpeg",
+  "from": "https://www.naturecork.co.il/products/%D7%9B%D7%99%D7%A4%D7%94-%D7%A0%D7%92%D7%91/?srsltid=AYCX9vKmw3OEY4D0jXrDrT_iVwjqg56rIBshj406uZGmjECT2v1pcn6P",
+  "url": "https://www.naturecork.co.il/wp-content/uploads/2025/07/%D7%9B%D7%99%D7%A4%D7%94-%D7%A0%D7%92%D7%91.jpeg"
+ },
+ "t129": {
+  "name": "כיפה סרוגה",
+  "file": "17236.jpg",
+  "from": "https://www.chabadstore.co.il/product/%D7%9B%D7%99%D7%A4%D7%94-%D7%A1%D7%A8%D7%95%D7%92%D7%94-16-%D7%A1%D7%9E-%D7%9B%D7%97%D7%95%D7%9C%D7%94-%D7%9E%D7%A1%D7%91%D7%99%D7%91-%D7%A4%D7%A1%D7%99%D7%9D-%D7%91%D7%92%D7%95%D7%95%D7%9F-%D7%9B/?srsltid=AYCX9vJ1vYMCzI_-Mp4yh8W2qxt2PnuIICPJB9F5rQuNFQZS8NE9FVpX",
+  "url": "https://www.chabadstore.co.il/wp-content/uploads/2025/02/17236.jpg"
+ },
+ "t130": {
+  "name": "מטפחת ראש",
+  "file": "SCP-425-1-scaled.jpg",
+  "from": "https://bracha-online.co.il/product/%D7%9E%D7%98%D7%A4%D7%97%D7%AA-%D7%9E%D7%A8%D7%95%D7%91%D7%A2%D7%AA-%D7%A4%D7%A8%D7%A0%D7%96-%D7%9B%D7%97%D7%95%D7%9C/?srsltid=AYCX9vI0uYsHyH3dC7tzIuRBgtx_6pjcgCyIo-s-m-w2zAGgAzHt6kWl",
+  "url": "https://bracha-online.co.il/wp-content/uploads/2024/08/SCP-425-1-scaled.jpg"
+ },
+ "t131": {
+  "name": "כפכפי אצבע",
+  "file": "KR712-min.jpg",
+  "from": "https://kraus.org.il/product/kr712-%D7%A4%D7%9C%D7%99%D7%A4-%D7%A4%D7%9C%D7%95%D7%A4-%D7%9B%D7%A4%D7%9B%D7%A4%D7%99-%D7%90%D7%A6%D7%91%D7%A2/",
+  "url": "https://kraus.org.il/wp-content/uploads/2021/11/KR712-min.jpg"
+ },
+ "t132": {
+  "name": "סנדלי שורש",
+  "file": "Source-Blue-Square-Example-2.png",
+  "from": "https://limeshoes.co.il/product/%D7%A1%D7%A0%D7%93%D7%9C-%D7%A9%D7%95%D7%A8%D7%A9-%D7%A7%D7%9C%D7%90%D7%A1%D7%99-5/?srsltid=AYCX9vKdvtfRRVljijHrKL4T6p_zgN5QLBl_09QC5cIfGro3vbedJwbF",
+  "url": "https://limeshoes.co.il/wp-content/uploads/2020/07/Source-Blue-Square-Example-2.png"
+ },
+ "t133": {
+  "name": "קרוקס",
+  "file": "211439-001-1.jpg",
+  "from": "https://crocs.co.il/products/211439-001?srsltid=AYCX9vKuwSwO4IJZaDyWu1YQDRnzdIc9DChaBzz25fMqWN9vQ4elF8Ug",
+  "url": "https://sfycdn.speedsize.com/1f99ce09-afb7-4435-9b06-8c28d6b78b8e/https://crocs.co.il/cdn/shop/files/211439-001-1.jpg?v=1770823217"
+ },
+ "t134": {
+  "name": "טלית",
+  "file": "צמר-תמנית-2.jpg",
+  "from": "https://shirathakodesh.co.il/product/100-%D7%A6%D7%9E%D7%A8-%D7%98%D7%9C%D7%99%D7%AA-%D7%AA%D7%9E%D7%A0%D7%99%D7%AA/?srsltid=AYCX9vLJUgdOAQmfdfka4bvkdg3K76ukTLgV22q41Amb5MIvYs8NPZk0",
+  "url": "https://shirathakodesh.co.il/wp-content/uploads/2022/06/%D7%A6%D7%9E%D7%A8-%D7%AA%D7%9E%D7%A0%D7%99%D7%AA-2.jpg"
+ },
+ "t135": {
+  "name": "ציצית",
+  "file": "ציצית-צמר-שחור-עפ-פרנזים.jpg",
+  "from": "https://mishkan-hatchelet.co.il/m/tzitzit-wool/?srsltid=AYCX9vK7sDF6ZxVbfFo_stjprsfD6tvI1h_dpE2WXGJrqWHzBLeyRD_y",
+  "url": "https://mishkan-hatchelet.co.il/wp-content/uploads/2017/03/%D7%A6%D7%99%D7%A6%D7%99%D7%AA-%D7%A6%D7%9E%D7%A8-%D7%A9%D7%97%D7%95%D7%A8-%D7%A2%D7%A4-%D7%A4%D7%A8%D7%A0%D7%96%D7%99%D7%9D.jpg"
+ },
+ "t136": {
+  "name": "תפילין",
+  "file": "young-man-putting-on-tefillin-shel-rosh.jpg",
+  "from": "https://tefillin-aliya.org/tefillin-shel-rosh/",
+  "url": "https://tefillin-aliya.org/wp-content/uploads/2026/05/young-man-putting-on-tefillin-shel-rosh.jpg"
+ },
+ "t137": {
+  "name": "שרשרת חמסה",
+  "file": "חמסה-2-3843Y.jpg.webp",
+  "from": "https://www.thebursa.co.il/product/%D7%AA%D7%9C%D7%99%D7%95%D7%9F-%D7%99%D7%94%D7%9C%D7%95%D7%9E%D7%99%D7%9D-%D7%97%D7%9E%D7%A1%D7%94-%D7%96%D7%94%D7%91-%D7%A6%D7%94%D7%95%D7%91-%D7%9C%D7%91%D7%9F-14k-%D7%9E%D7%A9%D7%95%D7%91%D7%A5/",
+  "url": "https://www.thebursa.co.il/wp-content/uploads/2022/05/%D7%97%D7%9E%D7%A1%D7%94-2-3843Y.jpg.webp"
+ },
+ "t138": {
+  "name": "צמיד חוט אדום",
+  "file": "IMG-7666.jpg",
+  "from": "https://www.almamylove.com/product/wishing-bracelet-yellow-gold-filled-and-red-thread/?srsltid=AYCX9vKpsmy9IVK1sdSKL7gjhgOhHH7i3gWkTIHT5oCBboodbXcOh7xB",
+  "url": "https://www.almamylove.com/wp-content/uploads/2019/12/IMG-7666.jpg"
+ },
+ "t139": {
+  "name": "תיק צד",
+  "file": "41095380_1.jpg",
+  "from": "https://www.skechers.co.il/products/41095380tpe?srsltid=AYCX9vIm7womzepzIOZn8Ecw1KEvRfDx96pp_GYumg3EPvA9J0VudJGN",
+  "url": "https://www.skechers.co.il/cdn/shop/files/41095380_1.jpg?v=1781012704&width=1040"
+ },
+ "t140": {
+  "name": "פאוץ'",
+  "file": "15455_080820241126440_large.jpg",
+  "from": "https://www.filo.co.il/product/%D7%A4%D7%90%D7%95%D7%A5-%D7%91%D7%93",
+  "url": "https://www.filo.co.il/images/itempics/15455_080820241126440_large.jpg"
+ },
+ "t141": {
+  "name": "עגלת שוק",
+  "file": "a4c3129b7d6f10646ad674a86d74c50f-1.jpg",
+  "from": "https://www.pmarket.co.il/product/%D7%A2%D7%92%D7%9C%D7%AA-%D7%A9%D7%95%D7%A7-%D7%9E%D7%AA%D7%9B%D7%AA-%D7%92%D7%93%D7%95%D7%9C%D7%94-%D7%92%D7%9C%D7%92%D7%9C%D7%99%D7%9D-%D7%9E%D7%A1%D7%AA%D7%95%D7%91%D7%91%D7%99%D7%9D-360-%D7%9E/",
+  "url": "https://www.pmarket.co.il/wp-content/uploads/2023/12/a4c3129b7d6f10646ad674a86d74c50f-1.jpg"
+ },
+ "t142": {
+  "name": "קיטבג",
+  "file": "35L-removebg-preview.png",
+  "from": "https://delta-force.co.il/product/%D7%AA%D7%99%D7%A7-%D7%92%D7%91-%D7%98%D7%A7%D7%98%D7%99-%D7%A7%D7%99%D7%98%D7%91%D7%92-25-35-%D7%9C%D7%99%D7%98%D7%A8-%D7%93%D7%92%D7%9D-kitbag/",
+  "url": "https://delta-force.co.il/wp-content/uploads/2020/07/35L-removebg-preview.png"
+ },
+ "t143": {
+  "name": "מדי צה\"ל",
+  "file": "images",
+  "from": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9q8iYVpgiRQAqmrI72MJyhqbI562baLXO2elizdU2y7-f6W-cXZTKUso&s=10",
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9q8iYVpgiRQAqmrI72MJyhqbI562baLXO2elizdU2y7-f6W-cXZTKUso&s=10"
+ },
+ "t144": {
+  "name": "כומתה",
+  "file": "כומתה.jpg",
+  "from": "https://pakalhagor.co.il/product/%D7%9B%D7%95%D7%9E%D7%AA%D7%94/",
+  "url": "https://pakalhagor.co.il/wp-content/uploads/2021/02/%D7%9B%D7%95%D7%9E%D7%AA%D7%94.jpg"
+ },
+ "t145": {
+  "name": "נעלי צבא",
+  "file": "0_1369854291.jpg",
+  "from": "https://www.hagorshops.co.il/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9E%D7%95%D7%A6%D7%A8%D7%99%D7%9D-%D7%97%D7%92%D7%95%D7%A8-%D7%A9%D7%95%D7%A4%D7%A1/%D7%A0%D7%A2%D7%9C%D7%99-%D7%A6%D7%91%D7%90-%D7%A7%D7%9C%D7%95%D7%AA-%D7%A4%D7%A1-%D7%9B%D7%97%D7%95%D7%9C/?srsltid=AYCX9vLiT5YTZkuzTugL5RDFG_eOeu_AX7kkxrt7Vz005cH5170m2IM4",
+  "url": "https://www.hagorshops.co.il/images/Products/big800/0_1369854291.jpg"
+ },
+ "t146": {
+  "name": "דיסקית",
+  "file": "318738.jpg",
+  "from": "https://www.maxstock.co.il/product/%D7%93%D7%99%D7%A1%D7%A7%D7%99%D7%AA-%D7%97%D7%9C%D7%A7%D7%94-%D7%A2%D7%9D-%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA/",
+  "url": "https://cdn.maxstock.co.il/wp-content/uploads/2025/02/318738.jpg"
+ },
+ "t147": {
+  "name": "חוגר",
+  "file": "330px-תעודת_חוגר.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%97%D7%95%D7%92%D7%A8",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%97%D7%95%D7%92%D7%A8.jpg/330px-%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%97%D7%95%D7%92%D7%A8.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t148": {
+  "name": "חולצת תנועת נוער",
+  "file": "751-חולצת-תנועה-שרוך-1.webp",
+  "from": "https://newform.co.il/product/751-%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%AA%D7%A0%D7%95%D7%A2%D7%94-%D7%A9%D7%A8%D7%95%D7%9A/",
+  "url": "https://newform.co.il/wp-content/uploads/2026/06/751-%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%AA%D7%A0%D7%95%D7%A2%D7%94-%D7%A9%D7%A8%D7%95%D7%9A-1.webp"
+ },
+ "t149": {
+  "name": "טלפון כשר",
+  "file": "9d4527053cdc95e57a1202d450a9631b.png",
+  "from": "https://refaeli.co.il/items/7959527-5X5?srsltid=AYCX9vIWEnVsPzW-jlR9rxZurgIkpatCFphPiyWf6QsjNFeY8zICPppS",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/16655034/large/9d4527053cdc95e57a1202d450a9631b.png"
+ },
+ "t150": {
+  "name": "שטר של 20 שקל",
+  "file": "19_l.jpg",
+  "from": "https://www.calcalist.co.il/local/articles/0,7340,L-3725232,00.html",
+  "url": "https://pic1.calcalist.co.il/PicServer3/2017/01/31/700260/19_l.jpg"
+ },
+ "t151": {
+  "name": "שטר של 50 שקל",
+  "file": "518683401000100490251no.jpg",
+  "from": "https://www.ynet.co.il/articles/0,7340,L-4494094,00.html",
+  "url": "https://images1.ynet.co.il/PicServer3/2014/03/02/5186912/518683401000100490251no.jpg"
+ },
+ "t152": {
+  "name": "שטר של 100 שקל",
+  "file": "7420170100-2_jpg.webp",
+  "from": "https://il.israelmint.com/he/7420170100.html",
+  "url": "https://il.israelmint.com/pub/media/amasty/webp/catalog/product/cache/effbd80517d67d88dc01ab37c9aa67fa/7/4/7420170100-2_jpg.webp"
+ },
+ "t153": {
+  "name": "שטר של 200 שקל",
+  "file": "56147.webp",
+  "from": "https://www.themarker.com/markets/2024-09-26/ty-article/.premium/00000192-2d29-dc91-a1df-bfab70c70000",
+  "url": "https://img.haarets.co.il/bs/00000192-2d2e-d67f-a1ff-2dfe06530001/06/be/44487f8e4faf948691acce771c65/56147.webp"
+ },
+ "t154": {
+  "name": "מטבע של שקל",
+  "file": "1280px-1_new_shekel.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A9%D7%A7%D7%9C_%D7%97%D7%93%D7%A9_%D7%90%D7%97%D7%93",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/1_new_shekel.jpg/1280px-1_new_shekel.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "t155": {
+  "name": "מטבע של 5 שקלים",
+  "file": "71ZXV0029iL.jpg",
+  "from": "https://www.amazon.com/-/he/%D7%9E%D7%98%D7%91%D7%A2-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%A8%D7%A9%D7%9E%D7%99-%D7%A2%D7%91%D7%A8%D7%99-%D7%9C%D7%90%D7%A1%D7%A4%D7%A0%D7%95%D7%AA/dp/B07MDXX845",
+  "url": "https://m.media-amazon.com/images/I/71ZXV0029iL.jpg"
+ },
+ "t156": {
+  "name": "מטבע של 10 שקלים",
+  "file": "250px-10_NIS_coin.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A2%D7%A9%D7%A8%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%97%D7%93%D7%A9%D7%99%D7%9D_(%D7%9E%D7%98%D7%91%D7%A2)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/10_NIS_coin.jpg/250px-10_NIS_coin.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t157": {
+  "name": "מטבע של 10 אגורות",
+  "file": "64010a-1_jpg.webp",
+  "from": "https://il.israelmint.com/he/641991010abhu.html",
+  "url": "https://il.israelmint.com/pub/media/amasty/webp/catalog/product/cache/effbd80517d67d88dc01ab37c9aa67fa/6/4/64010a-1_jpg.webp"
+ },
+ "t158": {
+  "name": "כרטיס רב קו",
+  "file": "hand_l.jpg",
+  "from": "https://www.calcalist.co.il/local/articles/0,7340,L-3846243,00.html",
+  "url": "https://pic1.calcalist.co.il/PicServer3/2017/08/09/748205/hand_l.jpg"
+ },
+ "t159": {
+  "name": "תעודת זהות",
+  "file": "id_manufacturing_date.png",
+  "from": "https://www.gov.il/he/service/activation_of_smart_indentification_card",
+  "url": "https://www.gov.il/BlobFolder/service/activation_of_smart_indentification_card/he/id_manufacturing_date.png"
+ },
+ "t160": {
+  "name": "דרכון",
+  "file": "shutterstock_1400840330_oyhvb4.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001414670",
+  "url": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1647269615/direct/shutterstock_1400840330_oyhvb4.jpg"
+ },
+ "t161": {
+  "name": "דו\"ח חניה",
+  "file": "24201e21-3fd4-4718-9f4a-057d115552c3-e1542107086758.webp",
+  "from": "https://ononews.co.il/wp-content/uploads/2018/11/24201e21-3fd4-4718-9f4a-057d115552c3-e1542107086758.webp",
+  "url": "https://ononews.co.il/wp-content/uploads/2018/11/24201e21-3fd4-4718-9f4a-057d115552c3-e1542107086758.webp"
+ },
+ "t162": {
+  "name": "טופס לוטו",
+  "file": "טפסי-לוטו-מילוי-עם-עט-מוקאפ-768x1152.webp",
+  "from": "https://lotto365.co.il/",
+  "url": "https://lotto365.co.il/wp-content/uploads/2025/12/%D7%98%D7%A4%D7%A1%D7%99-%D7%9C%D7%95%D7%98%D7%95-%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A2%D7%9D-%D7%A2%D7%98-%D7%9E%D7%95%D7%A7%D7%90%D7%A4-768x1152.webp"
+ },
+ "t163": {
+  "name": "פתק הצבעה",
+  "file": "f221012ys11-copy.jpg",
+  "from": "https://www.idi.org.il/knesset-committees/59386",
+  "url": "https://www.idi.org.il/media/28105/f221012ys11-copy.jpg"
+ },
+ "t164": {
+  "name": "תעודת חוגר",
+  "file": "330px-תעודת_קצין_סגן_משנה.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%97%D7%95%D7%92%D7%A8",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%A7%D7%A6%D7%99%D7%9F_%D7%A1%D7%92%D7%9F_%D7%9E%D7%A9%D7%A0%D7%94.jpg/330px-%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%A7%D7%A6%D7%99%D7%9F_%D7%A1%D7%92%D7%9F_%D7%9E%D7%A9%D7%A0%D7%94.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t165": {
+  "name": "צבעי פנדה",
+  "file": "1081_14022022192106.jpg",
+  "from": "https://www.danielagan-rehovot.co.il/product/%D7%A6%D7%91%D7%A2%D7%99-%D7%A4%D7%A0%D7%93%D7%94",
+  "url": "https://www.danielagan-rehovot.co.il/images/itempics/1081_14022022192106.jpg"
+ },
+ "t166": {
+  "name": "סידור",
+  "file": "1051-2.jpg",
+  "from": "https://www.sifreiorhachaim.co.il/product/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%90%D7%95%D7%A8-%D7%97%D7%93%D7%A9-%D7%9C%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%97%D7%95%D7%9C/",
+  "url": "https://www.sifreiorhachaim.co.il/wp-content/uploads/2021/06/1051-2.jpg"
+ },
+ "t167": {
+  "name": "תנ\"ך",
+  "file": "images",
+  "from": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg993pzvf-nNu4_VhdR6JHMnu0TV6y9jM0uA_v52yG0MRNbuwW9F8mGYY&s=10",
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg993pzvf-nNu4_VhdR6JHMnu0TV6y9jM0uA_v52yG0MRNbuwW9F8mGYY&s=10"
+ },
+ "t168": {
+  "name": "הגדה של פסח",
+  "file": "0620109-1.jpg",
+  "from": "https://www.sifreiorhachaim.co.il/product/%D7%94%D7%92%D7%93%D7%94-%D7%A9%D7%9C-%D7%A4%D7%A1%D7%97-%D7%9C%D7%99%D7%95%D7%95%D7%A8%D7%A0%D7%95/",
+  "url": "https://www.sifreiorhachaim.co.il/wp-content/uploads/2022/05/0620109-1.jpg"
+ },
+ "t169": {
+  "name": "ספר תהילים",
+  "file": "2951_01122022170209.jpg",
+  "from": "https://www.hbooks.co.il/product/%D7%A1%D7%A4%D7%A8-%D7%AA%D7%94%D7%99%D7%9C%D7%99%D7%9D-%D7%98%D7%95%D7%91-%D7%9C%D7%94%D7%95%D7%93%D7%95%D7%AA-%D7%A4%D7%95%D7%A8%D7%9E%D7%98-%D7%A2%D7%A0%D7%A7--%D7%98%D7%95%D7%91-%D7%9C%D7%94%D7%95%D7%93%D7%95%D7%AA",
+  "url": "https://www.hbooks.co.il/images/itempics/2951_01122022170209.jpg"
+ },
+ "t170": {
+  "name": "מונית",
+  "file": "ryGJ370PFze_0_174_2001_1126_0_x-large.jpg",
+  "from": "https://www.calcalist.co.il/local_news/car/article/ryy3gavfzx",
+  "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/ryGJ370PFze/ryGJ370PFze_0_174_2001_1126_0_x-large.jpg"
+ },
+ "t171": {
+  "name": "רכבת קלה",
+  "file": "הרכבת הקלה. צילום דוברות עיריית תל אביב-יפו.jpg",
+  "from": "https://www.tel-aviv.gov.il/Pages/MainItemPage.aspx?WebID=3af57d92-807c-43c5-8d5f-6fd455eb2776&ListID=81e17809-311d-4bba-9bf1-2363bb9debcd&ItemID=2694",
+  "url": "https://www.tel-aviv.gov.il/StockImages/%D7%94%D7%A8%D7%9B%D7%91%D7%AA%20%D7%94%D7%A7%D7%9C%D7%94.%20%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%93%D7%95%D7%91%D7%A8%D7%95%D7%AA%20%D7%A2%D7%99%D7%A8%D7%99%D7%99%D7%AA%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95.jpg"
+ },
+ "t172": {
+  "name": "שלט נהג חדש",
+  "file": "ask_new_driver_sign.jpg",
+  "from": "https://ask.ralbad.org.il/how-long-must-a-new-driver-display-the-new-driver-sign/",
+  "url": "https://ask.ralbad.org.il/wp-content/uploads/2022/08/ask_new_driver_sign.jpg"
+ },
+ "t173": {
+  "name": "דוכן פיס",
+  "file": "photo_2021_11_10_23_54_06.jpg",
+  "from": "https://www.ynet.co.il/news/article/sk2gj1rst",
+  "url": "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2021/11/10/HkMrepKwK/photo_2021_11_10_23_54_06.jpg"
+ },
+ "t174": {
+  "name": "תיבת דואר אדומה",
+  "file": "shutterstock_1481473859_me9mpu.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001356110",
+  "url": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800%2A392/v1609926663/direct/shutterstock_1481473859_me9mpu.jpg"
+ },
+ "t175": {
+  "name": "ארגז פלסטיק של חלב",
+  "file": "m_Plasgad_12_2_17_65027-917511.jpg",
+  "from": "https://www.plasgad.com/he/product/aievn/",
+  "url": "https://www.plasgad.com/wp-content/uploads/2021/07/m_Plasgad_12_2_17_65027-917511.jpg"
+ },
+ "t176": {
+  "name": "סביבון",
+  "file": "4b594914e4a8efcb36032aa7fa69fe24-600x600.jpg",
+  "from": "https://beerbazaar.co.il/products/%D7%A1%D7%91%D7%99%D7%91%D7%95%D7%9F-%D7%A2%D7%A5",
+  "url": "https://beerbazaar.co.il/cdn/shop/files/4b594914e4a8efcb36032aa7fa69fe24-600x600.jpg?v=1733654753"
+ },
+ "t177": {
+  "name": "קלפי טאקי",
+  "file": "Cat_489700_11027.jpg",
+  "from": "https://play-smart.co.il/shafir_games_super_taki?srsltid=AYCX9vIXIlNeqsjhHxOx5TOaYUlSKbXUWwLzzx6uXm5_jsmWjL7aq8cq",
+  "url": "https://play-smart.co.il/Cat_489700_11027.jpg"
+ },
+ "t178": {
+  "name": "רמיקוב",
+  "file": "rummikub-classic-one.jpg",
+  "from": "https://www.logogift.co.il/product/rummikub-classic-one/",
+  "url": "https://www.logogift.co.il/wp-content/uploads/2024/05/rummikub-classic-one.jpg"
+ },
+ "t179": {
+  "name": "שש בש",
+  "file": "Backgammon_lg.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A9%D7%A9_%D7%91%D7%A9",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Backgammon_lg.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t180": {
+  "name": "חמש אבנים",
+  "file": "b88c697eddd240e9766adac2ad2e5166.jpg",
+  "from": "https://keshev.org/product/%D7%97%D7%9E%D7%A9-%D7%90%D7%91%D7%A0%D7%99%D7%9D/",
+  "url": "https://keshev.org/wp-content/uploads/2015/12/b88c697eddd240e9766adac2ad2e5166.jpg"
+ },
+ "t181": {
+  "name": "מטקות",
+  "file": "Matka1043098.jpg",
+  "from": "https://matkotshop.co.il/?product=mtk10001",
+  "url": "https://matkotshop.co.il/wp-content/uploads/2020/08/Matka1043098.jpg"
+ },
+ "t182": {
+  "name": "רעשן",
+  "file": "0002945_-_600.jpg",
+  "from": "https://www.mesiba.net/%D7%A8%D7%A2%D7%A9%D7%9F-%D7%A2%D7%A5/",
+  "url": "https://www.mesiba.net/media/source/0002945_-_600.jpg"
+ },
+ "t183": {
+  "name": "מסכה לפורים",
+  "file": "1050303.jpg",
+  "from": "https://officeandmore.co.il/product/%D7%9E%D7%A1%D7%9B%D7%AA-%D7%A2%D7%99%D7%A0%D7%99%D7%99%D7%9D-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%AA-%D7%97%D7%91-12/?srsltid=AYCX9vJxr7x_KUP4VwcxArzHqLHVEtOSDLiDkZ-awWwP2I5lqI7U4nMQ",
+  "url": "https://officeandmore.co.il/wp-content/uploads/2023/02/1050303.jpg"
+ },
+ "t184": {
+  "name": "חנוכייה",
+  "file": "d2fb689e74a907951fbcf16d13cc9a19.jpg",
+  "from": "https://www.rabenu.co.il/he/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%A0%D7%A9%D7%99%D7%9D/%D7%94%D7%9C%D7%9B%D7%95%D7%AA-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D/%D7%94%D7%9C%D7%9B%D7%95%D7%AA-%D7%97%D7%A0%D7%95%D7%9B%D7%94-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D",
+  "url": "https://www.rabenu.co.il/images/content/items/src/d2fb689e74a907951fbcf16d13cc9a19.jpg"
+ },
+ "t185": {
+  "name": "נרות חנוכה",
+  "file": "0835811008170-1024x1024.b197b0.webp",
+  "from": "https://hahishook.com/product/%D7%A0%D7%A8%D7%95%D7%AA-%D7%97%D7%A0%D7%95%D7%9B%D7%94/?srsltid=AYCX9vLzTwJk2yyqUXWSn4IkUIc-3RM25LHzSRgqUFVci8SUGaLsNKPH",
+  "url": "https://hahishook.com/wp-content/uploads/2026/10/0835811008170-1024x1024.b197b0.webp"
+ },
+ "t186": {
+  "name": "פטיש פלסטיק מתנפח",
+  "file": "inflatable-hammer.jpg",
+  "from": "https://www.gadgetshop.co.il/products/inflatable-hammer?srsltid=AYCX9vLY1jmVFP9HyBmzdtp3-dcCphnotwrBuqDttshXCH6w0rPxQ9O9",
+  "url": "https://www.gadgetshop.co.il/cdn/shop/files/inflatable-hammer.jpg?v=1745250426"
+ },
+ "t187": {
+  "name": "ספריי קצף",
+  "file": "259890_201020211836511.jpg",
+  "from": "https://www.dror-creative.co.il/product/%D7%9E%D7%A9%D7%97%D7%A7%D7%A6%D7%A3---%D7%A1%D7%A4%D7%A8%D7%99%D7%99-%D7%A7%D7%A6%D7%A3-%D7%9C%D7%99%D7%A6%D7%99%D7%A8%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D?srsltid=AYCX9vLkLLnrViXk9OwZ4iK_ANtOGzyO1UBtEG4xJk-6mL3JjvLNmMhx",
+  "url": "https://www.dror-creative.co.il/images/itempics/259890_201020211836511.jpg"
+ },
+ "t188": {
+  "name": "שופר",
+  "file": "Shofar-0006.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A4%D7%A8",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Shofar-0006.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t189": {
+  "name": "לולב",
+  "file": "4minimas.jpg",
+  "from": "https://www.daat.ac.il/encyclopedia/value.asp?id1=868",
+  "url": "https://www.daat.ac.il/encyclopedia/images/4minimas.jpg"
+ },
+ "t190": {
+  "name": "אתרוג",
+  "file": "אתרוג.jpg",
+  "from": "https://rambam-medicine.org.il/why-citron/",
+  "url": "https://rambam-medicine.org.il/wp-content/uploads/2024/10/%D7%90%D7%AA%D7%A8%D7%95%D7%92.jpg"
+ },
+ "t191": {
+  "name": "סוכה",
+  "file": "IMG_3230.jpg",
+  "from": "https://sukot.org/%D7%A1%D7%95%D7%9B%D7%94-%D7%9C%D7%9E%D7%9B%D7%99%D7%A8%D7%94/?srsltid=AYCX9vL49NX3s0OKAQbbbZl4SaRWNAAbuLkjyGr-t8njV5FjKTZvYmmj",
+  "url": "http://www.sukot.org/wp-content/uploads/2014/09/IMG_3230.jpg"
+ },
+ "t192": {
+  "name": "קישוטי סוכה",
+  "file": "רעיון-לקישוט-סוכה-מתוק-לירון-רופא.png",
+  "from": "https://lironroffe.com/%D7%A7%D7%99%D7%A9%D7%95%D7%98-%D7%9C%D7%A1%D7%95%D7%9B%D7%94-%D7%9E%D7%AA%D7%95%D7%A7/",
+  "url": "https://lironroffe.com/wp-content/uploads/2023/09/%D7%A8%D7%A2%D7%99%D7%95%D7%9F-%D7%9C%D7%A7%D7%99%D7%A9%D7%95%D7%98-%D7%A1%D7%95%D7%9B%D7%94-%D7%9E%D7%AA%D7%95%D7%A7-%D7%9C%D7%99%D7%A8%D7%95%D7%9F-%D7%A8%D7%95%D7%A4%D7%90.png"
+ },
+ "t193": {
+  "name": "משלוח מנות",
+  "file": "משלוח-מנות-רעיונות.jpeg",
+  "from": "https://kanyonmamtakim.co.il/product/%D7%9E%D7%A9%D7%9C%D7%95%D7%97-%D7%9E%D7%A0%D7%95%D7%AA-%D7%A9%D7%99-%D7%9C%D7%A4%D7%95%D7%A8%D7%99%D7%9D/?srsltid=AYCX9vJ8-5gsKxQA4Fd9mUmA_n4Oz4aS3rHrQ1JhLIC9mSjdSc5pxF4H",
+  "url": "https://kanyonmamtakim.co.il/wp-content/uploads/2022/03/%D7%9E%D7%A9%D7%9C%D7%95%D7%97-%D7%9E%D7%A0%D7%95%D7%AA-%D7%A8%D7%A2%D7%99%D7%95%D7%A0%D7%95%D7%AA.jpeg"
+ },
+ "t194": {
+  "name": "קערת סדר",
+  "file": "קערת-ליל-הסדר-500-x-500-פיקסל.jpg",
+  "from": "https://www.hametz.co.il/%D7%A7%D7%A2%D7%A8%D7%AA-%D7%9C%D7%99%D7%9C-%D7%94%D7%A1%D7%93%D7%A8/",
+  "url": "https://www.hametz.co.il/wp-content/uploads/2025/02/%D7%A7%D7%A2%D7%A8%D7%AA-%D7%9C%D7%99%D7%9C-%D7%94%D7%A1%D7%93%D7%A8-500-x-500-%D7%A4%D7%99%D7%A7%D7%A1%D7%9C.jpg"
+ },
+ "t195": {
+  "name": "סל ביכורים",
+  "file": "0315626_-.png",
+  "from": "https://www.giftush.co.il/%D7%A1%D7%9C-%D7%91%D7%99%D7%9B%D7%95%D7%A8%D7%99%D7%9D-%D7%9C%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA?srsltid=AYCX9vIeFaIS1kN2uGC1BMWCiR0ec2cerpPNM9I0i0FX9Yv-vtOn-RXw",
+  "url": "https://www.giftush.co.il/images/thumbs/0315626_-.png"
+ },
+ "t196": {
+  "name": "זר פרחים לראש",
+  "file": "3bc4d_1SPLIT202108SPLIT04124638.jpg",
+  "from": "https://zermatana.co.il/product/%D7%96%D7%A8-%D7%9C%D7%A8%D7%90%D7%A9-%D7%95%D7%A8%D7%95%D7%93-%D7%9C%D7%91%D7%9F/?srsltid=AYCX9vLf0DQtix2lLy78aFUbX8XI3nIzz6-7Z9UO5MMi-n-UzhE5dSOH",
+  "url": "https://zermatana.co.il/wp-content/uploads/2021/08/3bc4d_1SPLIT202108SPLIT04124638.jpg"
+ },
+ "t197": {
+  "name": "בימבה",
+  "file": "8310bebdb699bdb7242b0953b474d595.gif",
+  "from": "https://www.2mybaby.co.il/items/4461342-%D7%91%D7%99%D7%9E%D7%91%D7%94-%D7%A7%D7%95%D7%96%D7%99-%D7%A7%D7%95%D7%A4%D7%94-%D7%A4%D7%A8%D7%A6%D7%95%D7%A3-%D7%90%D7%93%D7%95%D7%9D-Little-Tikes?srsltid=AYCX9vJxjOkefiNqu0E4zpz0uvciBRdxUuH_AfcgTGT5MZmfDslqWyFg",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/8373184/large/8310bebdb699bdb7242b0953b474d595.gif"
+ },
+ "t198": {
+  "name": "נר הבדלה",
+  "file": "IMG_2174.jpeg",
+  "from": "https://hugandtag.com/product/%D7%A0%D7%A8-%D7%94%D7%91%D7%93%D7%9C%D7%94-%D7%97%D7%92%D7%99%D7%92%D7%99-%D7%91%D7%A2%D7%91%D7%95%D7%93%D7%AA-%D7%99%D7%93-%D7%9E%D7%A9%D7%A2%D7%95%D7%95%D7%AA-%D7%93%D7%91%D7%95%D7%A8%D7%99%D7%9D/?srsltid=AYCX9vIyiIXQqTju_x4O_XrTHDLzHCCp_NmVz5c7kLBbC-I4uz51_v9s",
+  "url": "https://hugandtag.com/wp-content/uploads/2025/07/IMG_2174.jpeg"
+ },
+ "t199": {
+  "name": "חופה",
+  "file": "עיצוב-חופה-בסגנון-קלאסי-לבן-ירוק-אולם-אירועים-הסיינדה-בית-שאן.jpg",
+  "from": "https://www.noylevi.co.il/%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%97%D7%95%D7%A4%D7%94/",
+  "url": "https://www.noylevi.co.il/wp-content/uploads/%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%97%D7%95%D7%A4%D7%94-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%A7%D7%9C%D7%90%D7%A1%D7%99-%D7%9C%D7%91%D7%9F-%D7%99%D7%A8%D7%95%D7%A7-%D7%90%D7%95%D7%9C%D7%9D-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%94%D7%A1%D7%99%D7%99%D7%A0%D7%93%D7%94-%D7%91%D7%99%D7%AA-%D7%A9%D7%90%D7%9F.jpg"
+ },
+ "t200": {
+  "name": "כתובה",
+  "file": "0000957_-.jpeg",
+  "from": "https://tifarashop.co.il/he/%D7%9B%D7%AA%D7%95%D7%91%D7%94-%D7%99%D7%95%D7%A0%D7%99%D7%9D-%D7%94%D7%93%D7%A4%D7%A1-%D7%90%D7%9E%D7%A0%D7%95%D7%AA%D7%99?srsltid=AYCX9vKM5AROcTaYbqheAVmHHvePVC4hRFF3To6Lahhu2MuJ-6NHzMXA",
+  "url": "https://tifarashop.co.il/images/thumbs/0000957_-.jpeg"
+ },
+ "t201": {
+  "name": "מדורה",
+  "file": "lag_baomer_2.jpg",
+  "from": "https://www.gov.il/he/pages/bonfire_safety_020518",
+  "url": "https://www.gov.il/BlobFolder/news/bonfire_safety_020518/he/lag_baomer_2.jpg"
+ },
+ "t202": {
+  "name": "תפוח בדבש",
+  "file": "apple_honey_autoOrient_c.jpg",
+  "from": "https://www.mako.co.il/food-holiday-recipes/rosh-hashana/Article-c2b3dae2e3f5f41006.htm",
+  "url": "https://img.mako.co.il/2022/09/22/apple_honey_autoOrient_c.jpg"
+ },
+ "t203": {
+  "name": "שלוקר",
+  "file": "6907_07122024215613_large.jpg",
+  "from": "https://ertzcamping.co.il/product/%D7%A9%D7%9C%D7%95%D7%A7%D7%A8-%D7%98%D7%A7%D7%98%D7%99-%D7%9E%D7%A0%D7%A9%D7%90-%D7%9E%D7%99%D7%9D-%D7%A6%D7%91%D7%90%D7%99--idf-3l-%D7%9E%D7%91%D7%99%D7%AA-%D7%A9%D7%95%D7%A8%D7%A9",
+  "url": "https://ertzcamping.co.il/images/itempics/6907_07122024215613_large.jpg"
+ },
+ "t204": {
+  "name": "מחצלת",
+  "file": "8831c7c03f57da05d8644520a54dfafc.png",
+  "from": "https://www.shtibay.co.il/items/6876414-%D7%9E%D7%97%D7%A6%D7%9C%D7%AA-4X5-%D7%A4%D7%9C%D7%90%D7%99%D7%94?srsltid=AYCX9vJFjdy-k77d-H8idIKqPfgKU10cXlZVLhEZkT5J85aa8zhJ2qNX",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/14766024/large/8831c7c03f57da05d8644520a54dfafc.png"
+ },
+ "t205": {
+  "name": "צילייה",
+  "file": "9f23625536ade6e358d48959deca6f6f.jpg",
+  "from": "https://www.s-free.co.il/items/4737434-%D7%A6%D7%99%D7%9C%D7%99%D7%99%D7%94-%D7%9C%D7%99%D7%A7%D7%A8%D7%94-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA%D7%99%D7%AA-3-3-%D7%9E%D7%98%D7%A8-%D7%9C%D7%97%D7%95%D7%A3-SUNFREE-?srsltid=AYCX9vKzjZEfiyu9PwV9dWJqbVtFof94DVKw58_pOqDegx6a8YRRj-h9",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/14298316/large/9f23625536ade6e358d48959deca6f6f.jpg"
+ },
+ "t206": {
+  "name": "נרגילה",
+  "file": "250px-Hookah_2.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A0%D7%A8%D7%92%D7%99%D7%9C%D7%94",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hookah_2.jpg/250px-Hookah_2.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t207": {
+  "name": "פק\"ל קפה",
+  "file": "images",
+  "from": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX6IVJLuNg9N2IiY39CLaMOwtm23d3M_5-807eD-Wzg&s=10",
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX6IVJLuNg9N2IiY39CLaMOwtm23d3M_5-807eD-Wzg&s=10"
+ },
+ "t208": {
+  "name": "ערכת מגן",
+  "file": "52744.jpg",
+  "from": "https://www.inn.co.il/news/210791",
+  "url": "https://2.a7.org/files/pictures/781x439/52744.jpg"
+ },
+ "t209": {
+  "name": "דרבוקה",
+  "file": "32f3324ea2186f6ab795c7bac3bd4f39.jpg",
+  "from": "https://www.budagov.co.il/items/5302483-%D7%93%D7%A8%D7%91%D7%95%D7%A7%D7%94-%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8%D7%99%D7%94-4-%D7%91%D7%A8%D7%92%D7%99%D7%9D-Budagov?srsltid=AYCX9vKuWvowYXIVMC3AtwcuVp-Ga-4IPExa-4PKJlR7vJeNcLgV2So0",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/17603382/large/32f3324ea2186f6ab795c7bac3bd4f39.jpg"
+ },
+ "t210": {
+  "name": "עוד",
+  "file": "1f0d088d9c048f76b9423f24c75038d4_ud.jpg",
+  "from": "https://www.andalusit.co.il/%D7%A2%D7%95%D7%93",
+  "url": "https://www.andalusit.co.il/webfiles/fck/image/headers2/1f0d088d9c048f76b9423f24c75038d4_ud.jpg"
+ },
+ "t211": {
+  "name": "עץ זית",
+  "file": "IMG_9267-scaled.jpg",
+  "from": "https://www.hadarnoy.co.il/%D7%97%D7%A0%D7%95%D7%AA/%D7%A2%D7%A5-%D7%96%D7%99%D7%AA-%D7%91%D7%95%D7%92%D7%A8-%D7%9E%D7%A2%D7%95%D7%A6%D7%91-10-14-%D7%A6%D7%95%D7%9C/",
+  "url": "https://www.hadarnoy.co.il/wp-content/uploads/2024/06/IMG_9267-scaled.jpg"
+ },
+ "t212": {
+  "name": "קקטוס",
+  "file": "image-1.jpg",
+  "from": "https://www.green-works-tools.co.il/blog/cactus-types-guide/?srsltid=AYCX9vJytekmnRLaRMvcV8cV7nJAsRWMEskm2tyQdzK80JxTdb7C5M7J",
+  "url": "https://www.green-works-tools.co.il/wp-content/uploads/2025/06/image-1.jpg"
+ },
+ "t213": {
+  "name": "רקפת",
+  "file": "visi20253-e1660470866362.jpg",
+  "from": "https://yodfat.co.il/product/%D7%A8%D7%A7%D7%A4%D7%AA/",
+  "url": "https://yodfat.co.il/wp-content/uploads/2017/07/visi20253-e1660470866362.jpg"
+ },
+ "t214": {
+  "name": "כלנית",
+  "file": "21-l.jpg",
+  "from": "https://www.kkl.org.il/wild-flower/plants/272.aspx",
+  "url": "https://www.kkl.org.il/wild-flower/files/plants/272/21-l.jpg"
+ },
+ "t215": {
+  "name": "חתול רחוב",
+  "file": "animals11.jpg",
+  "from": "https://www.rishonlezion.muni.il/Residents/Environment/Animals/Pages/StreetCats.aspx",
+  "url": "https://www.rishonlezion.muni.il/Residents/Environment/PublishingImages/Animals/animals11.jpg"
+ },
+ "t216": {
+  "name": "דררה",
+  "file": "drara.jpg",
+  "from": "https://www.animalhouse.co.il/product/%D7%93%D7%A8%D7%A8%D7%94/",
+  "url": "https://www.animalhouse.co.il/wp-content/uploads/2021/12/drara.jpg"
+ },
+ "t217": {
+  "name": "יעל",
+  "file": "250px-יעל_נקבה_במצפה_רמון.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%9C",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%D7%99%D7%A2%D7%9C_%D7%A0%D7%A7%D7%91%D7%94_%D7%91%D7%9E%D7%A6%D7%A4%D7%94_%D7%A8%D7%9E%D7%95%D7%9F.jpg/250px-%D7%99%D7%A2%D7%9C_%D7%A0%D7%A7%D7%91%D7%94_%D7%91%D7%9E%D7%A6%D7%A4%D7%94_%D7%A8%D7%9E%D7%95%D7%9F.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t218": {
+  "name": "גמל",
+  "file": "07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%92%D7%9E%D7%9C_%D7%97%D7%93-%D7%93%D7%91%D7%A9%D7%AA%D7%99",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t219": {
+  "name": "חצב",
+  "file": "pt23.jpg",
+  "from": "https://www.boker.org.il/he/research/article/%D7%97%D7%A6%D7%91-%D7%9E%D7%A6%D7%95%D7%99",
+  "url": "https://www.boker.org.il/sites/default/files/inline-images/pt23.jpg"
+ },
+ "t220": {
+  "name": "שקדייה פורחת",
+  "file": "almond-tree-3308361_640.jpg",
+  "from": "https://avivanursery.com/%D7%A2%D7%A6%D7%99-%D7%A4%D7%A8%D7%99-fruit-trees/prunus-dulcis-%D7%A9%D7%A7%D7%93%D7%99%D7%94/",
+  "url": "https://avivanursery.com/wp-content/uploads/2020/05/almond-tree-3308361_640.jpg"
+ },
+ "t221": {
+  "name": "ביסלי פלאפל",
+  "file": "6929288_7290000066134_Enlarge.jpg",
+  "from": "https://www.osem-nestle.co.il/brands/%D7%91%D7%99%D7%A1%D7%9C%D7%99/%D7%97%D7%98%D7%99%D7%A3-%D7%91%D7%99%D7%A1%D7%9C%D7%99-%D7%91%D7%98%D7%A2%D7%9D-%D7%A4%D7%9C%D7%90%D7%A4%D7%9C-0",
+  "url": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/product_images_new/6929288_7290000066134_Enlarge.jpg?v=1794681799"
+ },
+ "t222": {
+  "name": "ביסלי גריל",
+  "file": "7290000066141.jpg",
+  "from": "https://shop.super-pharm.co.il/food-and-drinks/snacks-and-sweets/salty-snacks/%D7%97%D7%98%D7%99%D7%A3-%D7%97%D7%99%D7%98%D7%94-%D7%91%D7%98%D7%A2%D7%9D-%D7%92%D7%A8%D7%99%D7%9C/p/20397",
+  "url": "https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7290000066141.jpg"
+ },
+ "t223": {
+  "name": "ביסלי בצל",
+  "file": "7290115201741.jpg",
+  "from": "https://shop.super-pharm.co.il/food-and-drinks/snacks-and-sweets/salty-snacks/%D7%97%D7%98%D7%99%D7%A3-%D7%91%D7%98%D7%A2%D7%9D-%D7%91%D7%A6%D7%9C/p/615238",
+  "url": "https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7290115201741.jpg"
+ },
+ "t224": {
+  "name": "ביסלי ברביקיו",
+  "file": "6929507_7290000467511_Enlarge.jpg",
+  "from": "https://www.osem-nestle.co.il/brands/%D7%91%D7%99%D7%A1%D7%9C%D7%99/%D7%97%D7%98%D7%99%D7%A3-%D7%91%D7%99%D7%A1%D7%9C%D7%99-%D7%91%D7%98%D7%A2%D7%9D-%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95",
+  "url": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/product_images_new/6929507_7290000467511_Enlarge.jpg?v=1794746590"
+ },
+ "t225": {
+  "name": "במבה נוגט",
+  "file": "2026-07-08T22-12-14-278Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=7594&srsltid=AYCX9vJxw3HR9J0yQgvN3rJalNPNiV4RmjsrtMKqedRNiC2ip8A7C1Ow",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290100687109-1038221/7290100687109/2026-07-08T22-12-14-278Z.jpg"
+ },
+ "t226": {
+  "name": "במבה אדומה",
+  "file": "7290112966445.webp",
+  "from": "https://kanyonmamtakim.co.il/product/%D7%91%D7%9E%D7%91%D7%94-%D7%90%D7%93%D7%95%D7%9E%D7%94-%D7%9E%D7%AA%D7%95%D7%A7%D7%94-100g/?srsltid=AYCX9vILnA0J0Vm72zFeH64gfkUsaCU3YQAyt7asELjlktAJWwJKof1Y",
+  "url": "https://kanyonmamtakim.co.il/wp-content/uploads/2025/06/7290112966445.webp"
+ },
+ "t227": {
+  "name": "שוש",
+  "file": "shush-salty-snack.jpg.400x500@2x.contain.webp",
+  "from": "https://veg.co.il/products/sweets/salty-snacks/shush/",
+  "url": "https://veg-new.b-cdn.net/wp-content/uploads/shush-salty-snack.jpg.400x500@2x.contain.webp"
+ },
+ "t228": {
+  "name": "טוויסט",
+  "file": "Strauss_Group_Elite_Twist_chocolate.png",
+  "from": "https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%95%D7%99%D7%A1%D7%98_(%D7%9E%D7%9E%D7%AA%D7%A7)",
+  "url": "https://upload.wikimedia.org/wikipedia/he/6/63/Strauss_Group_Elite_Twist_chocolate.png?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t229": {
+  "name": "מסטיק בזוקה",
+  "file": "685669.jpg",
+  "from": "https://www.themarker.com/wallstreet/2023-06-12/ty-article/.premium/00000188-b0a0-d078-a19a-b7facbb30000",
+  "url": "https://img.haarets.co.il/bs/00000188-b0a7-d1d6-a7b9-fbf7d1600001/1c/7d/08f63bc140ddb92687987e9a9d52/685669.jpg"
+ },
+ "t230": {
+  "name": "מסטיק עלמה",
+  "file": "YE0627752.jpg",
+  "from": "https://www.ynet.co.il/food/article/rkhcjq11p1x",
+  "url": "https://ynet-pic1.yit.co.il/picserver6/wcm_upload/2025/03/26/H1xAr0911pJg/YE0627752.jpg"
+ },
+ "t231": {
+  "name": "שוקולית",
+  "file": "462-dd1.jpg",
+  "from": "https://officeandmore.co.il/product/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%99%D7%AA-%D7%90%D7%91%D7%A7%D7%AA-%D7%A9%D7%95%D7%A7%D7%95-500-%D7%92%D7%A8/?srsltid=AYCX9vKbOKu6uu0mgFR_OcAQwCmVUW97BD2Xhw9pwVTB4uYYjtPoIJQB",
+  "url": "https://officeandmore.co.il/wp-content/uploads/2022/06/462-dd1.jpg"
+ },
+ "t232": {
+  "name": "קרלו",
+  "file": "6193459993392490386no.jpg",
+  "from": "https://www.ynet.co.il/articles/0,7340,L-4684504,00.html",
+  "url": "https://images1.ynet.co.il/PicServer4/2015/07/27/6193516/6193459993392490386no.jpg"
+ },
+ "t233": {
+  "name": "קבוקים",
+  "file": "2024-04-01T01-03-51-194Z.jpg",
+  "from": "https://www.keshet-teamim.co.il/?catalogProduct=13731",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1219/large/7290003009336-945342/7290003009336/2024-04-01T01-03-51-194Z.jpg"
+ },
+ "t234": {
+  "name": "עד חצות",
+  "file": "B_7290000181103_1024x1024.png",
+  "from": "https://www.elite.co.il/product/%D7%A2%D7%93-%D7%97%D7%A6%D7%95%D7%AA/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2021/01/B_7290000181103_1024x1024.png"
+ },
+ "t235": {
+  "name": "חלבה אחווה",
+  "file": "6f5b798e3fcb9c6b7e92ab3c568cd49a.jpg",
+  "from": "https://www.tobake.co.il/items/5885671-%D7%97%D7%9C%D7%91%D7%94-%D7%90%D7%97%D7%95%D7%94-%D7%A9%D7%A2%D7%A8-%D7%9E%D7%A1%D7%95%D7%9C%D7%A1%D7%9C%D7%AA-250-%D7%92-%D7%A8?srsltid=AYCX9vLIkwbJPbqZ_nO37boMY8TOhNyGG3pt1O70Y14txfdgcJx9gAAJ",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/12137519/original/6f5b798e3fcb9c6b7e92ab3c568cd49a.jpg"
+ },
+ "t236": {
+  "name": "קפה טורקי עלית",
+  "file": "80799162d.gif",
+  "from": "https://www.zap.co.il/model.aspx?modelid=1011504&srsltid=AYCX9vLpWWhwk7gjF-dT1l_mVZ19dbr006r2w6eSiTyLwkaVrw1jlMe4",
+  "url": "https://img.zap.co.il/pics/2/6/1/9/80799162d.gif"
+ },
+ "t237": {
+  "name": "תה ויסוצקי",
+  "file": "PTD26_Z_P_345284_1.png",
+  "from": "https://www.shufersal.co.il/online/he/p/P_345284",
+  "url": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_zoom/PTD26_Z_P_345284_1.png"
+ },
+ "t238": {
+  "name": "לחם אנג'ל",
+  "file": "cd-4-33-1.png",
+  "from": "https://www.angel.co.il/document/62,131,1.aspx",
+  "url": "https://www.angel.co.il/sysvault/docsfiles4/cd-4-33-1.png"
+ },
+ "t239": {
+  "name": "קוטג' תנובה",
+  "file": "SJbXWcjZsF_0_0_2016_1134_0_x-large.jpg",
+  "from": "https://www.calcalist.co.il/shopping/article/rydibrvxme",
+  "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2021/12/23/SJbXWcjZsF/SJbXWcjZsF_0_0_2016_1134_0_x-large.jpg"
+ },
+ "t240": {
+  "name": "שוקו יטבתה",
+  "file": "2026-01-02T02-12-20-886Z.jpg",
+  "from": "https://www.tivtaam.co.il/?catalogProduct=3922&srsltid=AYCX9vKEpczWF8krYRqGiTXVawtdJG9VlOEMZ4AxvT1zSajhVrxobRgu",
+  "url": "https://d226b0iufwcjmj.cloudfront.net/gs1-products/1062/large/7290003029181-1019435/7290003029181/2026-01-02T02-12-20-886Z.jpg"
+ },
+ "t241": {
+  "name": "פריגת",
+  "file": "prigat-bottles-Home_Mobile.png",
+  "from": "https://www.prigat.co.il/hazmanot",
+  "url": "https://www.prigat.co.il/on/demandware.static/-/Sites-Prigat-Library/default/dw4dd86d2e/invitationGenerator/homepage/prigat-bottles-Home_Mobile.png"
+ },
+ "t242": {
+  "name": "בירה גולדסטאר",
+  "file": "3b1fff206a171bd0a38b25797af270f07f6983f2.jpg",
+  "from": "https://winebashuk.co.il/%D7%91%D7%99%D7%A8%D7%94/%D7%92%D7%95%D7%9C%D7%93%D7%A1%D7%98%D7%90%D7%A8-%D7%91%D7%99%D7%A8%D7%94-%D7%A9%D7%99%D7%A9%D7%99%D7%94-6-330-%D7%9E-%D7%9C-goldstar-beer/?srsltid=AYCX9vIHe69Q-dG5mhFZpoVJUdvPQfmGee-6WBx0Q5ymskEap5OEuYER",
+  "url": "https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/clients/104425/3b1fff206a171bd0a38b25797af270f07f6983f2.jpg"
+ },
+ "t243": {
+  "name": "בירה מכבי",
+  "file": "0004977_-.jpeg",
+  "from": "https://www.paneco.co.il/macabee-beer-2",
+  "url": "https://www.paneco.co.il/media/catalog/product/cache/3d47b6f1164987fabe34111a63e15592/0/0/0004977_-.jpeg"
+ },
+ "t244": {
+  "name": "ערק עלית",
+  "file": "0002824_-40-700-.jpeg",
+  "from": "https://www.paneco.co.il/elite-haarak-40",
+  "url": "https://www.paneco.co.il/media/catalog/product/cache/3d47b6f1164987fabe34111a63e15592/0/0/0002824_-40-700-.jpeg"
+ },
+ "t245": {
+  "name": "יין כרמל",
+  "file": "3252.jpg",
+  "from": "https://www.paneco.co.il/%D7%9B%D7%A8%D7%9E%D7%9C-%D7%A7%D7%91%D7%A8%D7%A0%D7%94-%D7%A4%D7%A8%D7%99%D7%99%D7%91%D7%98-%D7%A7%D7%95%D7%9C%D7%A7%D7%A9%D7%9F-2016",
+  "url": "https://www.paneco.co.il/media/catalog/product/cache/3d47b6f1164987fabe34111a63e15592/3/2/3252.jpg"
+ },
+ "t246": {
+  "name": "מים נביעות",
+  "file": "DKI44_Z_P_7290110114855_1.png",
+  "from": "https://www.shufersal.co.il/online/he/p/P_7290110114855",
+  "url": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_zoom/DKI44_Z_P_7290110114855_1.png"
+ },
+ "t247": {
+  "name": "מים מי עדן",
+  "file": "c58a4b92a8445290e7dd97e9f1ef06323464900498aa36b1681be0e47bbb1272.jpeg",
+  "from": "https://www.the-importer.co.il/%D7%90%D7%A8%D7%92%D7%96-%D7%9E%D7%99%D7%9D-%D7%9E%D7%99-%D7%A2%D7%93%D7%9F-500-%D7%9E%D7%9C-124?srsltid=AYCX9vJXoVVg3ozQIlGtEc-7CXwdfWyMbuHiBs38Lwll2DgUpjoaInI8",
+  "url": "https://www.the-importer.co.il/cdn-cgi/image/format=auto,metadata=none,quality=85,fit=pad,width=800/media/catalog/product/c/5/c58a4b92a8445290e7dd97e9f1ef06323464900498aa36b1681be0e47bbb1272.jpeg"
+ },
+ "t248": {
+  "name": "טרופית",
+  "file": "1071.jpg",
+  "from": "https://kanyonmamtakim.co.il/product/%D7%98%D7%A8%D7%95%D7%A4%D7%99%D7%AA-%D7%98%D7%A8%D7%95%D7%A4%D7%99-%D7%A7%D7%A9/?srsltid=AYCX9vLMuZSNmHOyeIFin-n6ZG2a08zFsnjkXrKZX-KdEUyQVU-0lf9f",
+  "url": "https://kanyonmamtakim.co.il/wp-content/uploads/2019/09/1071.jpg"
+ },
+ "t249": {
+  "name": "קטשופ אסם",
+  "file": "קטשופ-אסם-למסעדות-750-גרם-חדש.png",
+  "from": "https://all2zimmer.co.il/product/%D7%A7%D7%98%D7%A9%D7%95%D7%A4-%D7%90%D7%95%D7%A1%D7%9D-%D7%9C%D7%9E%D7%A1%D7%A2%D7%93%D7%95%D7%AA-750-%D7%92%D7%A8%D7%9D-%D7%97%D7%93%D7%A9/?srsltid=AYCX9vJN8cSFBSPlEne6YEvCQL9-poetuJO9e3aaQ9tRTXjPQp0zxSVq",
+  "url": "https://all2zimmer.co.il/wp-content/uploads/2018/12/%D7%A7%D7%98%D7%A9%D7%95%D7%A4-%D7%90%D7%A1%D7%9D-%D7%9C%D7%9E%D7%A1%D7%A2%D7%93%D7%95%D7%AA-750-%D7%92%D7%A8%D7%9D-%D7%97%D7%93%D7%A9.png"
+ },
+ "t250": {
+  "name": "חומוס צבר",
+  "file": "6928351_7290008415576_1_Enlarge.jpg",
+  "from": "https://www.osem-nestle.co.il/brands/%D7%A6%D7%91%D7%A8/%D7%97%D7%95%D7%9E%D7%95%D7%A1-%D7%97%D7%9C%D7%A7/%D7%97%D7%95%D7%9E%D7%95%D7%A1-%D7%A6%D7%91%D7%A8-850-%D7%92%D7%A8%D7%9D",
+  "url": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/product_images_new/6928351_7290008415576_1_Enlarge.jpg?v=1794639843"
+ },
+ "t251": {
+  "name": "חומוס אחלה",
+  "file": "25_hummus_halak_750g_303x446.png",
+  "from": "https://www.strauss-group.co.il/brand/achla/",
+  "url": "https://www.strauss-group.co.il/wp-content/blogs.dir/1/files/25_hummus_halak_750g_303x446.png"
+ },
+ "t252": {
+  "name": "מרק נמס",
+  "file": "72900001171711.png",
+  "from": "https://www.unileverfoodsolutions.co.il/product/%D7%A0%D7%9E%D7%A1-%D7%91%D7%9B%D7%95%D7%A1-%D7%9E%D7%A8%D7%A7-%D7%91%D7%98%D7%A2%D7%9D-%D7%A2%D7%95%D7%A3-10-%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA-%D7%A7%D7%A0%D7%95%D7%A8-4-8-%D7%92%D7%A8%D7%9D-11-HE-834760.html",
+  "url": "https://www.unileverfoodsolutions.co.il/dam/global-ufs/mcos/ISRAEL/calcmenu/products/IL-products/packshots/foodsolutions/%D7%AA%D7%99%D7%A7%D7%95%D7%9F-%D7%94%D7%99%D7%A8%D7%95-%D7%90%D7%99%D7%9E%D7%92/72900001171711.png"
+ },
+ "t253": {
+  "name": "שערות סבתא",
+  "file": "איך-להכין-שערות-סבתא-צבעוניות-scaled.jpg",
+  "from": "https://rent.org.il/candy-cotton-colourful/",
+  "url": "https://rent.org.il/wp-content/uploads/2023/06/%D7%90%D7%99%D7%9A-%D7%9C%D7%94%D7%9B%D7%99%D7%9F-%D7%A9%D7%A2%D7%A8%D7%95%D7%AA-%D7%A1%D7%91%D7%AA%D7%90-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%95%D7%AA-scaled.jpg"
+ },
+ "t254": {
+  "name": "תירס חם בכוס",
+  "file": "38a580ae-e143-11ea-b547-12a8f2b728fc______________.jpeg",
+  "from": "https://wolt.com/he/isr/jerusalem/restaurant/mr-corn-jerusalem?srsltid=AYCX9vKvdl_muDIqyuoZaVo-YFh5OQZsp9geZdLIbhJbCDt06o8NAoW_",
+  "url": "https://imageproxy.wolt.com/menu/menu-images/5f2baba6dd155a73e17ef5a5/38a580ae-e143-11ea-b547-12a8f2b728fc______________.jpeg"
+ },
+ "t255": {
+  "name": "ארטיק אבטיח",
+  "file": "ארטיק-אבטיח.png",
+  "from": "https://glidanit.co.il/product/%D7%90%D7%A8%D7%98%D7%99%D7%A7-%D7%90%D7%91%D7%98%D7%99%D7%97/",
+  "url": "https://glidanit.co.il/wp-content/uploads/2021/10/%D7%90%D7%A8%D7%98%D7%99%D7%A7-%D7%90%D7%91%D7%98%D7%99%D7%97.png"
+ },
+ "t256": {
+  "name": "שלוק",
+  "file": "שלוקים-בצבעי-הקשת-EAT-RAINBOW-scaled.jpg",
+  "from": "https://healthbynature.co.il/%D7%A9%D7%9C%D7%95%D7%A7%D7%99%D7%9D-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%99%D7%9D-%D7%AA%D7%95%D7%A6%D7%A8%D7%AA-%D7%91%D7%99%D7%AA/",
+  "url": "https://healthbynature.co.il/wp-content/uploads/2020/09/%D7%A9%D7%9C%D7%95%D7%A7%D7%99%D7%9D-%D7%91%D7%A6%D7%91%D7%A2%D7%99-%D7%94%D7%A7%D7%A9%D7%AA-EAT-RAINBOW-scaled.jpg"
+ },
+ "t257": {
+  "name": "שניצל דינו",
+  "file": "500x500-orig",
+  "from": "https://deli.yango.com/en-il/good/2bce337fd8014409b171cd680dfd6f90000300020002",
+  "url": "https://avatars.mds.yango.tech/get-grocery-goods/2998515/6180ea3d-c024-46f9-a650-a3dc661b6ddd/500x500-orig"
+ },
+ "t258": {
+  "name": "ג'חנון בסיר",
+  "file": "IMG_7927.jpg",
+  "from": "https://matanchoufan.com/%D7%9E%D7%AA%D7%9B%D7%95%D7%9F-%D7%9C%D7%92%D7%97%D7%A0%D7%95%D7%9F-%D7%A9%D7%9C-%D7%94%D7%A9%D7%A3-%D7%92%D7%99%D7%90-%D7%92%D7%9E%D7%96%D7%95/",
+  "url": "http://matanchoufan.com/wp-content/uploads/2017/06/IMG_7927.jpg"
+ },
+ "t259": {
+  "name": "חמוצי המשק",
+  "file": "2af699e4-026c-11f0-9783-e239f32edc56_________________________.jpg",
+  "from": "https://wolt.com/he/isr/tel-aviv/venue/hameshek/items/menucategory-9?srsltid=AYCX9vJ81HZzbQY6hDgkIAxz7ZkJSlyRtepZ3fH9Y6qfWHhK3LpUIeNg",
+  "url": "https://imageproxy.wolt.com/menu/menu-images/shared/2af699e4-026c-11f0-9783-e239f32edc56_________________________.jpg?overlay=isr-sodium"
+ },
+ "t260": {
+  "name": "אל על",
+  "file": "ela-7879_climber_mr-0417.jpg",
+  "from": "https://www.elal.com/heb/about-elal/our-fleet",
+  "url": "https://www.elal.com/media/i51mwuua/ela-7879_climber_mr-0417.jpg"
+ },
+ "t261": {
+  "name": "ישרוטל",
+  "file": "___________________.jpg",
+  "from": "https://www.ynet.co.il/economy/article/bk00rcba9p",
+  "url": "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2021/07/27/HkX8MH6Cd/___________________.jpg"
+ },
+ "t262": {
+  "name": "ארקיע",
+  "file": "iz_wide.jpg",
+  "from": "https://www.xplorer.co.il/airlines/iz/%D7%90%D7%A8%D7%A7%D7%99%D7%A2",
+  "url": "https://uds.xplorer.com/img/airlines_logos/iz_wide.jpg"
+ },
+ "t263": {
+  "name": "אגד",
+  "file": "905276060.webp",
+  "from": "https://13tv.co.il/item/news/domestic/internal/l300l-905276039/",
+  "url": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1784710694/uploads/2026/905276060.webp"
+ },
+ "t264": {
+  "name": "דן",
+  "file": "DU1A0228_umfyt5.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001403184",
+  "url": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1629201114/direct/DU1A0228_umfyt5.jpg"
+ },
+ "t265": {
+  "name": "רכבת ישראל",
+  "file": "30423_1_train_pic_kranoim_hashmalim_501x264_a.jpg",
+  "from": "https://rail.co.il/?page=electrification-project&lan=he",
+  "url": "https://web-umbraco.rail.co.il/media/4lrl2krw/30423_1_train_pic_kranoim_hashmalim_501x264_a.jpg"
+ },
+ "t266": {
+  "name": "דואר ישראל",
+  "file": "zBfUrWWzm0q7f_ocXPTprcksNSt2-FgvBIehyku8kVbvCvwKrmNiJfOQzFdt6FTRiHkFxLc1tCD7OdGfQGMj",
+  "from": "https://play.google.com/store/apps/details?id=com.israelpost.israelpost&hl=he",
+  "url": "https://play-lh.googleusercontent.com/zBfUrWWzm0q7f_ocXPTprcksNSt2-FgvBIehyku8kVbvCvwKrmNiJfOQzFdt6FTRiHkFxLc1tCD7OdGfQGMj"
+ },
+ "t267": {
+  "name": "בזק",
+  "file": "b-share-min.jpg",
+  "from": "https://www.bezeq.co.il/esg2024/",
+  "url": "https://www.bezeq.co.il/media/minisites/esg2024_4/img/b-share-min.jpg"
+ },
+ "t268": {
+  "name": "סלקום",
+  "file": "sel800x392.20191219T142335.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001312555",
+  "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/sel800x392.20191219T142335.jpg"
+ },
+ "t269": {
+  "name": "פלאפון",
+  "file": "___________.JPG",
+  "from": "https://www.ynet.co.il/economy/article/s1rdqla8f",
+  "url": "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2021/08/10/ByaMY1eeY/___________.JPG"
+ },
+ "t270": {
+  "name": "בנק הפועלים",
+  "file": "1280px-בניין_הנהלת_בנק_הפועלים.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%91%D7%A0%D7%A7_%D7%94%D7%A4%D7%95%D7%A2%D7%9C%D7%99%D7%9D",
+  "url": "https://thumb.wikimedia.org/wikipedia/he/thumb/7/7c/%D7%91%D7%A0%D7%99%D7%99%D7%9F_%D7%94%D7%A0%D7%94%D7%9C%D7%AA_%D7%91%D7%A0%D7%A7_%D7%94%D7%A4%D7%95%D7%A2%D7%9C%D7%99%D7%9D.jpg/1280px-%D7%91%D7%A0%D7%99%D7%99%D7%9F_%D7%94%D7%A0%D7%94%D7%9C%D7%AA_%D7%91%D7%A0%D7%A7_%D7%94%D7%A4%D7%95%D7%A2%D7%9C%D7%99%D7%9D.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "t271": {
+  "name": "בנק לאומי",
+  "file": "סניף_לאומי_צילום_כפיר_סיון.jpg",
+  "from": "https://www.leumi.co.il/he/node/2573",
+  "url": "https://www.leumi.co.il/leumi-hebrew/s3fs-public/images/%D7%A1%D7%A0%D7%99%D7%A3_%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9B%D7%A4%D7%99%D7%A8_%D7%A1%D7%99%D7%95%D7%9F.jpg?VersionId=ug1uRGfGPH3kxCK0mZbhyNIXs1VtvVoI"
+ },
+ "t272": {
+  "name": "מפעל הפיס",
+  "file": "HkBXQVTuke_0_0_2000_1333_0_x-large.jpg",
+  "from": "https://www.calcalist.co.il/local_news/article/r1jicam01l",
+  "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/02/02/HkBXQVTuke/HkBXQVTuke_0_0_2000_1333_0_x-large.jpg"
+ },
+ "t273": {
+  "name": "טוטו",
+  "file": "rJyNzdQvs_0_0_1024_577_0_xx-large.jpg",
+  "from": "https://www.calcalist.co.il/tags/%D7%98%D7%95%D7%98%D7%95",
+  "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/11/29/rJyNzdQvs/rJyNzdQvs_0_0_1024_577_0_xx-large.jpg"
+ },
+ "t274": {
+  "name": "תנובה",
+  "file": "p0T_flEqzVUCDFD1wbs2KnmATq7mLX2zxpvRVrt-0T_fZqaDXfSdToCReczRjNcsgWKPzej_=s900-c-k-c0x00ffffff-no-rj",
+  "from": "https://www.youtube.com/@tnuva",
+  "url": "https://yt3.googleusercontent.com/p0T_flEqzVUCDFD1wbs2KnmATq7mLX2zxpvRVrt-0T_fZqaDXfSdToCReczRjNcsgWKPzej_=s900-c-k-c0x00ffffff-no-rj"
+ },
+ "t275": {
+  "name": "שטראוס",
+  "file": "MOB_subcategory_Strauss.jpg",
+  "from": "https://noyhasade.co.il/product-category/%D7%A9%D7%98%D7%A8%D7%90%D7%95%D7%A1/?srsltid=AYCX9vIwixiWDNksxjtv3PMSBgbLkBRLpqM0HhxWi0GPW-eAZbh_UeQ9",
+  "url": "https://images.noyhasade.co.il/wp-content/uploads/2023/07/MOB_subcategory_Strauss.jpg"
+ },
+ "t276": {
+  "name": "אסם",
+  "file": "5_32_LOGO_osem-corporation-heb_2.jpg",
+  "from": "https://www.osem-nestle.co.il/contact-us/call-center",
+  "url": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/2020-09/5_32_LOGO_osem-corporation-heb_2.jpg"
+ },
+ "t277": {
+  "name": "עלית",
+  "file": "logo-elite.png",
+  "from": "https://www.elite.co.il/",
+  "url": "https://www.elite.co.il/wp-content/uploads/2024/07/logo-elite.png"
+ },
+ "t278": {
+  "name": "סופר פארם",
+  "file": "4418_Logos_website_renanim_465X4372.jpg",
+  "from": "https://friendly-ganyavne.co.il/store/%D7%A1%D7%95%D7%A4%D7%A8-%D7%A4%D7%90%D7%A8%D7%9D/",
+  "url": "https://friendly-ganyavne.co.il/wp-content/uploads/2015/07/4418_Logos_website_renanim_465X4372.jpg"
+ },
+ "t279": {
+  "name": "שופרסל",
+  "file": "d7b570_e5b4a3665d3049e2a3e7dbaf30b027f7~mv2.png",
+  "from": "https://www.shufersal.co.il/corp/%D7%9E%D7%95%D7%AA%D7%92%D7%99-%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%A9%D7%95%D7%A4%D7%A8%D7%A1%D7%9C",
+  "url": "https://www.shufersal.co.il/corp/_media/d7b570_e5b4a3665d3049e2a3e7dbaf30b027f7~mv2.png/v1/fill/w_394,h_228,q_78,enc_avif,quality_auto/d7b570_e5b4a3665d3049e2a3e7dbaf30b027f7~mv2.png"
+ },
+ "t280": {
+  "name": "רמי לוי",
+  "file": "Israel_Hayom_Forum_for_Israel-US_Relations_(48142019357)_(cropped).jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%99_%D7%9C%D7%95%D7%99",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Israel_Hayom_Forum_for_Israel-US_Relations_%2848142019357%29_%28cropped%29.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t281": {
+  "name": "קסטרו",
+  "file": "1785049.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001363759",
+  "url": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1595415266/old/1785049.jpg"
+ },
+ "t282": {
+  "name": "פוקס",
+  "file": "415944.JPG",
+  "from": "https://www.dizengof-center.co.il/shops/women/?ItemID=62090",
+  "url": "https://media.getmood.io/warehouse/dynamic/415944.JPG"
+ },
+ "t283": {
+  "name": "ארומה",
+  "file": "390x390_jerusalem_arena_0000_181111_1073.jpg",
+  "from": "https://www.aroma.co.il/find_store/",
+  "url": "https://www.aroma.co.il/wp-content/uploads/2022/01/390x390_jerusalem_arena_0000_181111_1073.jpg"
+ },
+ "t284": {
+  "name": "בורגראנץ'",
+  "file": "271cd437-9183-4ca2-b88a-f5bdc635b029",
+  "from": "https://wolt.com/he/isr/petah-tikva/restaurant/burgeranch-petah-tikva?srsltid=AYCX9vLWrRFsxy3Z2kzbrL6kkyn-BsPbyrUcDgObGYnCFbae4VglXY24",
+  "url": "https://imageproxy.wolt.com/mes-image/ad0e4a4d-c09e-4a6f-9ad5-09818171d0be/271cd437-9183-4ca2-b88a-f5bdc635b029"
+ },
+ "t285": {
+  "name": "פז",
+  "file": "image",
+  "from": "https://www.paz.co.il/energy-and-industries/paz",
+  "url": "https://www.paz.co.il/_next/image?url=https%3A%2F%2Fcorporatecms.paz.co.il%2Fmedia%2Fkizpblb2%2F0d3a9477s.jpg&w=3840&q=85"
+ },
+ "t286": {
+  "name": "כתר פלסטיק",
+  "file": "Club-2-White.jpg",
+  "from": "https://limor.biz/shop/%D7%9B%D7%A1%D7%90-%D7%9B%D7%AA%D7%A8-%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%A7-%D7%A7%D7%9C%D7%90%D7%91-2/?srsltid=AYCX9vL4UYZpNLcdKRnPLLIYhRWUTHtJXqUXx4dRf0YXyZAIBIv9dugW",
+  "url": "https://limor.biz/wp-content/uploads/2015/06/Club-2-White.jpg"
+ },
+ "t287": {
+  "name": "טבע",
+  "file": "1280px-Hopetoun_falls.jpg",
+  "from": "https://he.wiktionary.org/wiki/%D7%98%D7%91%D7%A2",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Hopetoun_falls.jpg/1280px-Hopetoun_falls.jpg?utm_source=he.wiktionary.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "t288": {
+  "name": "אלביט",
+  "file": "logo-he.png",
+  "from": "https://elbitsystemscareer.com/",
+  "url": "https://elbitsystemscareer.com/logo-he.png"
+ },
+ "t289": {
+  "name": "רפאל",
+  "file": "רפאל-לאתר.png",
+  "from": "https://hotzvim.org.il/company/%D7%A8%D7%A4%D7%90%D7%9C-%D7%9E%D7%A2%D7%A8%D7%9B%D7%95%D7%AA-%D7%9C%D7%97%D7%99%D7%9E%D7%94-%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%95%D7%AA-%D7%91%D7%A2%D7%9E/",
+  "url": "https://hotzvim.org.il/wp-content/uploads/2025/04/%D7%A8%D7%A4%D7%90%D7%9C-%D7%9C%D7%90%D7%AA%D7%A8.png"
+ },
+ "t290": {
+  "name": "התעשייה האווירית",
+  "file": "לוגו-עגול-כחול.jpg",
+  "from": "https://jobs.iai.co.il/jobs/",
+  "url": "https://jobs.iai.co.il/wp-content/uploads/2022/01/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%92%D7%95%D7%9C-%D7%9B%D7%97%D7%95%D7%9C.jpg"
+ },
+ "t291": {
+  "name": "אהבה ים המלח",
+  "file": "5713-8285-אהבה-–-מוצרי-ים-המלח-(קניון-מול-הים)-אילת-md.jpg",
+  "from": "https://eilat.city/%D7%90%D7%94%D7%91%D7%94-%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%99%D7%9D-%D7%94%D7%9E%D7%9C%D7%97-%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%9E%D7%95%D7%9C-%D7%94%D7%99%D7%9D",
+  "url": "https://eilat.city/images/5713-8285-%D7%90%D7%94%D7%91%D7%94-%E2%80%93-%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%99%D7%9D-%D7%94%D7%9E%D7%9C%D7%97-(%D7%A7%D7%A0%D7%99%D7%95%D7%9F-%D7%9E%D7%95%D7%9C-%D7%94%D7%99%D7%9D)-%D7%90%D7%99%D7%9C%D7%AA-md.jpg"
+ },
+ "t292": {
+  "name": "מכבי תל אביב",
+  "file": "MTA_20240609085042ac374248812b3b1fdfa97fde9623ab6d.jpg",
+  "from": "https://www.maccabi-tlv.co.il/%D7%94%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F/",
+  "url": "https://static.maccabi-tlv.co.il/wp-content/uploads/2024/06/MTA_20240609085042ac374248812b3b1fdfa97fde9623ab6d.jpg"
+ },
+ "t293": {
+  "name": "הפועל תל אביב",
+  "file": "Hapoel_Tel_Aviv_Logo.png",
+  "from": "https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%95%D7%A2%D7%9C_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_(%D7%9B%D7%93%D7%95%D7%A8%D7%92%D7%9C)",
+  "url": "https://upload.wikimedia.org/wikipedia/he/5/52/Hapoel_Tel_Aviv_Logo.png?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t295": {
+  "name": "מכבי חיפה",
+  "file": "מכבי-חיפה-הבלוג-השיכור-סילביה-באמפר.webp",
+  "from": "https://silviabumper.co.il/maccabi-haifa/",
+  "url": "https://silviabumper.co.il/wp-content/uploads/2024/09/%D7%9E%D7%9B%D7%91%D7%99-%D7%97%D7%99%D7%A4%D7%94-%D7%94%D7%91%D7%9C%D7%95%D7%92-%D7%94%D7%A9%D7%99%D7%9B%D7%95%D7%A8-%D7%A1%D7%99%D7%9C%D7%91%D7%99%D7%94-%D7%91%D7%90%D7%9E%D7%A4%D7%A8.webp"
+ },
+ "t296": {
+  "name": "yes",
+  "file": "yes-800.20151202T113624.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001278027",
+  "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2015/yes-800.20151202T113624.jpg"
+ },
+ "t297": {
+  "name": "כאן 11",
+  "file": "כאן-11-עם-כתוביות.jpg",
+  "from": "https://www.kan.org.il/content/kan/kan11-subtitles/",
+  "url": "https://www.kan.org.il/media/nhmcizfj/%D7%9B%D7%90%D7%9F-11-%D7%A2%D7%9D-%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%95%D7%AA.jpg?rmode=pad&width=1200&height=630"
+ },
+ "t299": {
+  "name": "גלגלצ",
+  "file": "WNPnvsb2C9T5qQbapjxHoN83IAqwjUtCONAPSTRn_KaVnps733wvHJIdlRcXYfORA3i_3rLt=s900-c-k-c0x00ffffff-no-rj",
+  "from": "https://www.youtube.com/@glglz_official",
+  "url": "https://yt3.googleusercontent.com/WNPnvsb2C9T5qQbapjxHoN83IAqwjUtCONAPSTRn_KaVnps733wvHJIdlRcXYfORA3i_3rLt=s900-c-k-c0x00ffffff-no-rj"
+ },
+ "t300": {
+  "name": "כללית",
+  "file": "AIdro_mnM_QnVBMzSj4LkXyBOCayw485PzDC-XAUh_PsPs4lYNk=s900-c-k-c0x00ffffff-no-rj",
+  "from": "https://www.youtube.com/user/clalithealth",
+  "url": "https://yt3.googleusercontent.com/ytc/AIdro_mnM_QnVBMzSj4LkXyBOCayw485PzDC-XAUh_PsPs4lYNk=s900-c-k-c0x00ffffff-no-rj"
+ },
+ "t301": {
+  "name": "מכבי שירותי בריאות",
+  "file": "SHARE_IMAGE-1.png",
+  "from": "https://workshops.maccabi4u.co.il/",
+  "url": "https://workshops.maccabi4u.co.il/wp-content/uploads/2024/09/SHARE_IMAGE-1.png"
+ },
+ "t302": {
+  "name": "מגן דוד אדום",
+  "file": "whatsup.jpg",
+  "from": "https://www.mdais.org/tashlum",
+  "url": "https://www.mdais.org/images/whatsup.jpg"
+ },
+ "t305": {
+  "name": "ביטוח לאומי",
+  "file": "ביטוח לאומי סניף נצרת.jpg",
+  "from": "https://www.btl.gov.il/snifim/Pages/Nazareth.aspx",
+  "url": "https://www.btl.gov.il/PublishingImages/%D7%91%D7%99%D7%98%D7%95%D7%97%20%D7%9C%D7%90%D7%95%D7%9E%D7%99%20%D7%A1%D7%A0%D7%99%D7%A3%20%D7%A0%D7%A6%D7%A8%D7%AA.jpg"
+ },
+ "t307": {
+  "name": "הצופים",
+  "file": "MG_1776-scaled.jpeg",
+  "from": "https://www.zofim.org.il/strategy/",
+  "url": "https://www.zofim.org.il/wp-content/uploads/2021/10/MG_1776-scaled.jpeg"
+ },
+ "t308": {
+  "name": "בני עקיבא",
+  "file": "wWTOIJ9TIVdIEhSE1xrGLHKLY9KucfUkymMrI4okxk_KHPEIKt1I33uXrPM_WRo2zqRsTVF95khwm8xP5A3wCQ",
+  "from": "https://play.google.com/store/apps/details?id=com.bneiAkiva.app&hl=he",
+  "url": "https://play-lh.googleusercontent.com/wWTOIJ9TIVdIEhSE1xrGLHKLY9KucfUkymMrI4okxk_KHPEIKt1I33uXrPM_WRo2zqRsTVF95khwm8xP5A3wCQ"
+ },
+ "t309": {
+  "name": "האוניברסיטה העברית",
+  "file": "l5p0Au7S3qPHyW.jpg",
+  "from": "https://www.hakolhayehudi.co.il/item/Jewish_identity/%D7%95%D7%AA%D7%A8%D7%95_%D7%A2%D7%9C_%D7%94%D7%9E%D7%99%D7%9E%D7%95%D7%9F_%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99_%D7%95%D7%A9%D7%A0%D7%95_%D7%90%D7%AA_%D7%A9%D7%9D_%D7%94%D7%A7%D7%9E%D7%A4%D7%95%D7%A1_%D7%9C-%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94_%D7%94%D7%A2%D7%A8%D7%91%D7%99%D7%AA_%D7%91%D7%90%D7%9C_%D7%A7%D7%95%D7%93%D7%A1__",
+  "url": "https://hakolhayehudi.co.il/Uploads/2024/12/l5p0Au7S3qPHyW.jpg"
+ },
+ "t310": {
+  "name": "הטכניון",
+  "file": "WhatsApp-Image-2021-09-21-at-12.38.43-1024x640.jpeg",
+  "from": "https://www.zman.co.il/253812/",
+  "url": "https://static.zman.co.il/www/uploads/2021/09/WhatsApp-Image-2021-09-21-at-12.38.43-1024x640.jpeg"
+ },
+ "t311": {
+  "name": "חברת החשמל",
+  "file": "231121_hasmal.jpg",
+  "from": "https://www.davar1.co.il/648335/",
+  "url": "https://static.davar1.co.il/www/uploads/2021/11/231121_hasmal.jpg"
+ },
+ "t312": {
+  "name": "כביש 6",
+  "file": "home_plazma2.png",
+  "from": "https://www.kvish6.co.il/",
+  "url": "https://www.kvish6.co.il/resources/imgs/home_plazma2.png"
+ },
+ "t313": {
+  "name": "טנק מרכבה 4",
+  "file": "6.jpg",
+  "from": "https://www.ynet.co.il/news/article/s1kygkvja",
+  "url": "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2023/09/19/ByVcemJw1p/6.jpg"
+ },
+ "t314": {
+  "name": "טנק מרכבה 3",
+  "file": "Merkava-3-latrun-2.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%98%D7%A0%D7%A7_%D7%9E%D7%A8%D7%9B%D7%91%D7%94_%D7%A1%D7%99%D7%9E%D7%9F_3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Merkava-3-latrun-2.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t317": {
+  "name": "האמר צבאי",
+  "file": "8819.jpg",
+  "from": "https://www.icar.co.il/news/b1kawdcieg/",
+  "url": "https://www.icar.co.il/_media/articles/8819.jpg"
+ },
+ "t318": {
+  "name": "ג'יפ סופה",
+  "file": "articleimage110824124903.jpg",
+  "from": "https://www.4x4.co.il/article/8451",
+  "url": "https://www.4x4.co.il/images/oldImages/8451/articleimage110824124903.jpg"
+ },
+ "t319": {
+  "name": "דחפור D9",
+  "file": "330px-IDF-D9-Zachi-Evenor-001.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%93%D7%97%D7%A4%D7%95%D7%A8_%D7%93%D7%99-9_%D7%91%D7%A9%D7%99%D7%A8%D7%95%D7%AA_%D7%A6%D7%94%22%D7%9C",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/IDF-D9-Zachi-Evenor-001.jpg/330px-IDF-D9-Zachi-Evenor-001.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t320": {
+  "name": "כיפת ברזל",
+  "file": "3726084698.jpg",
+  "from": "https://www.haaretz.co.il/news/politics/2013-06-28/ty-article/0000017f-db6f-df62-a9ff-dfffe2ad0000",
+  "url": "https://img.haarets.co.il/bs/0000017f-db6f-df62-a9ff-dfffe1750000/8f/77/e815a4d546dbb901927a5b18e050/3726084698.jpg"
+ },
+ "t321": {
+  "name": "קלע דוד",
+  "file": "קלע-דוד-קרדיט-משרד-הביטחון-121.jpg",
+  "from": "https://he.rafael.co.il/solutions/%D7%A9%D7%A8%D7%91%D7%99%D7%98-%D7%A7%D7%A1%D7%9E%D7%99%D7%9D-2/",
+  "url": "https://he.rafael.co.il/wp-content/uploads/2020/06/%D7%A7%D7%9C%D7%A2-%D7%93%D7%95%D7%93-%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%9E%D7%A9%D7%A8%D7%93-%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F-121.jpg"
+ },
+ "t322": {
+  "name": "טיל חץ 3",
+  "file": "64490.jpg",
+  "from": "https://www.iaf.org.il/7186-41610-he/IAF.aspx",
+  "url": "https://www.iaf.org.il/Sip_Storage/FILES/0/64490.jpg"
+ },
+ "t323": {
+  "name": "טיל חץ 2",
+  "file": "250px-Arrow2launcher.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%97%D7%A5_2",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Arrow2launcher.jpg/250px-Arrow2launcher.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t324": {
+  "name": "טיל ספייק",
+  "file": "SPIKE_ATGM.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%99%D7%99%D7%A7",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/SPIKE_ATGM.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t325": {
+  "name": "טיל גבריאל",
+  "file": "luz1-2.jpg",
+  "from": "https://amutayam.org.il/%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%98%D7%99%D7%9C-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C/",
+  "url": "https://amutayam.org.il/wp-content/uploads/2026/06/luz1-2.jpg"
+ },
+ "t326": {
+  "name": "מערכת מגן אור",
+  "file": "מגן-אור-קרדיט-משרד-הביטחון-2.jpg",
+  "from": "https://he.rafael.co.il/worlds/land/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%9E%D7%92%D7%9F-%D7%90%D7%95%D7%A8/",
+  "url": "https://he.rafael.co.il/wp-content/uploads/2024/03/%D7%9E%D7%92%D7%9F-%D7%90%D7%95%D7%A8-%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%9E%D7%A9%D7%A8%D7%93-%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F-2.jpg"
+ },
+ "t327": {
+  "name": "מערכת מעיל רוח",
+  "file": "רפאל_מעיל_ow7ypf.jpg",
+  "from": "https://www.bizportal.co.il/general/news/article/834920",
+  "url": "https://res.cloudinary.com/bizportal/image/upload/v1728384214/giflib/tools/%D7%A8%D7%A4%D7%90%D7%9C_%D7%9E%D7%A2%D7%99%D7%9C_ow7ypf.jpg"
+ },
+ "t328": {
+  "name": "מטוס כפיר",
+  "file": "Sri_Lanka_Kfir__modified_.jpg",
+  "from": "https://www.ynet.co.il/economy/article/B1wkgot2u",
+  "url": "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2021/06/30/HJpuxst3O/Sri_Lanka_Kfir__modified_.jpg"
+ },
+ "t329": {
+  "name": "מטוס לביא",
+  "file": "65565.jpg",
+  "from": "https://www.iaf.org.il/4450-46900-he/IAF.aspx",
+  "url": "https://www.iaf.org.il/SIP_STORAGE/FILES//5/65565.jpg"
+ },
+ "t330": {
+  "name": "מטוס F-16 סופה",
+  "file": "sddefault.jpg",
+  "from": "https://www.youtube.com/watch?v=unnj_qHswaY",
+  "url": "https://i.ytimg.com/vi/unnj_qHswaY/sddefault.jpg?v=65dca4e2"
+ },
+ "t331": {
+  "name": "מטוס F-15 רעם",
+  "file": "fjsdfjksdfjkff15raam_autoOrient_w.jpg",
+  "from": "https://www.mako.co.il/pzm-magazine/Article-20e34cc51adca71026.htm",
+  "url": "https://img.mako.co.il/2023/03/06/fjsdfjksdfjkff15raam_autoOrient_w.jpg"
+ },
+ "t332": {
+  "name": "מטוס F-35 אדיר",
+  "file": "330px-The_Israeli_Flight_Testing_Center_Receives_First_Experimental_«Adir»._V.jpg",
+  "from": "https://he.wikipedia.org/wiki/F-35I_%D7%90%D7%93%D7%99%D7%A8",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_Israeli_Flight_Testing_Center_Receives_First_Experimental_%C2%ABAdir%C2%BB._V.jpg/330px-The_Israeli_Flight_Testing_Center_Receives_First_Experimental_%C2%ABAdir%C2%BB._V.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t333": {
+  "name": "מסוק אפאצ'י",
+  "file": "IAF_AH-64.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%90%D7%99%D7%A0%D7%92_AH-64_%D7%90%D7%A4%D7%90%D7%A6%27%D7%99",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IAF_AH-64.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t334": {
+  "name": "מסוק יסעור",
+  "file": "yasurI_i.jpg",
+  "from": "https://www.mako.co.il/pzm-weekend/Article-e13d1da6b769a61027.htm",
+  "url": "https://img.mako.co.il/2019/05/08/yasurI_i.jpg"
+ },
+ "t336": {
+  "name": "ספינת סער 6",
+  "file": "Sa'ar-6-class-corvette-0026.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A1%D7%A2%D7%A8_6",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sa%27ar-6-class-corvette-0026.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t337": {
+  "name": "צוללת דולפין",
+  "file": "I.n.s._dolfin-03.JPG",
+  "from": "https://he.wikipedia.org/wiki/%D7%94%D7%A6%D7%95%D7%9C%D7%9C%D7%95%D7%AA_%D7%9E%D7%A1%D7%93%D7%A8%D7%AA_%D7%93%D7%95%D7%9C%D7%A4%D7%99%D7%9F",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/I.n.s._dolfin-03.JPG?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t338": {
+  "name": "תת מקלע עוזי",
+  "file": "Uzi_smg.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A2%D7%95%D7%96%D7%99",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Uzi_smg.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t339": {
+  "name": "רובה תבור",
+  "file": "1031909.jpg",
+  "from": "https://www.inn.co.il/news/504099",
+  "url": "https://2.a7.org/files/pictures/000/1031909.jpg"
+ },
+ "t340": {
+  "name": "רובה גליל",
+  "file": "Galil.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%92%D7%9C%D7%99%D7%9C_(%D7%A8%D7%95%D7%91%D7%94)",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Galil.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t341": {
+  "name": "אקדח יריחו",
+  "file": "Jericho_941F.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%99%D7%97%D7%95_(%D7%90%D7%A7%D7%93%D7%97)",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Jericho_941F.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t342": {
+  "name": "מקלע נגב",
+  "file": "Negev-NG7-pic001.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A0%D7%92%D7%91_NG-7",
+  "url": "https://upload.wikimedia.org/wikipedia/he/3/35/Negev-NG7-pic001.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t343": {
+  "name": "קסדה צבאית",
+  "file": "ballistic-mich-helmet-3a.jpg",
+  "from": "https://tzz.co.il/product/kasda-mitch/",
+  "url": "https://tzz.co.il/wp-content/uploads/2025/08/ballistic-mich-helmet-3a.jpg"
+ },
+ "t344": {
+  "name": "אפוד קרמי",
+  "file": "אפוד-קרמי-שייטת-1.jpg",
+  "from": "https://idstore.co.il/product/marom-dolphin-maromshayetet-tactical-plate-carrier/?srsltid=AYCX9vLcM_sI7DIEldGzKEsd8Lqp87vp6bAqlicq4OfRRHWaNtS3ABjV",
+  "url": "https://idstore.co.il/wp-content/uploads/2025/09/%D7%90%D7%A4%D7%95%D7%93-%D7%A7%D7%A8%D7%9E%D7%99-%D7%A9%D7%99%D7%99%D7%98%D7%AA-1.jpg"
+ },
+ "t345": {
+  "name": "כומתה אדומה",
+  "file": "T105_020_5-1688286869415089.jpg",
+  "from": "https://www.rikushet.co.il/18715700071",
+  "url": "https://www.rikushet.co.il/pub/media/catalog/product/cache/a237138a07ed0dd2cc8a6fa440635ea6/t/1/T105_020_5-1688286869415089.jpg"
+ },
+ "t346": {
+  "name": "כומתה ירוקה",
+  "file": "KUMTA_green.jpg",
+  "from": "https://makemeup.co.il/product/%D7%9B%D7%95%D7%9E%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7%D7%94/?srsltid=AYCX9vKvXoIqufXLZSXNda5fvWDAhPRXOIw5yh6GWJ2CpH-lZY1S9PbJ",
+  "url": "https://makemeup.co.il/wp-content/uploads/2024/02/KUMTA_green.jpg"
+ },
+ "t347": {
+  "name": "כומתה סגולה",
+  "file": "כומתת-גבעתי.webp",
+  "from": "https://idfpro.com/product/%D7%9B%D7%95%D7%9E%D7%AA%D7%94-%D7%AA%D7%A7%D7%A0%D7%99%D7%AA-%D7%92%D7%91%D7%A2%D7%AA%D7%99-%D7%A1%D7%92%D7%95%D7%9C%D7%94/?srsltid=AYCX9vLjOliKJCfe0gFG5HTcpHsegUjwSXyM9wshlnEbDthZYoCffb9p",
+  "url": "https://idfpro.com/wp-content/uploads/2026/07/%D7%9B%D7%95%D7%9E%D7%AA%D7%AA-%D7%92%D7%91%D7%A2%D7%AA%D7%99.webp"
+ },
+ "t348": {
+  "name": "כומתה חומה",
+  "file": "תמונה-של-whatsapp-2024-05-25-בשעה-18-02-50_9718fe4f.jpg",
+  "from": "https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9E%D7%9F-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/%D7%9B%D7%9C-%D7%94%D7%9B%D7%AA%D7%91%D7%95%D7%AA/%D7%9B%D7%AA%D7%91%D7%95%D7%AA-%D7%99%D7%99%D7%96%D7%95%D7%9E%D7%95%D7%AA/%D7%99%D7%95%D7%9D-%D7%94%D7%95%D7%9C%D7%93%D7%AA-%D7%9C%D7%A6%D7%94%D7%9C-%D7%99%D7%95%D7%9D-%D7%A6%D7%94%D7%9C-%D7%94%D7%A7%D7%9E%D7%AA-%D7%A6%D7%94%D7%9C-%D7%9B%D7%95%D7%9E%D7%AA%D7%95%D7%AA-%D7%9B%D7%95%D7%9E%D7%AA%D7%94-%D7%94%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%A9%D7%9C-%D7%94%D7%9B%D7%95%D7%9E%D7%AA%D7%95%D7%AA-%D7%9B%D7%A1%D7%95%D7%A4%D7%94-%D7%9B%D7%AA%D7%95%D7%9E%D7%94-%D7%A9%D7%97%D7%95%D7%A8%D7%94-%D7%9E%D7%92%D7%95%D7%A8%D7%A4%D7%AA-%D7%9E%D7%A0%D7%95%D7%9E%D7%A8%D7%AA-%D7%9B%D7%95%D7%9E%D7%AA%D7%AA-%D7%91%D7%A7%D7%95-%D7%9D-%D7%97%D7%95%D7%9E%D7%94-%D7%A1%D7%92%D7%95%D7%9C%D7%94-%D7%92%D7%91%D7%A2%D7%AA%D7%99-%D7%92%D7%95%D7%9C%D7%A0%D7%99-%D7%A9%D7%A8%D7%99%D7%95%D7%9F-%D7%AA%D7%95%D7%AA%D7%97%D7%A0%D7%99%D7%9D-%D7%94%D7%A0%D7%93%D7%A1%D7%94/",
+  "url": "https://www.idf.il/media/t5dl23ln/%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%A9%D7%9C-whatsapp-2024-05-25-%D7%91%D7%A9%D7%A2%D7%94-18-02-50_9718fe4f.jpg?v=1daaed8686d1840"
+ },
+ "t349": {
+  "name": "כומתה שחורה",
+  "file": "כומתה.jpg",
+  "from": "https://pakalhagor.co.il/product/%D7%9B%D7%95%D7%9E%D7%AA%D7%94/",
+  "url": "https://pakalhagor.co.il/wp-content/uploads/2021/02/%D7%9B%D7%95%D7%9E%D7%AA%D7%94.jpg"
+ },
+ "t350": {
+  "name": "כנפי צניחה",
+  "file": "__5.1.224057_.jpg",
+  "from": "https://www.sayeret.co.il/sikt-lvhm-wirivn-2461.html",
+  "url": "https://www.sayeret.co.il/media/catalog/product/_/_/__5.1.224057_.jpg"
+ },
+ "t351": {
+  "name": "כנפי טיס",
+  "file": "file_346.jpg",
+  "from": "https://www.sayeret.co.il/sikt-lvhm-wirivn-2462.html",
+  "url": "https://www.sayeret.co.il/media/catalog/product/cache/b97f7d60dc74b72a2629d0448846344f/f/i/file_346.jpg"
+ },
+ "t352": {
+  "name": "סיכת לוחם",
+  "file": "__5.1.224056.jpg",
+  "from": "https://www.sayeret.co.il/sikt-lvhm-cnhnim.html",
+  "url": "https://www.sayeret.co.il/media/catalog/product/_/_/__5.1.224056.jpg"
+ },
+ "t353": {
+  "name": "דרגות סמל",
+  "file": "bc725eb0c798d7cd4e6bb4677ecb207d.jpg",
+  "from": "https://www.simaneidereh.co.il/items/3548517-%D7%93%D7%A8%D7%92%D7%95%D7%AA-%D7%A1%D7%9E%D7%9C?srsltid=AYCX9vJuUpvjQnpgQjNy0MMt22UCI5SAUljL1QFkS5kRWCVkcriQlhnW",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/6223972/large/bc725eb0c798d7cd4e6bb4677ecb207d.jpg"
+ },
+ "t354": {
+  "name": "דרגות קצין",
+  "file": "Cat_476409_8806.webp",
+  "from": "https://forestshops.com/%D7%A6%D7%99%D7%95%D7%93-%D7%9C%D7%97%D7%99%D7%99%D7%9C%D7%99%D7%9D/%D7%91%D7%99%D7%92%D7%95%D7%93-%D7%98%D7%A7%D7%98%D7%99/%D7%93%D7%A8%D7%92%D7%95%D7%AA-%D7%A8%D7%A7%D7%95%D7%9E%D7%95%D7%AA-%D7%A7%D7%A6%D7%99%D7%A0%D7%99%D7%9D?srsltid=AYCX9vLQtDwjbxnm0PTOi3y6InKvFbY4i1lL2IOwDKqm2CFyQVMfO_Lf",
+  "url": "https://forestshops.com/Cat_476409_8806.webp"
+ },
+ "t355": {
+  "name": "נעלי צנחנים אדומות",
+  "file": "338618-46.jpg",
+  "from": "https://www.walla.co.il/news/israel/1101108",
+  "url": "https://img.wcdn.co.il/t_54/3/3/8/6/338618-46.jpg"
+ },
+ "t356": {
+  "name": "מדי א'",
+  "file": "tzahal3_autoOrient_i.jpg",
+  "from": "https://www.mako.co.il/news-military/2022_q4/Article-c06faeacc6ed481027.htm",
+  "url": "https://img.mako.co.il/2022/12/04/tzahal3_autoOrient_i.jpg"
+ },
+ "t357": {
+  "name": "מדי ב'",
+  "file": "Cat_156164_4573.jpg",
+  "from": "https://tachposot.co.il/catalog.asp?page=newshowprod.asp&prodid=2958343",
+  "url": "https://tachposot.co.il/Cat_156164_4573.jpg"
+ },
+ "t359": {
+  "name": "מנת קרב",
+  "file": "Screenshot-2026-03-08-115100-1536x1536.jpg",
+  "from": "https://www.israelhayom.co.il/food/food-news/article/20061879",
+  "url": "https://www.israelhayom.co.il/wp-content/uploads/2026/03/08/08/Screenshot-2026-03-08-115100-1536x1536.jpg"
+ },
+ "t360": {
+  "name": "קופסת לוף",
+  "file": "Loof-003.jpg",
+  "from": "https://www.israelhayom.co.il/food/recipes/article/13900611",
+  "url": "https://www.israelhayom.co.il/wp-content/uploads/2023/04/03/03/Loof-003.jpg"
+ },
+ "t361": {
+  "name": "מימייה צבאית",
+  "file": "Water-Bottle_2_adobespark.jpg",
+  "from": "https://hagor.co.il/shop/soldiers/%D7%9B%D7%9C%D7%9C%D7%99-soldiers/%D7%9E%D7%99%D7%9E%D7%99%D7%99%D7%94/",
+  "url": "https://hagor.co.il/wp-content/uploads/2020/10/Water-Bottle_2_adobespark.jpg"
+ },
+ "t363": {
+  "name": "צו גיוס",
+  "file": "Gius-1.jpg",
+  "from": "https://www.army1.co.il/whengius/",
+  "url": "https://www.army1.co.il/wp-content/uploads/2019/04/Gius-1.jpg"
+ },
+ "t364": {
+  "name": "אוהל סיירים",
+  "file": "אוהל-סיירים-1024.jpg",
+  "from": "https://studio2.org.il/%D7%90%D7%95%D7%94%D7%9C-%D7%A1%D7%99%D7%99%D7%A8%D7%99%D7%9D/",
+  "url": "https://studio2.org.il/wp-content/uploads/2021/03/%D7%90%D7%95%D7%94%D7%9C-%D7%A1%D7%99%D7%99%D7%A8%D7%99%D7%9D-1024.jpg"
+ },
+ "t365": {
+  "name": "עמדת שמירה",
+  "file": "עמדת-שמירה-בני-עייש-3-1-600x842-1.jpg",
+  "from": "https://macsan.co.il/product/%D7%A2%D7%9E%D7%93%D7%AA-%D7%A9%D7%9E%D7%99%D7%A8%D7%94-150-150-%D7%A4%D7%A0%D7%9C-%D7%9E%D7%91%D7%95%D7%93%D7%93/",
+  "url": "https://macsan.co.il/wp-content/uploads/2019/11/%D7%A2%D7%9E%D7%93%D7%AA-%D7%A9%D7%9E%D7%99%D7%A8%D7%94-%D7%91%D7%A0%D7%99-%D7%A2%D7%99%D7%99%D7%A9-3-1-600x842-1.jpg"
+ },
+ "t366": {
+  "name": "משקפת צבאית",
+  "file": "1e43971f-8f52-4b8e-9fde-81ba97aaa462.webp",
+  "from": "https://tacticalprince.co.il/product/konus-konusarmy-10x50-wa-tactical-binoculars",
+  "url": "https://dxbelqigtjubnthjhvjf.supabase.co/storage/v1/object/public/product-images/1e43971f-8f52-4b8e-9fde-81ba97aaa462.webp"
+ },
+ "t367": {
+  "name": "מכשיר קשר צבאי",
+  "file": "10819-845x1024.jpg",
+  "from": "https://museumkesher.org.il/catalog/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8-%D7%A7%D7%A9%D7%A8-%D7%AA%D7%92%D7%9D-%D7%A0%D7%99%D7%A9%D7%90-%D7%9E%D7%A7-624/",
+  "url": "https://museumkesher.org.il/wp-content/uploads/2024/07/10819-845x1024.jpg"
+ },
+ "t369": {
+  "name": "צופר אזעקה",
+  "file": "ad76d043cc3ff17ffee0c06e132f67fc.jpg",
+  "from": "https://www.kan-ashdod.co.il/general/131415",
+  "url": "https://www.kan-ashdod.co.il/wp-content/uploads/2021/11/ad76d043cc3ff17ffee0c06e132f67fc.jpg"
+ },
+ "t370": {
+  "name": "מיגונית",
+  "file": "3.jpg",
+  "from": "https://www.netanya.muni.il/News/Pages/article3280.aspx",
+  "url": "https://www.netanya.muni.il/PublishingImages/%D7%91%D7%98%D7%97%D7%95%D7%9F%20%D7%95%D7%97%D7%99%D7%A8%D7%95%D7%9D/%D7%9E%D7%99%D7%92%D7%95%D7%A0%D7%99%D7%95%D7%AA/3.jpg"
+ },
+ "t372": {
+  "name": "חללית בראשית",
+  "file": "cleanroom.jpg",
+  "from": "https://www.ynet.co.il/articles/0,7340,L-5466207,00.html",
+  "url": "https://images1.ynet.co.il/PicServer5/2019/02/19/9073432/cleanroom.jpg"
+ },
+ "t373": {
+  "name": "לוויין אופק",
+  "file": "Satelliteofeq13.png",
+  "from": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A4%D7%A7_13",
+  "url": "https://upload.wikimedia.org/wikipedia/he/3/33/Satelliteofeq13.png?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t374": {
+  "name": "שער בסיס צבאי",
+  "file": "רפאל-בן-ארי-1-600x400.jpg",
+  "from": "https://www.israelhayom.co.il/magazine/hashavua/article/16429435",
+  "url": "https://www.israelhayom.co.il/wp-content/uploads/2024/09/12/12/%D7%A8%D7%A4%D7%90%D7%9C-%D7%91%D7%9F-%D7%90%D7%A8%D7%99-1-600x400.jpg"
+ },
+ "t375": {
+  "name": "תיק עלייה לטרמפ",
+  "file": "תיק-גב-עליה-למטוס-נפח-מקסימלי-Eternity-23-1.jpg",
+  "from": "https://www.alter.co.il/product/%D7%AA%D7%99%D7%A7-%D7%92%D7%91-%D7%9C%D7%A2%D7%9C%D7%99%D7%94-%D7%9C%D7%9E%D7%98%D7%95%D7%A1-%D7%A0%D7%A4%D7%97%D7%99-%D7%91%D7%9E%D7%99%D7%95%D7%97%D7%93-eternity-flight-pack-51x35x20-2/?srsltid=AYCX9vIsEHWacqAtWYBghiYkyGEdLYx8MVM_qJNSe7p27Y4iH2q7xKFf",
+  "url": "https://www.alter.co.il/wp-content/uploads/2026/08/%D7%AA%D7%99%D7%A7-%D7%92%D7%91-%D7%A2%D7%9C%D7%99%D7%94-%D7%9C%D7%9E%D7%98%D7%95%D7%A1-%D7%A0%D7%A4%D7%97-%D7%9E%D7%A7%D7%A1%D7%99%D7%9E%D7%9C%D7%99-Eternity-23-1.jpg"
+ },
+ "t376": {
+  "name": "סמל המדינה",
+  "file": "Emblem_of_Israel.jpg",
+  "from": "https://he.wikisource.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:Emblem_of_Israel.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Emblem_of_Israel.jpg?utm_source=he.wikisource.org&utm_campaign=index&utm_content=original"
+ },
+ "t377": {
+  "name": "מגן דוד",
+  "file": "7038145657.jpg",
+  "from": "https://eureka.org.il/item/47947/%D7%90%D7%99%D7%A4%D7%94-%D7%A0%D7%95%D7%9C%D7%93-%D7%A1%D7%9E%D7%9C-%D7%94%D7%9E%D7%92%D7%9F-%D7%93%D7%95%D7%93",
+  "url": "https://cdn.eureka.org.il/images/w400/7038145657.jpg"
+ },
+ "t378": {
+  "name": "מגילת העצמאות",
+  "file": "מגילת-העצמאות.jpg",
+  "from": "https://www.ben-gurion.co.il/product/%D7%9E%D7%92%D7%99%D7%9C%D7%AA-%D7%94%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA/",
+  "url": "https://www.ben-gurion.co.il/wp-content/uploads/2021/08/%D7%9E%D7%92%D7%99%D7%9C%D7%AA-%D7%94%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA.jpg"
+ },
+ "t379": {
+  "name": "בניין הכנסת",
+  "file": "Knesset_Building_(South_Side).JPG",
+  "from": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:Knesset_Building_(South_Side).JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Knesset_Building_%28South_Side%29.JPG?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t380": {
+  "name": "בית המשפט העליון",
+  "file": "903160593.webp",
+  "from": "https://13tv.co.il/tags/supreme-court-2/",
+  "url": "https://media3.reshet.tv/image/upload/t_main_large/v1657305346/uploads/2022/903160593.webp"
+ },
+ "t381": {
+  "name": "הכותל המערבי",
+  "file": "image",
+  "from": "https://www.itraveljerusalem.com/he/attraction/the-jerusalem-western-wall",
+  "url": "https://www.itraveljerusalem.com/_next/image?url=https%3A%2F%2Fassets.itraveljerusalem.com%2Fwp-content%2Fuploads%2F2016%2F07%2Folc-crd-western-wall-crowded-with-people-noam-chen.jpg&w=3840&q=95"
+ },
+ "t382": {
+  "name": "פתק בכותל",
+  "file": "WhatsApp-Image-2022-05-16-at-15.59.04.jpeg",
+  "from": "https://thekotel.org/he/126524/10/?srsltid=AYCX9vKNNLeTdZDQd6QGizU8kIH9GqXoYbvXmnpN5SblDmtWczYxhZrv",
+  "url": "https://thekotel.org/wp-content/uploads/2021/05/WhatsApp-Image-2022-05-16-at-15.59.04.jpeg"
+ },
+ "t383": {
+  "name": "מגדל דוד",
+  "file": "מגדל_דוד.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%93%D7%9C_%D7%93%D7%95%D7%93",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%D7%9E%D7%92%D7%93%D7%9C_%D7%93%D7%95%D7%93.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t384": {
+  "name": "חומות ירושלים",
+  "file": "Jerusalem,_city_wall.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%AA_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D_%D7%94%D7%A2%D7%95%D7%AA%27%D7%9E%D7%90%D7%A0%D7%99%D7%AA",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Jerusalem%2C_city_wall.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t385": {
+  "name": "גשר המיתרים",
+  "file": "IMG_6797-e1461669684550-683x1024.jpg",
+  "from": "https://thejerusalemfilmfund.com/location/%D7%92%D7%A9%D7%A8-%D7%94%D7%9E%D7%99%D7%AA%D7%A8%D7%99%D7%9D/?lang=he",
+  "url": "https://thejerusalemfilmfund.com/wp-content/uploads/2016/04/IMG_6797-e1461669684550-683x1024.jpg"
+ },
+ "t386": {
+  "name": "שוק מחנה יהודה",
+  "file": "WhatsApp-Image-2025-01-28-at-16.11.48-5.jpeg",
+  "from": "https://theposthostel.com/%D7%98%D7%A2%D7%99%D7%9E%D7%95%D7%AA-%D7%91%D7%A9%D7%95%D7%A7-%D7%9E%D7%97%D7%A0%D7%94-%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%91%D7%A9%D7%99%D7%AA%D7%95%D7%A3-%D7%A4%D7%A2%D7%95%D7%9C%D7%94-%D7%A2%D7%9D/",
+  "url": "https://theposthostel.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-28-at-16.11.48-5.jpeg"
+ },
+ "t387": {
+  "name": "יד ושם",
+  "file": "DSC_0207",
+  "from": "https://www.yadvashem.org/he/museum",
+  "url": "https://assets.yadvashem.org/image/upload/s--1G2_9Vci--/f_auto,q_auto/v1/yadvashem_site/drupal10/2025-03/DSC_0207?_a=BAAAV6E0&itok=8AJsqH6c"
+ },
+ "t388": {
+  "name": "מגדלי עזריאלי",
+  "file": "עזריאלי-5.jpg",
+  "from": "https://www.el-har.co.il/Projects/%D7%91%D7%A0%D7%99%D7%99%D7%9F-%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%94%D7%9E%D7%A8%D7%95%D7%91%D7%A2-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/",
+  "url": "https://www.el-har.co.il/wp-content/uploads/2022/09/%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-5.jpg"
+ },
+ "t389": {
+  "name": "נמל יפו",
+  "file": "נמל-יפו-גיא-יחיאלי.jpg",
+  "from": "https://visit-tlv.co.il/%D7%A0%D7%9E%D7%9C-%D7%99%D7%A4%D7%95/",
+  "url": "https://visit-tlv.co.il/wp-content/uploads/2021/07/%D7%A0%D7%9E%D7%9C-%D7%99%D7%A4%D7%95-%D7%92%D7%99%D7%90-%D7%99%D7%97%D7%99%D7%90%D7%9C%D7%99.jpg"
+ },
+ "t390": {
+  "name": "שוק הכרמל",
+  "file": "f_auto",
+  "from": "https://www.isrotel.co.il/magazine/carmelmarket/",
+  "url": "https://cdn.speedsize.com/61a206a8-07c4-46c9-b2ac-07edd20dd59d/https://media.isrotel.co.il/umb/30436/%D7%A9%D7%95%D7%A7-%D7%94%D7%9B%D7%A8%D7%9E%D7%9C-%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%A8%D7%90%D7%A9%D7%99%D7%AA.jpg/f_auto"
+ },
+ "t391": {
+  "name": "תיאטרון הבימה",
+  "file": "591548",
+  "from": "https://www.maariv.co.il/culture/theater-art/article-925918",
+  "url": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_881,h_496/591548"
+ },
+ "t392": {
+  "name": "כיכר רבין",
+  "file": "487207",
+  "from": "https://www.maariv.co.il/news/opinions/article-636667",
+  "url": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_881,h_496/487207"
+ },
+ "t393": {
+  "name": "חוף תל אביב",
+  "file": "ררר.jpg",
+  "from": "https://www.tel-aviv.gov.il/Visitors/Beaches/Pages/Beaches.aspx",
+  "url": "https://www.tel-aviv.gov.il/Visitors/Beaches/PublishingImages/%D7%A8%D7%A8%D7%A8.jpg?RenditionID=18"
+ },
+ "t394": {
+  "name": "הגנים הבהאיים",
+  "file": "TerracesBenGurion2.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%94%D7%92%D7%A0%D7%99%D7%9D_%D7%94%D7%91%D7%94%D7%90%D7%99%D7%99%D7%9D",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TerracesBenGurion2.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t395": {
+  "name": "הכרמלית",
+  "file": "הכרמלית-חוזרת.jpg",
+  "from": "https://www.carmelithaifa.co.il/",
+  "url": "https://www.carmelithaifa.co.il/wp-content/uploads/2018/10/%D7%94%D7%9B%D7%A8%D7%9E%D7%9C%D7%99%D7%AA-%D7%97%D7%95%D7%96%D7%A8%D7%AA.jpg"
+ },
+ "t396": {
+  "name": "מצדה",
+  "file": "imgp.php",
+  "from": "https://www.parks.org.il/article/masada-bama/",
+  "url": "https://www.parks.org.il/wp-content/themes/joomi/inc/imgp.php?src=https://static.parks.org.il/wp-content/uploads/2019/08/%D7%9E%D7%A6%D7%93%D7%94-%D7%99%D7%95%D7%91%D7%9C-%D7%93%D7%A7%D7%A1-2-scaled.jpg&width=1176&co=8&q=60"
+ },
+ "t397": {
+  "name": "ים המלח",
+  "file": "deadSEATSR_1_i.jpg",
+  "from": "https://www.mako.co.il/travel-israel/magazine/Article-4a4effc5c400471027.htm",
+  "url": "https://img.mako.co.il/2019/05/06/deadSEATSR_1_i.jpg"
+ },
+ "t398": {
+  "name": "הכנרת",
+  "file": "11.jpg",
+  "from": "https://kineret.org.il/11/",
+  "url": "https://kineret.org.il/wp-content/uploads/2018/01/11.jpg"
+ },
+ "t399": {
+  "name": "החרמון",
+  "file": "WhatsApp_Image_2024_12_30_at_06_45_47.jpeg",
+  "from": "https://tourgolan.org.il/listing/mount_hermon/",
+  "url": "https://ynet-pic1.yit.co.il/picserver6/wcm_upload/2024/12/30/rJg7dXkgIke/WhatsApp_Image_2024_12_30_at_06_45_47.jpeg"
+ },
+ "t400": {
+  "name": "מכתש רמון",
+  "file": "מכתש-רמון-תמונה-ראשית.jpg",
+  "from": "https://www.isrotel.co.il/attractions-events/hangouts/attractions/mizpe-ramon-negev/beresheet/br_ramon/",
+  "url": "https://www.isrotel.co.il/media/22372/%D7%9E%D7%9B%D7%AA%D7%A9-%D7%A8%D7%9E%D7%95%D7%9F-%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%A8%D7%90%D7%A9%D7%99%D7%AA.jpg?width=364&height=270"
+ },
+ "t401": {
+  "name": "שונית האלמוגים באילת",
+  "file": "12-1.jpg",
+  "from": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%97%D7%95%D7%A3-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+  "url": "https://static.parks.org.il/wp-content/uploads/2017/09/12-1.jpg"
+ },
+ "t402": {
+  "name": "ראש הנקרה",
+  "file": "PVL_9059-min.jpg",
+  "from": "https://www.rosh-hanikra.com/",
+  "url": "https://rosh-hanikra.com/wp-content/uploads/2021/06/PVL_9059-min.jpg"
+ },
+ "t403": {
+  "name": "עין גדי",
+  "file": "IMG_2783.jpg",
+  "from": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A2%D7%99%D7%9F-%D7%92%D7%93%D7%99/",
+  "url": "https://static.parks.org.il/wp-content/uploads/2018/03/IMG_2783.jpg"
+ },
+ "t404": {
+  "name": "האמפי בקיסריה",
+  "file": "אמפי-קיסריה-1024x496.jpg",
+  "from": "https://caesarea.com/rec-leisure/%D7%94%D7%95%D7%A4%D7%A2%D7%95%D7%AA-%D7%95%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94/",
+  "url": "https://caesarea.com/wp-content/uploads/2021/08/%D7%90%D7%9E%D7%A4%D7%99-%D7%A7%D7%99%D7%A1%D7%A8%D7%99%D7%94-1024x496.jpg"
+ },
+ "t407": {
+  "name": "חדר אוכל בקיבוץ",
+  "file": "kibbutz-ortal-dining-hall.jpg",
+  "from": "https://www.kibbutzvisit.com/he/listing/%D7%97%D7%93%D7%A8-%D7%90%D7%95%D7%9B%D7%9C-%D7%A7%D7%99%D7%91%D7%95%D7%A5-%D7%90%D7%95%D7%A8%D7%98%D7%9C/",
+  "url": "https://www.kibbutzvisit.com/wp-content/uploads/2020/04/kibbutz-ortal-dining-hall.jpg"
+ },
+ "t408": {
+  "name": "רפת",
+  "file": "FeedingCows.JPG",
+  "from": "https://he.wikipedia.org/wiki/%D7%A8%D7%A4%D7%AA",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FeedingCows.JPG?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t409": {
+  "name": "דוכיפת",
+  "file": "דוכי1.jpg",
+  "from": "https://www.teva.org.il/news/wildlife/23904",
+  "url": "https://www.teva.org.il/app/uploads/2023/02/%D7%93%D7%95%D7%9B%D7%991.jpg"
+ },
+ "t410": {
+  "name": "צבי ישראלי",
+  "file": "Gazella_gazella.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A6%D7%91%D7%99_%D7%90%D7%A8%D7%A5-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gazella_gazella.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t411": {
+  "name": "שבעת המינים",
+  "file": "שבעת-המינים1.jpg",
+  "from": "https://www.sports-center.co.il/seven-species/",
+  "url": "https://www.sports-center.co.il/wp-content/uploads/2020/02/%D7%A9%D7%91%D7%A2%D7%AA-%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%9D1.jpg"
+ },
+ "t412": {
+  "name": "דם המכבים",
+  "file": "250px-מדבקת_דם_המכבים.jpeg",
+  "from": "https://he.wikipedia.org/wiki/%D7%93%D7%9D-%D7%94%D7%9E%D7%9B%D7%91%D7%99%D7%9D_%D7%94%D7%90%D7%93%D7%95%D7%9D",
+  "url": "https://thumb.wikimedia.org/wikipedia/he/thumb/3/3e/%D7%9E%D7%93%D7%91%D7%A7%D7%AA_%D7%93%D7%9D_%D7%94%D7%9E%D7%9B%D7%91%D7%99%D7%9D.jpeg/250px-%D7%9E%D7%93%D7%91%D7%A7%D7%AA_%D7%93%D7%9D_%D7%94%D7%9E%D7%9B%D7%91%D7%99%D7%9D.jpeg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t413": {
+  "name": "נר זיכרון",
+  "file": "HA2042_פמוט_מבטון_אפור_כיתוב_יזכור_בזהב.png",
+  "from": "https://www.gift4soul.co.il/%D7%A0%D7%A8-%D7%96%D7%9B%D7%A8%D7%95%D7%9F-%D7%A4%D7%9E%D7%95%D7%98-%D7%99%D7%96%D7%9B%D7%95%D7%A8-%D7%91%D7%98%D7%95%D7%9F-%D7%9C%D7%A2%D7%99%D7%9C%D7%95%D7%99-%D7%A0%D7%A9%D7%9E%D7%AA-%D7%94%D7%9E%D7%AA-%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%9C%D7%91%D7%97%D7%99%D7%A8%D7%94?srsltid=AYCX9vLoeLkDQ59Fag0y1d80Rs0oNuF3ZA03OFsHCqbR6csjnk9AYqtF",
+  "url": "https://www.gift4soul.co.il/files/catalog/item/thumbsrc/HA2042_%D7%A4%D7%9E%D7%95%D7%98_%D7%9E%D7%91%D7%98%D7%95%D7%9F_%D7%90%D7%A4%D7%95%D7%A8_%D7%9B%D7%99%D7%AA%D7%95%D7%91_%D7%99%D7%96%D7%9B%D7%95%D7%A8_%D7%91%D7%96%D7%94%D7%91.png"
+ },
+ "t414": {
+  "name": "משואה",
+  "file": "847894939881964640360no.jpg",
+  "from": "https://www.ynet.co.il/articles/0,7340,L-5234687,00.html",
+  "url": "https://images1.ynet.co.il/PicServer5/2018/04/18/8478955/847894939881964640360no.jpg"
+ },
+ "t415": {
+  "name": "מטס יום העצמאות",
+  "file": "2021-4-15-imgid-51020_a.jpeg",
+  "from": "https://www.kan.org.il/content/kan-news/local/279151/",
+  "url": "https://www.kan.org.il/media/x5tljuib/2021-4-15-imgid-51020_a.jpeg?width=642&height=361&v=1d97aa13b702970"
+ },
+ "t416": {
+  "name": "זיקוקי יום העצמאות",
+  "file": "YEDIOT.png",
+  "from": "https://beersheva.mynet.co.il/local_news/article/rjsdm11pr5",
+  "url": "https://pic1.yitweb.co.il/picserver/mynet/wcm_upload/2022/04/17/H1CcxXFN5/YEDIOT.png"
+ },
+ "t418": {
+  "name": "קלפי",
+  "file": "e43a76ceaf3b9dba0c498858d42f0170.jpg",
+  "from": "https://www.mzahav.co.il/items/5675801-%D7%AA%D7%99%D7%91%D7%AA-%D7%A7%D7%9C%D7%A4%D7%99-%D7%9E%D7%95%D7%A7%D7%9D-%D7%9B%D7%97%D7%95%D7%9C-%D7%A1%D7%9E%D7%9C-%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94?srsltid=AYCX9vKOc9kRGq1gO-Zt6zlm2LntP6QKnf6z2WIXxTFmlpBknk7768MO",
+  "url": "https://d3m9l0v76dty0.cloudfront.net/system/photos/11492415/original/e43a76ceaf3b9dba0c498858d42f0170.jpg"
+ },
+ "t419": {
+  "name": "בול ישראלי",
+  "file": "Stamp_Israel_1948-3mil_yellow.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%9C%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stamp_Israel_1948-3mil_yellow.jpg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t421": {
+  "name": "שלט כביש ירוק לירושלים",
+  "file": "B19wxjCRlx_0_235_2500_1407_0_x-large.jpg",
+  "from": "https://www.ynet.co.il/news/article/skgz7sk1bx",
+  "url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/28/B19wxjCRlx/B19wxjCRlx_0_235_2500_1407_0_x-large.jpg"
+ },
+ "t422": {
+  "name": "אבן ירושלמית",
+  "file": "אבן-ירושלמית-עתיקה.jpg",
+  "from": "https://www.stones-park.com/%D7%90%D7%91%D7%9F-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%AA/",
+  "url": "https://www.stones-park.com/wp-content/uploads/2016/11/%D7%90%D7%91%D7%9F-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%AA-%D7%A2%D7%AA%D7%99%D7%A7%D7%94.jpg"
+ },
+ "t423": {
+  "name": "בית כנסת",
+  "file": "בית-הכנסת-החורבה-ירושלים-1.jpg",
+  "from": "https://shimur.org/sites/%D7%91%D7%99%D7%AA-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA-%D7%94%D7%97%D7%95%D7%A8%D7%91%D7%94/",
+  "url": "https://shimur.org/wp-content/uploads/2022/09/%D7%91%D7%99%D7%AA-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA-%D7%94%D7%97%D7%95%D7%A8%D7%91%D7%94-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-1.jpg"
+ },
+ "t424": {
+  "name": "ארון קודש",
+  "file": "-דביר-תמונה-ראשית-e1756802983517-682x1024.webp",
+  "from": "https://furniture.lavi.co.il/products/%D7%90%D7%A8%D7%95%D7%9F-%D7%A7%D7%95%D7%93%D7%A9-%D7%93%D7%91%D7%99%D7%A8/",
+  "url": "https://furniture.lavi.co.il/wp-content/uploads/2023/12/-%D7%93%D7%91%D7%99%D7%A8-%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%A8%D7%90%D7%A9%D7%99%D7%AA-e1756802983517-682x1024.webp"
+ },
+ "t425": {
+  "name": "ספר תורה",
+  "file": "Beth_Yaacov_Torah.JPG",
+  "from": "https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Beth_Yaacov_Torah.JPG?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original"
+ },
+ "t426": {
+  "name": "כתר תורה",
+  "file": "KT110-2-1.png",
+  "from": "https://netafim55.com/he/shop/torah-accessories-he/crowns-he/%D7%9B%D7%AA%D7%A8-%D7%AA%D7%95%D7%A8%D7%94-%D7%91%D7%95%D7%A2%D7%95%D7%AA/?srsltid=AYCX9vJGzr3dQyE4_S7RTRjQI9ZECrKlW8hiGUaNB0QMaMeIcfzfjWdd",
+  "url": "https://netafim55.com/wp-content/uploads/2019/03/KT110-2-1.png"
+ },
+ "t427": {
+  "name": "מקווה",
+  "file": "WhatsApp-Image-2025-01-07-at-21.49.08-1.jpeg",
+  "from": "https://www.mikveh.co.il/%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%9E%D7%A7%D7%95%D7%95%D7%94-%D7%A7%D7%A8%D7%99%D7%AA-%D7%91%D7%9F-%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F-%D7%97%D7%95%D7%9C%D7%95%D7%9F/",
+  "url": "https://www.mikveh.co.il/wp-content/uploads/2019/01/WhatsApp-Image-2025-01-07-at-21.49.08-1.jpeg"
+ },
+ "t428": {
+  "name": "שטריימל",
+  "file": "250px-Judeu_ortodoxo_reza_com_um_shtreimel,_Kotel,_Jerusalém.jpg",
+  "from": "https://he.wikipedia.org/wiki/%D7%A9%D7%98%D7%A8%D7%99%D7%99%D7%9E%D7%9C",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Judeu_ortodoxo_reza_com_um_shtreimel%2C_Kotel%2C_Jerusal%C3%A9m.jpg/250px-Judeu_ortodoxo_reza_com_um_shtreimel%2C_Kotel%2C_Jerusal%C3%A9m.jpg?utm_source=he.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+ },
+ "t430": {
+  "name": "אוהל בדואי",
+  "file": "אוהל-גלריה1-1.jpg",
+  "from": "https://www.kfarhanokdim.co.il/%D7%90%D7%95%D7%94%D7%9C%D7%99%D7%9D-%D7%91%D7%93%D7%A8%D7%95%D7%9D/",
+  "url": "https://www.kfarhanokdim.co.il/wp-content/uploads/2016/07/%D7%90%D7%95%D7%94%D7%9C-%D7%92%D7%9C%D7%A8%D7%99%D7%941-1.jpg"
+ },
+ "t431": {
+  "name": "קפה בדואי בפינג'אן",
+  "file": "07726.jpg",
+  "from": "https://www.haaretz.co.il/food/gastronomy/2024-01-23/ty-article-magazine/.premium/0000018d-3059-db77-ad9f-ff7b5b4f0000",
+  "url": "https://img.haarets.co.il/bs/0000018d-305e-dd75-addd-f2ff63740001/ca/51/efe5e19e494e8ec788a51c269ff7/07726.jpg"
+ },
+ "t432": {
+  "name": "גמל במדבר",
+  "file": "unit_8976.jpg",
+  "from": "https://pro.galim.org.il/science/unit/8976",
+  "url": "https://w17.galgalon.me/snunit_catalog/files/snunit_catalog/uploads/filename/unit_8976.jpg"
+ },
+ "t433": {
+  "name": "סוכת מציל",
+  "file": "20220425_093113-scaled.jpg",
+  "from": "https://www.bull-etz.co.il/%D7%A1%D7%95%D7%9B%D7%95%D7%AA-%D7%9E%D7%A6%D7%99%D7%9C/",
+  "url": "https://www.bull-etz.co.il/wp-content/uploads/2023/07/20220425_093113-scaled.jpg"
+ },
+ "t434": {
+  "name": "דגל שחור בחוף הים",
+  "file": "044A0340-960x1280.jpg",
+  "from": "https://www.israelhayom.co.il/news/local/article/16149627",
+  "url": "https://www.israelhayom.co.il/wp-content/uploads/2023/08/08/08/044A0340-960x1280.jpg"
+ },
+ "t435": {
+  "name": "טיילת",
+  "file": "קינדרלנד.jpeg",
+  "from": "https://www.atarim.gov.il/blog/%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%98%D7%99%D7%99%D7%9C%D7%AA-%D7%94%D7%A4%D7%90%D7%A8%D7%A7-%D7%94%D7%97%D7%95%D7%A4%D7%99/",
+  "url": "https://www.atarim.gov.il/wp-content/uploads/2023/11/%D7%A7%D7%99%D7%A0%D7%93%D7%A8%D7%9C%D7%A0%D7%93.jpeg"
+ },
+ "t436": {
+  "name": "קיוסק",
+  "file": "1.jpg",
+  "from": "https://www.mivnecenters.co.il/store/%D7%A7%D7%99%D7%95%D7%A1%D7%A7-%D7%90%D7%A7%D7%A1%D7%A4%D7%A8%D7%A1",
+  "url": "https://www.mivnecenters.co.il/wp-content/uploads/2021/11/1.jpg"
+ },
+ "t437": {
+  "name": "דוכן מיצים",
+  "file": "DDFE7436-3190-8137-072D-A3CAFB0FBFFC.jpg",
+  "from": "https://www.shuktlv.co.il/category/%D7%94%D7%9E%D7%99%D7%A6%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A2%D7%9E%D7%A0%D7%95%D7%90%D7%9C",
+  "url": "https://cdn.exiteme.com/exitetogo/www.shuktlv.co.il/gallery/DDFE7436-3190-8137-072D-A3CAFB0FBFFC.jpg"
+ },
+ "t438": {
+  "name": "דוכן פלאפל",
+  "file": "פלאפל.png",
+  "from": "https://full-moon.co.il/product/%D7%93%D7%95%D7%9B%D7%9F-%D7%A4%D7%9C%D7%90%D7%A4%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99/",
+  "url": "https://full-moon.co.il/wp-content/uploads/2023/11/%D7%A4%D7%9C%D7%90%D7%A4%D7%9C.png"
+ },
+ "t439": {
+  "name": "מכולת",
+  "file": "IMG_0852.jpg",
+  "from": "https://ein-hod.info/rest/yehuda/yehudaheb.htm",
+  "url": "https://ein-hod.info/rest/yehuda/IMG_0852.jpg"
+ },
+ "t440": {
+  "name": "תחנה מרכזית",
+  "file": "shutterstock_1653066394אקלים_qgekx3.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001561875",
+  "url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1624885267/direct/shutterstock_1653066394%D7%90%D7%A7%D7%9C%D7%99%D7%9D_qgekx3.jpg"
+ },
+ "t441": {
+  "name": "מונית שירות",
+  "file": "05483-3.jpg",
+  "from": "https://www.themarker.com/dynamo/cars/2024-04-08/ty-article/.premium/0000018e-bc81-d8b4-a3be-fc8f9c800000",
+  "url": "https://img.haarets.co.il/bs/0000018e-bc8d-d8b4-a3be-fc8fa84a0001/e5/49/1cefb16a47858e379195d0fae96a/05483-3.jpg?precrop=1300,756,x0,y37"
+ },
+ "t442": {
+  "name": "כוס אליהו",
+  "file": "Elijahs-cup-Moscow-Gross.png",
+  "from": "https://judaicaindex.org/he/object/%D7%9B%D7%95%D7%A1-%D7%90%D7%9C%D7%99%D7%94%D7%95/",
+  "url": "https://judaicaindex.org/wp-content/uploads/2021/01/Elijahs-cup-Moscow-Gross.png"
+ },
+ "t443": {
+  "name": "חרוסת",
+  "file": "Yemeni.jpg",
+  "from": "https://www.lichtenstadt.com/2021/03/%D7%A9%D7%99%D7%A9%D7%94-%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99-%D7%97%D7%A8%D7%95%D7%A1%D7%AA-%D7%9E%D7%9B%D7%9C-%D7%94%D7%A2%D7%93%D7%95%D7%AA/",
+  "url": "https://www.lichtenstadt.com/wp-content/uploads/2021/03/Yemeni.jpg"
+ },
+ "t444": {
+  "name": "מרור",
+  "file": "מרור-scaled.jpg",
+  "from": "https://bhl.org.il/%D7%9E%D7%A8%D7%95%D7%A8-%D7%A9%D7%92%D7%93%D7%9C-%D7%91%D7%A2%D7%A6%D7%99%D7%A5-%D7%A9%D7%90%D7%99%D7%A0%D7%95-%D7%A0%D7%A7%D7%95%D7%91-%D7%95%D7%9E%D7%A8%D7%95%D7%A8-%D7%A9%D7%92%D7%93%D7%9C-%D7%91/",
+  "url": "https://bhl.org.il/wp-content/uploads/2023/03/%D7%9E%D7%A8%D7%95%D7%A8-scaled.jpg"
+ },
+ "t448": {
+  "name": "אפיקומן",
+  "file": "9c5224f0-fe57-11ef-85eb-5ad776fc2364.png",
+  "from": "https://mesibalend.co.il/p/%D7%A9%D7%A7%D7%99%D7%AA-%D7%90%D7%A4%D7%99%D7%A7%D7%95%D7%9E%D7%9F-2015/?srsltid=AYCX9vJYrDwFyC80yFpZtNqENMtD0zbFTFprLMRoOaJ49RRdI04MMFTm",
+  "url": "https://mesibalend.co.il/wp-content/uploads/2026/09/9c5224f0-fe57-11ef-85eb-5ad776fc2364.png"
+ },
+ "t454": {
+  "name": "ארבעת המינים",
+  "file": "61A778dgH-L._AC_SL1366.jpg",
+  "from": "https://www.shalhevetlight.com/collections/%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%9D-%D7%9E%D7%A9%D7%9C%D7%95%D7%97?srsltid=AYCX9vLz0evMlxZ8O3QZxoKcwf7yIdviwRPUDvmWsWab6im2VMt7TuiW",
+  "url": "http://www.shalhevetlight.com/cdn/shop/collections/61A778dgH-L._AC_SL1366.jpg?v=1629702253&width=2048"
+ },
+ "t455": {
+  "name": "סכך",
+  "file": "cde766e2a3-2f31-4995-9256-36688c2a486a.jpg",
+  "from": "https://www.shalhevetlight.com/products/%D7%A1%D7%9B%D7%9A-%D7%A7%D7%A0%D7%99-%D7%A1%D7%95%D7%A3?srsltid=AYCX9vIUCy1RyoxVQMWklXmv0t9Z02hZLAw0qic1f-0WSia8tq-ce68G",
+  "url": "https://www.shalhevetlight.com/cdn/shop/products/cde766e2a3-2f31-4995-9256-36688c2a486a.jpg?v=1629658580&width=1170"
+ },
+ "t458": {
+  "name": "הקפות",
+  "file": "5825480180876035467.jpg",
+  "from": "https://www.ynet.co.il/judaism/article/h1hdgmdljg",
+  "url": "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2024/10/24/HkUH5MOlJe/5825480180876035467.jpg"
+ },
+ "t459": {
+  "name": "לביבות",
+  "file": "700-שח-Small2.png",
+  "from": "https://foody.co.il/foody_recipe/%D7%9C%D7%91%D7%99%D7%91%D7%95%D7%AA-%D7%AA%D7%A4%D7%95%D7%97%D7%99-%D7%90%D7%93%D7%9E%D7%94-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%9E%D7%95%D7%A6%D7%A8%D7%9C%D7%94/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2023/12/10101207/700-%D7%A9%D7%97-Small2.png"
+ },
+ "t460": {
+  "name": "דמי חנוכה",
+  "file": "דמי-חנוכה.jpg",
+  "from": "https://www.perlina.co.il/product/%D7%93%D7%9E%D7%99-%D7%97%D7%A0%D7%95%D7%9B%D7%94/",
+  "url": "https://www.perlina.co.il/wp-content/uploads/2025/04/%D7%93%D7%9E%D7%99-%D7%97%D7%A0%D7%95%D7%9B%D7%94.jpg"
+ },
+ "t461": {
+  "name": "כד שמן",
+  "file": "briday_oil_tartcota.jpg",
+  "from": "https://www.briday.co.il/product/%D7%9B%D7%93%D7%99-%D7%A9%D7%9E%D7%9F-%D7%A7%D7%9C%D7%90%D7%A1%D7%99%D7%9D-%D7%97%D7%A8%D7%A1-%D7%97%D7%A0%D7%95%D7%9B%D7%94/?srsltid=AYCX9vJfMiOjpSot0EcBn1NDGfbyTx0gsi_GeJ_h-GXjtluNf3HBJfb1",
+  "url": "https://www.briday.co.il/wp-content/uploads/2020/11/briday_oil_tartcota.jpg"
+ },
+ "t462": {
+  "name": "פירות יבשים",
+  "file": "assorted-dried-fruits-berries-wooden-bowls-top-view-organic-food-background-1.jpg",
+  "from": "https://shokbaldi.co.il/%D7%A4%D7%99%D7%A8%D7%95%D7%AA-%D7%99%D7%91%D7%A9%D7%99%D7%9D-%D7%95%D7%90%D7%92%D7%95%D7%96%D7%99%D7%9D-%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%90%D7%AA%D7%9D-%D7%A6%D7%A8%D7%99%D7%9B%D7%99/",
+  "url": "https://shokbaldi.co.il/wp-content/uploads/2023/12/assorted-dried-fruits-berries-wooden-bowls-top-view-organic-food-background-1.jpg"
+ },
+ "t464": {
+  "name": "מגילת אסתר",
+  "file": "megila1234.jpg",
+  "from": "https://tefillinhebron.com/product/%D7%9E%D7%92%D7%99%D7%9C%D7%AA-%D7%90%D7%A1%D7%AA%D7%A8-%D7%A0%D7%95%D7%A1%D7%97-%D7%A1%D7%A4%D7%A8%D7%93%D7%99-2/?srsltid=AYCX9vJJcEGexcfilA5gN8vdFTcHojPp7B7y7ZfNIrH3j6xWA7dfWxxh",
+  "url": "https://tefillinhebron.com/wp-content/uploads/2025/02/megila1234.jpg"
+ },
+ "t466": {
+  "name": "תפוח אדמה במדורה",
+  "file": "good-appetite-2-2.jpg",
+  "from": "https://www.haaretz.co.il/food/recipes/2024-05-26/ty-article-recipe/0000018f-ae81-df13-a3af-be97f9bb0000",
+  "url": "https://img.haarets.co.il/bs/0000018f-ae86-d043-a39f-affea5ee0001/55/b3/c7f56cc4424295b4dbddf5d41b8b/good-appetite-2-2.jpg"
+ },
+ "t467": {
+  "name": "מופלטה",
+  "file": "281-Custom.jpg",
+  "from": "https://foody.co.il/foody_recipe/%D7%94%D7%9E%D7%95%D7%A4%D7%9C%D7%98%D7%95%D7%AA-%D7%94%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%95%D7%AA-%D7%A9%D7%9C-%D7%99%D7%95%D7%A0%D7%99%D7%AA-%D7%A6%D7%95%D7%A7%D7%A8%D7%9E%D7%9F/",
+  "url": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2019/04/14103526/281-Custom.jpg"
+ },
+ "t468": {
+  "name": "שולחן שבת",
+  "file": "SettingaShabbatTableHowtoCreateaRespectfulWarmandElegantSpace.jpg",
+  "from": "https://vehidarta.com/how-to-set-shabbat-table/?srsltid=AYCX9vICXjjouGJtvLeHVeR81Kg6G-KP3ewXfXTUMul_GFRODcfDFJl6",
+  "url": "https://vehidarta.com/wp-content/uploads/2026/06/SettingaShabbatTableHowtoCreateaRespectfulWarmandElegantSpace.jpg"
+ },
+ "t469": {
+  "name": "הבדלה",
+  "file": "568409",
+  "from": "https://www.maariv.co.il/jewishism/blessingsandprayers/article-757453",
+  "url": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_881,h_496/568409"
+ },
+ "t470": {
+  "name": "שולחן ליל הסדר",
+  "file": "spring_table2.jpg",
+  "from": "https://digitalprint.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%D7%99%D7%9D/%D7%9E%D7%90%D7%A8%D7%96-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-%D7%9C%D7%A4%D7%A1%D7%97/",
+  "url": "https://digitalprint.co.il/wp-content/uploads/spring_table2.jpg"
+ },
+ "t473": {
+  "name": "צפירה",
+  "file": "maxresdefault.jpg",
+  "from": "https://www.youtube.com/watch?v=DcdCZ-W3LKU",
+  "url": "https://i.ytimg.com/vi/DcdCZ-W3LKU/maxresdefault.jpg"
+ },
+ "t474": {
+  "name": "חגיגת בר מצווה",
+  "file": "bar_mitzva-1.jpg",
+  "from": "https://thekotel.org/he/bar_mitzvah/?srsltid=AYCX9vId_fiw5S-ZcczPvZap2jiNPCJ6chcKuggWCVCL79LYOFIP38bv",
+  "url": "https://thekotel.org/wp-content/uploads/2020/01/bar_mitzva-1.jpg"
+ },
+ "t476": {
+  "name": "חינה",
+  "file": "photos-by-lanty-1_j_36G6DbY-unsplash-1024x683.jpg",
+  "from": "https://gluya.org/the-henna-ceremony/",
+  "url": "https://gluya.org/wp-content/uploads/2020/08/photos-by-lanty-1_j_36G6DbY-unsplash-1024x683.jpg"
+ },
+ "t480": {
+  "name": "סובארו ישנה",
+  "file": "cars_1993_impreza.png",
+  "from": "https://subaru.co.il/buy-subaru/subaru-history/",
+  "url": "https://subaru.co.il/wp-content/uploads/2021/06/cars_1993_impreza.png"
+ },
+ "t484": {
+  "name": "אוטובוס אגד ירוק",
+  "file": "905276060.webp",
+  "from": "https://13tv.co.il/item/news/domestic/internal/l300l-905276039/",
+  "url": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1784710694/uploads/2026/905276060.webp"
+ },
+ "t485": {
+  "name": "אוטובוס דן",
+  "file": "800x392.20191112T160953.jpg",
+  "from": "https://www.globes.co.il/news/article.aspx?did=1001310354",
+  "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191112T160953.jpg"
+ },
+ "t498": {
+  "name": "אוטו גלידה",
+  "file": "itiella_car_re_autoOrient_i.jpg",
+  "from": "https://www.mako.co.il/food-restaurants/restaurant-news/Article-78847cbd29b6881026.htm",
+  "url": "https://img.mako.co.il/2023/05/30/itiella_car_re_autoOrient_i.jpg"
+ },
+ "t499": {
+  "name": "טרקטור קיבוצי",
+  "file": "9.jpg",
+  "from": "https://www.kramimt.co.il/shop/tractor-trolley-tour/",
+  "url": "https://www.kramimt.co.il/wp-content/uploads/2016/08/9.jpg"
+ },
+ "t500": {
+  "name": "קלנועית",
+  "file": "WhatsApp-Image-2024-12-27-at-15.39.19-1.jpeg",
+  "from": "https://club-car.co.il/product/mobility-scooter-g1/",
+  "url": "https://club-car.co.il/wp-content/uploads/2025/01/WhatsApp-Image-2024-12-27-at-15.39.19-1.jpeg"
  }
 }
