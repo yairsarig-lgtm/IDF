@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tal picker</title>
+<style>
+:root{
+  --bg:#15171a; --panel:#1f2226; --line:#33373d; --text:#eceef0; --muted:#9aa1a9;
+  --accent:#f0b429; --ok:#3ecf8e; --bad:#ff6b6b; --tile:#0d0e10;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:15px/1.35 system-ui,"Segoe UI",Arial,sans-serif}
+body{display:flex;flex-direction:column}
+header{display:flex;align-items:center;gap:14px;padding:10px 16px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+#name{font-size:34px;font-weight:700;margin:0}
+#counter{color:var(--muted);font-variant-numeric:tabular-nums}
+#status{font-size:13px;padding:2px 8px;border-radius:10px;background:var(--panel);color:var(--muted)}
+#status.kept{color:var(--ok)} #status.replaced{color:var(--accent)}
+.spacer{flex:1}
+select,input,button{font:inherit;color:var(--text);background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:6px 10px}
+button{cursor:pointer} button:hover{border-color:var(--muted)}
+button.primary{background:var(--accent);color:#111;border-color:var(--accent);font-weight:600}
+main{flex:1;display:grid;grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:16px;padding:12px 16px;min-height:0}
+.col{display:flex;flex-direction:column;gap:8px;min-height:0}
+.label{font-size:13px;color:var(--muted)}
+#current{flex:1;min-height:0;background:var(--tile);border:2px solid var(--line);border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+#current img{max-width:100%;max-height:100%;object-fit:contain}
+#current .none{color:var(--muted);font-size:20px}
+#credit{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;direction:ltr;text-align:left}
+.tools{display:flex;gap:8px;flex-wrap:wrap}
+.tools input{flex:1;min-width:140px}
+#grid{flex:1;min-height:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));gap:10px}
+.tile{position:relative;background:var(--tile);border:2px solid var(--line);border-radius:8px;overflow:hidden;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.tile:hover{border-color:var(--accent)}
+.tile img{max-width:100%;max-height:100%;object-fit:contain}
+.tile .num{position:absolute;top:6px;right:6px;background:rgba(0,0,0,.7);color:var(--accent);font-weight:700;border-radius:4px;padding:0 7px}
+.tile .meta{position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,.65);font-size:12px;padding:3px 6px;color:#ddd;direction:ltr;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile .msg{color:var(--muted);padding:10px;text-align:center;font-size:13px}
+.tile.failed{cursor:default;border-style:dashed} .tile.failed .msg{color:var(--bad)}
+.tile.saving::after{content:"שומר…";position:absolute;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;font-size:20px;color:var(--accent)}
+.tile.empty{cursor:default}
+footer{padding:6px 16px;border-top:1px solid var(--line);color:var(--muted);font-size:13px;display:flex;gap:18px;flex-wrap:wrap}
+kbd{background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:12px}
+#toast{position:fixed;bottom:44px;left:50%;transform:translateX(-50%);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 16px;max-width:80vw;white-space:pre-wrap;display:none;direction:ltr;text-align:left;font-size:13px;z-index:5}
+#toast.err{border-color:var(--bad)}
+#done{display:none;flex:1;align-items:center;justify-content:center;font-size:24px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <h1 id="name">…</h1>
+  <span id="counter"></span>
+  <span id="status"></span>
+  <span class="spacer"></span>
+  <label class="label">הצג:
+    <select id="filter">
+      <option value="all">כל הפריטים</option>
+      <option value="nophoto">רק בלי תמונה</option>
+      <option value="force">רק שלוש הכפיות</option>
+      <option value="unreviewed">רק מה שלא עברתי</option>
+    </select>
+  </label>
+  <button id="push">העלאה ל-GitHub</button>
+</header>
+
+<main id="main">
+  <section class="col">
+    <div class="label">current · <kbd>Enter</kbd> להשאיר</div>
+    <div id="current"></div>
+    <div id="credit"></div>
+    <div class="tools">
+      <input id="url" placeholder="להדביק קישור לתמונה…" dir="ltr">
+      <button id="useUrl">להשתמש</button>
+    </div>
+  </section>
+  <section class="col">
+    <div class="tools">
+      <input id="q" placeholder="חיפוש">
+      <button id="go">חיפוש</button>
+      <button id="en" title="">באנגלית</button>
+      <button id="more">עוד 6</button>
+      <button id="google" title="פותח את Google Images בלשונית חדשה. מעתיקים תמונה ומדביקים כאן ב-Ctrl+V">Google ↗</button>
+    </div>
+    <div id="grid"></div>
+    <div class="label" id="searchInfo"></div>
+  </section>
+</main>
+<div id="done">סיימת את הרשימה הזו.</div>
+
+<footer>
+  <span><kbd>Enter</kbd> להשאיר ולהמשיך</span>
+  <span><kbd>1</kbd>–<kbd>6</kbd> או לחיצה: להחליף</span>
+  <span><kbd>←</kbd> אחורה</span>
+  <span><kbd>→</kbd> לדלג בלי לסמן</span>
+  <span><kbd>M</kbd> עוד תוצאות</span>
+  <span><kbd>/</kbd> לחיפוש</span>
+  <span><kbd>Ctrl</kbd>+<kbd>V</kbd> הדבקת תמונה או קישור</span>
+  <span class="spacer"></span>
+  <span id="totals"></span>
+</footer>
+<div id="toast"></div>
+
+<script>
+'use strict';
+const $ = id => document.getElementById(id);
+const PREFETCH_AHEAD = 1;
+const ltr = s => '⁦' + s + '⁩';   // keep "37 / 503" in reading order inside RTL text
+
+const App = {
+  items: [], byId: {}, list: [], pos: 0, pageSize: 6,
+  query: '', page: 0, results: [], photoVersion: {},
+  searches: new Map(),           // "query|page" -> Promise<json>
+  preloaded: new Set(),
+  busy: false,
+
+  async init() {
+    const r = await fetch('/api/items').then(r => r.json());
+    this.items = r.items; this.pageSize = r.pageSize;
+    this.items.forEach(i => this.byId[i.id] = i);
+    let f = 'all';
+    try { f = localStorage.getItem('picker.filter') || 'all'; } catch (e) {}
+    $('filter').value = f;
+    this.applyFilter(true);
+    this.bind();
+  },
+
+  applyFilter(resume) {
+    const f = $('filter').value;
+    try { localStorage.setItem('picker.filter', f); } catch (e) {}
+    const test = {
+      all: () => true,
+      nophoto: i => !i.photo,
+      force: i => i.force,
+      unreviewed: i => !i.reviewed,
+    }[f];
+    this.list = this.items.filter(test).map(i => i.id);
+    // start at the first item not reviewed yet (or the start)
+    const first = this.list.findIndex(id => !this.byId[id].reviewed);
+    this.pos = resume && first >= 0 ? first : 0;
+    this.show();
+  },
+
+  get item() { return this.byId[this.list[this.pos]]; },
+
+  show() {
+    const done = this.pos >= this.list.length;
+    $('main').style.display = done ? 'none' : '';
+    $('done').style.display = done ? 'flex' : 'none';
+    this.updateTotals();
+    if (done) { $('name').textContent = '✓'; $('counter').textContent = ltr(`${this.list.length} / ${this.list.length}`); $('status').textContent = ''; return; }
+    const it = this.item;
+    $('name').textContent = it.name;
+    $('counter').textContent = ltr(`${this.pos + 1} / ${this.list.length}`);
+    const st = $('status');
+    st.className = it.reviewed || '';
+    st.textContent = it.reviewed === 'kept' ? 'נשאר' : it.reviewed === 'replaced' ? 'הוחלף' : 'לא נבדק';
+    st.style.display = '';
+    const cur = $('current');
+    cur.innerHTML = it.photo
+      ? `<img alt="" src="/photo/${it.id}?v=${this.photoVersion[it.id] || 0}">`
+      : '<div class="none">אין תמונה</div>';
+    $('credit').textContent = '';
+    $('url').value = '';
+    $('en').style.display = it.en ? '' : 'none';
+    $('en').title = it.en || '';
+    $('q').value = it.name;
+    this.runSearch(it.name, 0);
+    this.prefetch();
+  },
+
+  updateTotals() {
+    const rev = this.items.filter(i => i.reviewed).length;
+    const rep = this.items.filter(i => i.reviewed === 'replaced').length;
+    const nop = this.items.filter(i => !i.photo).length;
+    $('totals').textContent = `נבדקו ${ltr(`${rev} / ${this.items.length}`)} · הוחלפו ${rep} · בלי תמונה ${nop}`;
+  },
+
+  search(q, page) {
+    const k = q + '|' + page;
+    if (!this.searches.has(k)) {
+      const p = fetch('/api/search?' + new URLSearchParams({ q, page }))
+        .then(r => r.json())
+        .catch(e => ({ error: String(e), results: [] }));
+      this.searches.set(k, p);
+      p.then(r => { if (r.error) this.searches.delete(k); });
+    }
+    return this.searches.get(k);
+  },
+
+  preload(results) {
+    for (const c of results || []) {
+      if (this.preloaded.has(c.key)) continue;
+      this.preloaded.add(c.key);
+      const im = new Image(); im.src = '/api/img?k=' + c.key;
+    }
+  },
+
+  prefetch() {
+    for (let d = 1; d <= PREFETCH_AHEAD; d++) {
+      const id = this.list[this.pos + d];
+      if (!id) break;
+      this.search(this.byId[id].name, 0).then(r => this.preload(r.results));
+    }
+  },
+
+  async runSearch(q, page) {
+    q = q.trim(); if (!q) return;
+    this.query = q; this.page = page;
+    const forId = this.item && this.item.id;
+    const grid = $('grid');
+    grid.innerHTML = Array.from({ length: this.pageSize }, () => '<div class="tile empty"><div class="msg">טוען…</div></div>').join('');
+    $('searchInfo').textContent = '';
+    const r = await this.search(q, page);
+    if (!this.item || this.item.id !== forId || this.query !== q || this.page !== page) return; // moved on
+    this.results = r.results || [];
+    // nothing for the Hebrew name: try the English hint automatically
+    const it = this.item;
+    if (!this.results.length && page === 0 && it.en && q === it.name.trim()) {
+      $('q').value = it.en;
+      return this.runSearch(it.en, 0);
+    }
+    this.renderGrid(r);
+    // warm the next page so "more" is instant too
+    if (r.more) this.search(q, page + 1).then(n => this.preload(n.results));
+  },
+
+  renderGrid(r) {
+    const grid = $('grid');
+    grid.innerHTML = '';
+    for (let i = 0; i < this.pageSize; i++) {
+      const c = this.results[i];
+      const t = document.createElement('div');
+      t.className = 'tile' + (c ? '' : ' empty');
+      if (!c) { t.innerHTML = '<div class="msg">—</div>'; grid.appendChild(t); continue; }
+      const host = (() => { try { return new URL(c.page || c.url).hostname.replace(/^www\./, ''); } catch (e) { return ''; } })();
+      t.innerHTML = `<span class="num">${i + 1}</span><img alt=""><div class="meta"></div>`;
+      const img = t.querySelector('img'), meta = t.querySelector('.meta');
+      meta.textContent = host;
+      meta.title = c.title || '';
+      img.onload = () => { meta.textContent = `${img.naturalWidth}×${img.naturalHeight} · ${host}`; };
+      img.onerror = () => this.markFailed(t, c);
+      img.src = '/api/img?k=' + c.key;
+      t.onclick = () => this.choose(i);
+      grid.appendChild(t);
+    }
+    const prov = r.provider ? ` · ${r.provider}` : '';
+    $('searchInfo').textContent = r.error ? 'שגיאת חיפוש: ' + r.error
+      : (this.results.length ? `"${this.query}" · עמוד ${this.page + 1}${prov}` : `לא נמצאו תוצאות ל"${this.query}"${prov}`);
+    this.preload(this.results);
+  },
+
+  async markFailed(tile, c) {
+    tile.classList.add('failed');
+    let why = '';
+    try { const r = await fetch('/api/img?k=' + c.key); if (!r.ok) why = (await r.json()).error || r.status; } catch (e) { why = String(e); }
+    tile.querySelector('img')?.remove();
+    const m = document.createElement('div'); m.className = 'msg';
+    m.textContent = 'ההורדה נכשלה' + (why ? '\n' + String(why).slice(0, 140) : '');
+    m.style.whiteSpace = 'pre-wrap'; m.style.direction = 'ltr';
+    tile.appendChild(m);
+    tile.onclick = null;
+  },
+
+  next() { this.pos = Math.min(this.pos + 1, this.list.length); this.show(); },
+  back() { if (this.pos > 0) { this.pos--; this.show(); } },
+
+  keep() {
+    const it = this.item; if (!it) return;
+    if (it.reviewed !== 'replaced') it.reviewed = 'kept';
+    fetch('/api/keep', { method: 'POST', body: JSON.stringify({ id: it.id }) })
+      .catch(e => this.toast('Saving review failed: ' + e, true));
+    this.next();
+  },
+
+  async choose(i, url, data) {
+    const it = this.item; if (!it || this.busy) return;
+    const c = url || data ? null : this.results[i];
+    if (!url && !data && !c) return;
+    const tile = c ? $('grid').children[i] : null;
+    if (tile && tile.classList.contains('failed')) return;
+    this.busy = true;
+    tile && tile.classList.add('saving');
+    if (!tile) this.toast('שומר…', false, 20000);
+    try {
+      const [path, body] = data ? ['/api/upload', { id: it.id, data }]
+        : url ? ['/api/choose', { id: it.id, url }] : ['/api/choose', { id: it.id, key: c.key }];
+      const r = await fetch(path, { method: 'POST', body: JSON.stringify(body) }).then(r => r.json());
+      if (!tile) $('toast').style.display = 'none';
+      if (!r.ok) throw new Error(r.error || 'failed');
+      it.photo = true; it.reviewed = 'replaced';
+      this.photoVersion[it.id] = Date.now();
+      if (this.item === it) this.next();
+    } catch (e) {
+      this.toast(String(e.message || e), true);
+      tile && tile.classList.remove('saving');
+    } finally { this.busy = false; }
+  },
+
+  async push() {
+    if (!confirm('לבצע commit לתיקיית images ולדחוף ל-main?')) return;
+    $('push').disabled = true; $('push').textContent = 'מעלה…';
+    try {
+      const r = await fetch('/api/push', { method: 'POST', body: '{}' }).then(r => r.json());
+      this.toast((r.ok ? 'Pushed.\n' : 'Push failed.\n') + (r.log || r.error || ''), !r.ok, r.ok ? 6000 : 15000);
+    } catch (e) { this.toast(String(e), true); }
+    $('push').disabled = false; $('push').textContent = 'העלאה ל-GitHub';
+  },
+
+  toast(msg, err, ms = 6000) {
+    const t = $('toast'); t.textContent = msg; t.className = err ? 'err' : ''; t.style.display = 'block';
+    clearTimeout(this._tt); this._tt = setTimeout(() => t.style.display = 'none', ms);
+  },
+
+  bind() {
+    $('filter').onchange = () => this.applyFilter(true);
+    $('go').onclick = () => this.runSearch($('q').value, 0);
+    $('en').onclick = () => { const e = this.item?.en; if (e) { $('q').value = e; this.runSearch(e, 0); } };
+    $('more').onclick = () => this.runSearch(this.query, this.page + 1);
+    $('useUrl').onclick = () => { const u = $('url').value.trim(); if (u) this.choose(-1, u); };
+    $('push').onclick = () => this.push();
+    $('google').onclick = () => window.open('https://www.google.com/search?tbm=isch&q=' + encodeURIComponent($('q').value.trim() || this.query), '_blank');
+    // Ctrl+V anywhere (outside the text fields): a copied image, or a copied image URL
+    document.addEventListener('paste', e => {
+      const tag = (e.target.tagName || '').toLowerCase();
+      if (tag === 'input' || tag === 'textarea') return;
+      const file = [...(e.clipboardData?.items || [])].find(x => x.kind === 'file' && x.type.startsWith('image/'))?.getAsFile();
+      if (file) {
+        e.preventDefault();
+        const rd = new FileReader();
+        rd.onload = () => this.choose(-1, null, String(rd.result).split(',')[1]);
+        rd.readAsDataURL(file);
+        return;
+      }
+      const text = (e.clipboardData?.getData('text') || '').trim();
+      if (/^https?:\/\//i.test(text)) { e.preventDefault(); this.choose(-1, text); }
+    });
+    $('q').addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); e.stopPropagation(); this.runSearch($('q').value, 0); $('q').blur(); } });
+    $('url').addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); e.stopPropagation(); $('useUrl').click(); } });
+    document.addEventListener('keydown', e => {
+      const tag = (e.target.tagName || '').toLowerCase();
+      if (tag === 'input' || tag === 'select' || tag === 'textarea') { if (e.key === 'Escape') e.target.blur(); return; }
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      if (e.key === 'Enter') { e.preventDefault(); if (!e.repeat) this.keep(); }
+      else if (e.key === 'ArrowLeft') { e.preventDefault(); this.back(); }
+      else if (e.key === 'ArrowRight') { e.preventDefault(); this.next(); }
+      else if (/^[1-6]$/.test(e.key)) { e.preventDefault(); this.choose(+e.key - 1); }
+      else if (e.key === 'm' || e.key === 'M' || e.key === 'צ') { this.runSearch(this.query, this.page + 1); }
+      else if (e.key === '/') { e.preventDefault(); $('q').focus(); $('q').select(); }
+    });
+  },
+};
+App.init();
+</script>
+</body>
+</html>
